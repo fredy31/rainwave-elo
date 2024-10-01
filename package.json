@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "fetch_elections": "node _scripts/fetch_elections.js"
+    "fetch_elections": "node _scripts/fetch_elections.js fetch_elections",
+    "auto_fetch_elections": "node _scripts/fetch_elections.js auto_fetch_elections"
   },
   "author": "",
   "license": "ISC"

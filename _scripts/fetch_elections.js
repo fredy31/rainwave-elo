@@ -62,15 +62,43 @@ async function fetch_elections(){
     }
 
     // Remove dupe elections
-    savedElections = [...new Set(savedElections)];
+    let seenElections = [];
+    let cleanedElections = [];
+    savedElections.forEach((el)=>{
+        if(!seenElections.includes(el.election_id)){
+            seenElections.push(el.election_id);
+            cleanedElections.push(el);
+        }
+    })
 
+    const date = new Date();
+    console.log('Currently saved elections: '+cleanedElections.length+' on '+date.toJSON());
     // Write the cache file.
     try{
-        let write = JSON.stringify(savedElections);
+        let write = JSON.stringify(cleanedElections);
         fs.writeFileSync(__dirname+'/../data/elections.json',write);
     }catch(err){
         console.error(err);
     }
 }
 
-fetch_elections();
+function auto_fetch_elections(){
+    fetch_elections();
+    setInterval(()=>{
+        fetch_elections();
+    },1000*60*5);
+}
+
+//fetch_elections();
+for(var i=0;i<process.argv.length;i++){
+    switch(process.argv[i]){
+        case 'fetch_elections':
+            fetch_elections();
+            break;
+        case 'auto_fetch_elections':
+            auto_fetch_elections();
+            break;
+    }
+}
+module.exports.fetch_elections = fetch_elections
+module.exports.auto_fetch_elections = auto_fetch_elections
