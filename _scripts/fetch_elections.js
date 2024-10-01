@@ -82,6 +82,8 @@ async function fetch_elections(){
     }
 }
 
+// Do an auto run every 5 minutes.
+// Set it and forget it mode to fetch data.
 function auto_fetch_elections(){
     fetch_elections();
     setInterval(()=>{
@@ -89,7 +91,7 @@ function auto_fetch_elections(){
     },1000*60*5);
 }
 
-//fetch_elections();
+// Make it possible to call both functions from the package.json
 for(var i=0;i<process.argv.length;i++){
     switch(process.argv[i]){
         case 'fetch_elections':
