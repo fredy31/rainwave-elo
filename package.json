@@ -1,0 +1,12 @@
+{
+  "name": "rainwave-elo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fetch_elections": "node _scripts/fetch_elections.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
