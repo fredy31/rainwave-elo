@@ -28,6 +28,7 @@ async function fetch_elections(){
             }
             const json = await response.json();
             json.sched_history.forEach((el)=>{
+                //console.log(el);
                 // Checks which person won or lost, depending on the value in entry_votes.
                 // Decided that an election vote via no votes cast doesn't count.
                 let winner = 0;
@@ -48,6 +49,7 @@ async function fetch_elections(){
                 // Push the result to the array
                 if(winner != 0){
                     savedElections.push({
+                        time:el.start,
                         election_id:el.id,
                         winner:winner,
                         losers:losers
