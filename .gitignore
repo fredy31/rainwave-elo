@@ -1,1 +1,6 @@
 config.json
+!.gitignore
+/data/songs/*
+/data/songs/!.gitignore
+/data/elo/*
+/data/elo/!.gitignore
