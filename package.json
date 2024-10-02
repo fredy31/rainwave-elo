@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "fetch_elections": "node _scripts/fetch_elections.js fetch_elections",
     "auto_fetch_elections": "node _scripts/fetch_elections.js auto_fetch_elections",
-    "fetch_elections_day": "node _scripts/fetch_elections_daily.js fetch_elections"
+    "fetch_elections_day": "node _scripts/fetch_elections_daily.js fetch_elections",
+    "calculate_elo": "node _scripts/elo_calculator.js"
   },
   "author": "",
   "license": "ISC"

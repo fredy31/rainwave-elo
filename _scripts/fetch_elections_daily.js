@@ -86,6 +86,7 @@ async function fetch_elections(){
             cleanedElections.push(el);
         }
     })
+    savedElections.sort((a,b)=>a.time-b.time)
 
     const date = new Date();
     console.log('Currently saved elections: '+cleanedElections.length+' on '+date.toJSON());
