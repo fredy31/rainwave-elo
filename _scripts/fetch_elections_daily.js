@@ -48,6 +48,12 @@ async function fetch_elections(){
                             }else{
                                 losers.push(song.id);
                             }
+                            console.log(__dirname+'/../data/songs/'+song.id+'.json');
+                            fs.writeFileSync(__dirname+'/../data/songs/'+song.id+'.json',JSON.stringify({
+                                album:song.album,
+                                artist:song.artist,
+                                title:song.title,
+                            }));
                         })
                         
                         // Push the result to the array
