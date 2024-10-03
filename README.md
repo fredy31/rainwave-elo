@@ -25,3 +25,9 @@ Fetches elections via the daily archive. Then rolls back days until the archive 
 Passes through the elections and calculates elo. Writes in /data/elo to keep track at what elo something is currently.
 
 ### check_missing_songs
+
+Does a lap through all of the cached songs and if some songs referred in elo are missing, fetch their information.
+
+### build_export_csv
+
+With everything now setup, creates a human readable csv with the elos pushed day to day.
