@@ -4,3 +4,5 @@ config.json
 /data/songs/!.gitignore
 /data/elo/*
 /data/elo/!.gitignore
+/node_modules/
+/data/full-results*

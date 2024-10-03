@@ -64,7 +64,8 @@ async function elo_calculator(){
         winnerArray.push({
             time:el.time,
             score:winnerScore
-        })
+        });
+        fs.writeFileSync(__dirname+'/../data/elo/'+el.winner+'.json',JSON.stringify(winnerArray));
         i++;
         console.log(Math.round(i/elections.length*100)+'% ('+i+"/"+elections.length + ') done! ' +el.winner + ' Wins! New score is '+winnerScore);
     });
