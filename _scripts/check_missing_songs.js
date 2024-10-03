@@ -26,7 +26,7 @@ function check_missing_songs(){
         if(i>10){
             setTimeout(()=>{
                 check_missing_songs();
-            },100)
+            },1000)
         }
         console.log(i + ' missing songs found out of '+fine+'!')
     })
@@ -40,16 +40,27 @@ async function fetchInfoOfSong(songID){
         headers: {'Content-Type': 'application/x-www-form-urlencoded'}
     })
     if(!response.ok){
-        throw new Error(`response status: ${response.status}`)
+        console.error('Error on Song ID '+songID);
+        //throw new Error(`response status: ${response.status}`)
     }
     const song = await response.json();
-    let filename = __dirname+'/../data/songs/'+songID+'.json';
-    let trackinfo = {
-        id:song.song.id,
-        album:song.song.albums[0].name,
-        artist:song.song.artists[0].name,
-        title:song.song.title,
-    };
+    let filename = __dirname+'/../data/songs/'+songID+'.json'
+    let trackinfo = '';
+    if(song.id){
+        trackinfo = {
+            id:song.song.id,
+            album:song.song.albums[0].name,
+            artist:song.song.artists[0].name,
+            title:song.song.title,
+        };
+    }else{
+        trackinfo = {
+            id:songID,
+            album:'Invalid song',
+            artist:'Invalid song',
+            title:'Invalid song',
+        };
+    }
     if (!fs.existsSync(filename)) {
         fs.writeFileSync(filename,JSON.stringify(trackinfo));
     }
