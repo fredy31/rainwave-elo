@@ -3,7 +3,7 @@ const fs = require('node:fs');
 const config = require('../config.json');
 
 check_missing_songs();
-async function check_missing_songs(){
+function check_missing_songs(){
     let directory = __dirname+'/../data/elo/';
     var i=0;
     var fine=0;
@@ -15,11 +15,18 @@ async function check_missing_songs(){
             if(file != '.gitignore'){
                 if(!fs.existsSync(directory+'../songs/'+file)){
                     let songID = file.split('.');
-                    fetchInfoOfSong(songID[0]);
+                    if(i<10){
+                        fetchInfoOfSong(songID[0]);
+                    }
                     i++;
                 }
                 fine++;
             }
+        }
+        if(i>10){
+            setTimeout(()=>{
+                check_missing_songs();
+            },100)
         }
         console.log(i + ' missing songs found out of '+fine+'!')
     })
