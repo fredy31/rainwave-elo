@@ -3,10 +3,10 @@ const fs = require('node:fs');
 
 async function fetch_elections(){
     // Get old elections cache file
-    let savedElections = fs.readFileSync(__dirname+'/../data/elections.json');
+    //let savedElections = fs.readFileSync(__dirname+'/../data/elections.json');
 
     // If it screws up, restart from scratch
-    if(!savedElections){
+    /*if(!savedElections){
         savedElections = JSON.parse("[]");
     }else{
         try{
@@ -14,7 +14,7 @@ async function fetch_elections(){
         }catch{
             savedElections = JSON.parse("[]");;
         }
-    }
+    }*/
 
     // Go through all 5 radios
     let stillGivesResults = true;
@@ -36,8 +36,29 @@ async function fetch_elections(){
                     throw new Error(`response status: ${response.status}`)
                 }
                 const json = await response.json();
+                let iSched = 0;
                 if(json.sched_history.length){
                     json.sched_history.forEach((el)=>{
+                        iSched++;
+                        let electionDate = new Date(el.start_actual*1000);
+                        let electionMonth = ('0' + (electionDate.getMonth()+1)).slice(-2)
+                        let savedElections = '';
+                        try{
+                            savedElections = fs.readFileSync(__dirname+'/../data/elections/'+electionDate.getFullYear()+'-'+electionMonth+'.json')
+                        }catch(err){
+                            console.log('New month!')
+                        }
+
+                        // If it screws up, restart from scratch
+                        if(!savedElections){
+                            savedElections = JSON.parse("[]");
+                        }else{
+                            try{
+                                savedElections = JSON.parse(savedElections);
+                            }catch{
+                                savedElections = JSON.parse("[]");;
+                            }
+                        }
                         //console.log(el);
                         // Checks which person won or lost, depending on the value in entry_votes.
                         // Decided that an election vote via no votes cast doesn't count.
@@ -49,14 +70,14 @@ async function fetch_elections(){
                                 losers.push(song.id);
                             }
                             let filename = __dirname+'/../data/songs/'+song.id+'.json';
-                            if (!fs.existsSync(filename)) {
+                            //if (!fs.existsSync(filename)) {
                                 fs.writeFileSync(filename,JSON.stringify({
                                     id:song.id,
                                     album:song.album,
                                     artist:song.artist,
                                     title:song.title,
                                 }));
-                            }
+                            //}
                         })
                         
                         // Push the result to the array
@@ -66,6 +87,25 @@ async function fetch_elections(){
                             winner:winner,
                             losers:losers
                         });
+
+                        // Remove dupe elections
+                        let seenElections = [];
+                        let cleanedElections = [];
+                        savedElections.forEach((el)=>{
+                            if(!seenElections.includes(el.election_id)){
+                                seenElections.push(el.election_id);
+                                cleanedElections.push(el);
+                            }
+                        })
+                        savedElections.sort((a,b)=>a.time-b.time);
+                        
+                        try{
+                            let write = JSON.stringify(cleanedElections);
+                            fs.writeFileSync(__dirname+'/../data/elections/'+electionDate.getFullYear()+'-'+electionMonth+'.json',write);
+                        }catch(err){
+                            console.error(err);
+                        }
+                        console.log('Written : '+Math.round(iSched/json.sched_history.length*100)+'% ('+iSched+'/'+json.sched_history.length+') '+date.toString()+' Station: '+i)
                     })
                 }else{
                     stillGivesResults = false;
@@ -78,7 +118,7 @@ async function fetch_elections(){
     }
 
     // Remove dupe elections
-    let seenElections = [];
+    /*let seenElections = [];
     let cleanedElections = [];
     savedElections.forEach((el)=>{
         if(!seenElections.includes(el.election_id)){
@@ -96,7 +136,7 @@ async function fetch_elections(){
         fs.writeFileSync(__dirname+'/../data/elections.json',write);
     }catch(err){
         console.error(err);
-    }
+    }*/
 }
 
 // Do an auto run every 5 minutes.
