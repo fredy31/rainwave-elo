@@ -42,9 +42,10 @@ async function fetch_elections(){
                         iSched++;
                         let electionDate = new Date(el.start_actual*1000);
                         let electionMonth = ('0' + (electionDate.getMonth()+1)).slice(-2)
+                        let electionDay = ('0' + (electionDate.getDate())).slice(-2)
                         let savedElections = '';
                         try{
-                            savedElections = fs.readFileSync(__dirname+'/../data/elections/'+electionDate.getFullYear()+'-'+electionMonth+'.json')
+                            savedElections = fs.readFileSync(__dirname+'/../data/elections/'+electionDate.getFullYear()+'-'+electionMonth+'-'+electionDay+'.json')
                         }catch(err){
                             console.log('New month!')
                         }
@@ -101,7 +102,7 @@ async function fetch_elections(){
                         
                         try{
                             let write = JSON.stringify(cleanedElections);
-                            fs.writeFileSync(__dirname+'/../data/elections/'+electionDate.getFullYear()+'-'+electionMonth+'.json',write);
+                            fs.writeFileSync(__dirname+'/../data/elections/'+electionDate.getFullYear()+'-'+electionMonth+'-'+electionDay+'.json',write);
                         }catch(err){
                             console.error(err);
                         }
