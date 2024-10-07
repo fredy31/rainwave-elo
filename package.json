@@ -8,7 +8,10 @@
     "fetch_elections_day": "node _scripts/fetch_elections_daily.js fetch_elections",
     "calculate_elo": "node _scripts/elo_calculator.js",
     "check_missing_songs": "node _scripts/check_missing_songs.js",
-    "build_export_csv": "node _scripts/build_export_csv.js",
+    "build_export_csv": "node _scripts/build_export_csv.js endresult",
+    "build_export_csv_daily": "node _scripts/build_export_csv.js daily",
+    "build_export_csv_weekly": "node _scripts/build_export_csv.js weekly",
+    "build_export_csv_monthly": "node _scripts/build_export_csv.js monthly",
     "convert_elections": "node _scripts/convert-to-per-day.js"
   },
   "scripts_archive": {
