@@ -34,5 +34,6 @@ With everything now setup, creates a human readable csv with the elos pushed day
 
 ## TODO
 
-- Save elections by month, to limit filesize.
-- Possibility to get results only by the end result, weekly, monthly.
+- Elo of artist/album? (or go simpler and rank via average ELO for their songs)
+- Fix weekly/monthly results
+- Figure out possibility to automatically put the results into a graph.
