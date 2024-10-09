@@ -27,6 +27,7 @@ elementName,score,nbOfSongs
 "virt (singles)","1072",1
 "Luigi's Mansion: Dark Moon","1072",1
 "System Shock","1072",1
+"Mega Man 3 (PS)","1072",1
 "Atelier Shallie: Alchemists of the Dusk Sea","1072",1
 "FTL: Faster Than Light","1067.5",4
 "Balloon Fight","1063",2
@@ -40,6 +41,7 @@ elementName,score,nbOfSongs
 "Super Final Match Tennis","1063",1
 "Gradius Gaiden","1063",1
 "Cannon Fodder","1063",1
+"Bomb Jack II (C64)","1063",1
 "Magic Johnson's Basketball (ZX Spectrum)","1063",1
 "Tower Of Heaven","1060.75",4
 "Sonic Spinball","1058.5",2
@@ -59,6 +61,7 @@ elementName,score,nbOfSongs
 "Guilty Gear X","1054",1
 "Road Rash","1054",1
 "Lunar: Eternal Blue","1054",1
+"Robocop (CPC)","1054",1
 "Switchball","1054",1
 "UWBW (Singles)","1054",1
 "Yoshi's Island DS","1054",1
@@ -67,7 +70,6 @@ elementName,score,nbOfSongs
 "Assassin's Creed IV: Black Flag","1054",1
 "Draconus","1054",1
 "Space Lobsters","1054",1
-"Mega Man 3 (PS)","1054",1
 "Missile Defense 3-D","1054",1
 "What If This CD...Had Lyrics?","1054",1
 "When It Hits the Fan","1051.75",4
@@ -104,11 +106,9 @@ elementName,score,nbOfSongs
 "Nintendo Wii","1045",1
 "The Ecstasy of Life","1045",1
 "Kyatto Ninden Teyandee","1045",1
-"Bomb Jack II (C64)","1045",1
 "Uncharted 4: A Thief's End","1045",1
 "Puzzle de PON!","1045",1
 "Perfect Selection: Dracula Battle II","1045",1
-"Star Wars","1042",3
 "Cheetahmen II","1042",3
 "Metroid: Zero Mission","1042",3
 "Final Fantasy X Chips","1040.5",2
@@ -119,7 +119,7 @@ elementName,score,nbOfSongs
 "Nekojishi","1040.5",4
 "Animal Crossing: New Leaf","1040.5",2
 "Sonic the Hedgehog: Triple Trouble","1039",3
-"Robowarrior","1039",3
+"Star Wars","1039",3
 "Gears of War 2","1039",3
 "Marble Madness","1037.8",5
 "The Legend of Zelda: Four Swords Adventures","1037.8",5
@@ -127,7 +127,9 @@ elementName,score,nbOfSongs
 "Alisia Dragoon","1037.8",5
 "Space Harrier","1036",5
 "Slalom","1036",2
+"Robocop","1036",4
 "Mario Kart: Double Dash!!","1036",2
+"Robowarrior","1036",3
 "Mega Man Zero 3","1036",5
 "Andorogynus","1036",4
 "Ace 2","1036",1
@@ -143,11 +145,9 @@ elementName,score,nbOfSongs
 "Lotus Turbo Challenge 2","1036",1
 "Hang-On","1036",1
 "Adventures of Lolo 3","1036",1
-"Robocop (CPC)","1036",1
 "Sonic Shuffle","1036",1
 "Tumblepop","1036",1
 "Heretic","1036",1
-"The Square Wave Conspiracy","1036",1
 "Biker Mice from Mars","1036",1
 "Maniacs of Noise","1036",1
 "Anodyne","1036",1
@@ -171,25 +171,28 @@ elementName,score,nbOfSongs
 "SimCity 2000","1033",3
 "The Adventures of Bayou Billy","1032.4",5
 "Bad Joke EP","1031.5",4
-"Robocop","1031.5",4
 "Mega Man X7","1031.5",8
 "Kirby: Canvas Curse","1031.5",2
 "Star Soldier","1031.5",2
 "Pirate Pop Plus","1031.5",4
+"DuckTales: Remastered","1030.857142857143",7
 "The Black Mages","1030.857142857143",7
 "Candy Corn II: The Sequeling","1030",6
 "Castlevania: Dracula X","1030",3
+"Ice Climber","1030",3
 "Earthworm Jim","1030",6
 "Tactics Ogre: Let Us Cling Together (PSP)","1030",3
 "Rockman: Battle & Fighters","1030",3
 "Miracle ★ Oracle","1030",3
+"Bugsnax","1030",6
 "Phantasy Star Sound Collection II","1030",3
 "Ground Zero","1030",3
 "Metroid II: Return of Samus","1030",3
 "Bleed","1028.8",5
 "Disco Elysium","1028.8",5
-"DuckTales: Remastered","1028.2857142857142",7
+"The Goonies II","1028.8",5
 "Killer Instinct (SNES)","1028.2857142857142",7
+"Castlevania: Bloodlines","1028.2857142857142",7
 "Final Fantasy VIII Chips","1027",5
 "Green Beret","1027",4
 "Metal Masters","1027",2
@@ -204,7 +207,6 @@ elementName,score,nbOfSongs
 "Fireball!","1027",4
 "Iridescent","1027",5
 "Pulse: FINAL FANTASY XIV Remix Album","1027",5
-"Bugsnax","1027",6
 "Blades of Steel","1027",2
 "Dragon Quest Monsters II","1027",2
 "Three Years","1027",3
@@ -248,6 +250,7 @@ elementName,score,nbOfSongs
 "Magna Carta","1027",1
 "Sakura Gengaku Ten ~ Fantastic Record of Cherry Blossom","1027",1
 "Napple Tale: Arsia in Daydream","1027",1
+"The Square Wave Conspiracy","1027",1
 "Xenophobe","1027",1
 "Castelian","1027",1
 "Sea-Cat Walkway - Mother Arrange+Original Album","1027",1
@@ -266,30 +269,25 @@ elementName,score,nbOfSongs
 "Gyroscope","1027",1
 "Kirby Super Star","1026.1",10
 "Castlevania: Portrait of Ruin","1025.7142857142858",7
-"Castlevania: Bloodlines","1025.7142857142858",7
 "Ico","1025.5",6
 "Jackal","1025.2",5
 "Final Fantasy IX Chips","1025.2",5
 "Castlevania: Lament of Innocence","1025.2",5
 "Dragon Quest III (SNES)","1025.2",5
 "Touhou Kenbunroku vol.2 ~Last Boss 009: Osoreooki Kamigami no Tawamure~","1025.2",5
-"The Goonies II","1025.2",5
 "Forever Online","1025.2",5
 "Kingdom Hearts 358/2 Days","1025.2",5
 "Diablo","1024.75",4
 "Love Everlasting","1024.75",8
-"The 10nd Law","1024.75",4
 "We Love Katamari","1024.75",4
 "School of Sorcery","1024.75",4
 "Mii Force","1024.75",4
 "Transport Tycoon Deluxe","1024.75",4
 "Half-Life 2","1024",3
 "Zillion 2: The Tri Formation","1024",3
-"Ice Climber","1024",3
 "Null Divide +","1024",3
 "Eschatos","1024",6
 "Fortuna: The Sector X Sessions","1024",3
-"VLAD","1024",3
 "Batman (NES)","1023.625",8
 "Batman: Return of the Joker (NES)","1023.4",5
 "The Elder Scrolls III: Morrowind","1023.4",5
@@ -306,6 +304,7 @@ elementName,score,nbOfSongs
 "Indiana Jones and the Last Crusade","1022.5",6
 "Castlevania: Dawn of Sorrow","1022.5",8
 "Castlevania: The Adventure","1022.5",8
+"The 10nd Law","1022.5",4
 "Ring Fit Adventure","1022.5",4
 "The Power to Destroy Everything","1022.5",2
 "Star Fox Assault","1022.5",4
@@ -346,10 +345,10 @@ elementName,score,nbOfSongs
 "Alex Kidd In Shinobi World","1021",3
 "Uplink","1021",3
 "Gamer Symphony Orchestra Fall 2013","1021",3
+"VLAD","1021",3
 "The Pink Album","1020.7",10
 "Fire Emblem: Three Houses","1020.5714285714286",7
 "Donkey Kong Country: Kong in Concert","1020.25",12
-"Super Mario Bros.","1020.25",16
 "Katamari Forever","1020.25",8
 "Delta","1020.25",4
 "Castlevania: Curse of Darkness","1020.25",4
@@ -364,6 +363,7 @@ elementName,score,nbOfSongs
 "Sonic Adventure Music Experience","1019.8",5
 "OutRun 2","1019.8",5
 "Homestuck","1019.8",5
+"Super Mario Bros.","1019.6875",16
 "Final Doom","1019.5",6
 "Out There (Extended)","1019.5",6
 "Treasure Master","1019.5",6
@@ -380,7 +380,8 @@ elementName,score,nbOfSongs
 "Dr. Mario","1019",9
 "Scott Pilgrim vs. The World: The Game","1018.9",10
 "Metal Gear Solid 2: Sons of Liberty","1018.9",10
-"Super Mario Odyssey","1018.4736842105264",19
+"CHRONO TRIGGER Orchestral Arrangement","1018",8
+"Mega Man Xtreme","1018",9
 "Kirby & the Amazing Mirror","1018",4
 "Pictionary","1018",5
 "Kris Keyser","1018",4
@@ -398,15 +399,18 @@ elementName,score,nbOfSongs
 "The Trance Album","1018",8
 "But Thou Must EP","1018",3
 "DDR Mario Mix","1018",7
+"Nintendo Power GB Memory Flash Cart","1018",2
 "Outer Wilds","1018",5
 "Thunderous Crash","1018",4
 "The Briggs Effect 3","1018",3
 "Bits to the Wall","1018",3
+"Waterworld","1018",3
 "Obligatory Ice Level Day 2010","1018",5
 "Adventure Magic Supreme Journey Music","1018",2
 "Ski or Die","1018",4
 "Super Robot Wars Compact","1018",5
 "Gradius: The Interstellar Assault","1018",4
+"Epoch (missingNo.)","1018",4
 "Witch 'Em Up","1018",2
 "Let's Play Live!","1018",2
 "Wacky Races","1018",7
@@ -476,9 +480,9 @@ elementName,score,nbOfSongs
 "Shadow Skimmer","1018",1
 "The Armageddon Man","1018",1
 "Magnetic Sumo","1018",1
+"Super Mario Odyssey","1017.5263157894736",19
 "Kingdom Hearts Birth by Sleep","1017.1",10
 "Chip 'n Dale: Rescue Rangers","1017.1",10
-"Touhou Gensoukyou: Lotus Land Story","1017.1",10
 "Disgaea 2: Cursed Memories","1017.1",10
 "Gravity Rush","1016.875",8
 "ROCKMAN Utopia","1016.875",8
@@ -487,7 +491,6 @@ elementName,score,nbOfSongs
 "Melody Muncher","1016.7142857142857",7
 "Scions & Sinners: FINAL FANTASY XIV ～ Arrangement Album ～","1016.7142857142857",7
 "Shinra Banshou","1016.7142857142857",7
-"The Legend of Zelda: A Link Between Worlds","1016.5",12
 "The 7th Saga","1016.5",6
 "Intergalactic Redux","1016.5",6
 "Through Time & Space","1016.5",6
@@ -496,22 +499,22 @@ elementName,score,nbOfSongs
 "Fire 'N Ice","1016.2",5
 "Monster Hunter Freedom 2","1016.2",5
 "Presents... The Protomen","1016.2",5
+"Touhou Gensoukyou: Lotus Land Story","1016.2",10
 "Castlevania Chronicles","1016.2",5
 "Katana ZERO","1016.2",5
 "Metal Slug","1016.2",5
 "A Certain Magical Virtual-On","1016.2",5
 "GHOSTS","1016.2",5
-"Mega Man Xtreme","1016",9
 "Turbo OutRun","1016",9
 "Dissidia: Final Fantasy","1016",9
 "Atelier Sophie","1016",9
 "Thunder Force IV (Lightening Force: Quest for the Darkstar)","1016",9
 "Kirby 64: The Crystal Shards","1015.9230769230769",13
 "Apex 2016: I Got Next","1015.75",8
-"CHRONO TRIGGER Orchestral Arrangement","1015.75",8
 "Magician","1015.75",4
 "Wolfenstein 3D","1015.75",4
 "Neo Turf Masters","1015.75",4
+"The Legend of Zelda: A Link Between Worlds","1015.75",12
 "Metroid Fusion","1015.75",4
 "NieR Gestalt & Replicant: Jazz Arrange Version, Vol. 1","1015.75",4
 "Splatterhouse 2","1015.75",4
@@ -519,7 +522,6 @@ elementName,score,nbOfSongs
 "Return of the Obra Dinn","1015.75",4
 "Lemmings (C64)","1015.75",4
 "Sonic the Hedgehog (2006)","1015.75",8
-"Hammerwatch","1015.75",4
 "Trauma Center: Under the Knife","1015.75",4
 "Phantasy Star Sound Collection I","1015.75",4
 "Wolverine","1015.75",4
@@ -532,8 +534,8 @@ elementName,score,nbOfSongs
 "Teenage Mutant Ninja Turtles","1015.5454545454545",11
 "Furi","1015.4285714285714",7
 "More SQ","1015.4285714285714",7
+"Heroes vs. Villains","1015.3",10
 "Super Smash Land","1015.2307692307693",13
-"Gun.Smoke","1015",9
 "R-Type","1015",3
 "Heretic Sinphony","1015",6
 "Deltarune","1015",18
@@ -545,7 +547,6 @@ elementName,score,nbOfSongs
 "Solarbear Daisuki","1015",3
 "Adventure Island","1015",3
 "The Last of Us","1015",3
-"Waterworld","1015",3
 "NES Cult Armageddon","1015",9
 "Weezer - The 8-bit Album","1015",3
 "Wingman 2","1015",3
@@ -559,11 +560,14 @@ elementName,score,nbOfSongs
 "Castlevania II: Simon's Quest","1014.85",20
 "Final Fantasy Legend II","1014.7272727272727",11
 "Grayscale Project","1014.7272727272727",11
+"Final Fantasy V: The Fabled Warriors ~II. WATER~","1014.625",8
 "The Cries of the Planet","1014.625",16
 "Chronology: A Jazz Tribute to Chrono Trigger","1014.625",8
 "Persona Q","1014.625",8
 "Creid (Xenogears)","1014.625",8
+"Super Mario 64","1014.4473684210526",38
 "Portal 2","1014.4",10
+"Ys II","1014.4",10
 "Slay the Spire","1014.4",5
 "Resident Evil 4","1014.4",5
 "Thanks a Million","1014.4",10
@@ -577,18 +581,18 @@ elementName,score,nbOfSongs
 "Ni no Kuni","1014.1428571428571",7
 "Touhou Youyoumu: Perfect Cherry Blossom","1014.1428571428571",7
 "Phoenix Wright 2: Justice for All","1014.1428571428571",7
+"Gun.Smoke","1014",9
 "Eschatos OST N163 Arrangement Project","1014",9
 "Snatcher (MSX)","1014",9
 "VA-11 HALL-A","1014",9
-"Super Mario 64","1013.9736842105264",38
 "Castlevania II: Belmont's Revenge","1013.9090909090909",11
 "DuckTales","1013.7368421052631",19
 "Xenoblade Chronicles","1013.5",18
+"Final Fantasy VII Chips","1013.5",8
 "Bloo Kid","1013.5",6
 "Hany in the Sky","1013.5",4
 "Mario Party","1013.5",4
-"Chiptunez of Destiny","1013.5",10
-"Heroes vs. Villains","1013.5",10
+"Ganbare! Golf Boys","1013.5",6
 "Street Fighter Compilation \"RE:\"MIX Chiptune","1013.5",6
 "Final Fantasy III (PSP)","1013.5",10
 "Final Fantasy XIV: Shadowbringers","1013.5",12
@@ -598,15 +602,13 @@ elementName,score,nbOfSongs
 "The Black Mages III: Darkness and Starlight","1013.5",8
 "Batman: Return of the Joker","1013.5",4
 "Battletoads & Double Dragon","1013.5",4
-"Ys II","1013.5",10
 "Atari-Ska L'Attack","1013.5",6
+"Hammerwatch","1013.5",4
 "Mighty Morphin Power Rangers: The Movie","1013.5",6
-"Final Fantasy VII Remake","1013.5",10
 "CHRONOTORIOUS","1013.5",12
 "Homeworld","1013.5",2
 "Kingdom Hearts Remix","1013.5",2
 "Gentlemen's Swing","1013.5",4
-"Joe & Mac (NES)","1013.5",2
 "Turrican: The Final Fight - Maxi Single","1013.5",2
 "X-Men (Arcade)","1013.5",4
 "Final Fantasy VI Piano Collections","1013.5",4
@@ -616,7 +618,6 @@ elementName,score,nbOfSongs
 "/sing","1013.5",4
 "A Boy and His Blob: Trouble on Blobolonia","1013.5",2
 "Protractor ~Saturnian Go Home~","1013.5",2
-"Epoch (missingNo.)","1013.5",4
 "Legend of Grimrock 2","1013.5",4
 "Timeline EP","1013.5",4
 "Hades","1013.5",4
@@ -628,6 +629,7 @@ elementName,score,nbOfSongs
 "Chrono Cross","1013.2352941176471",51
 "Secret of Mana","1013.2",45
 "Donkey Kong Land","1013.2",15
+"Chronicles of Time","1013.1785714285714",28
 "Distant Worlds: Final Fantasy","1013.0909090909091",11
 "Little Nemo: The Dream Master","1013",9
 "Cafe SQ","1013",9
@@ -640,11 +642,13 @@ elementName,score,nbOfSongs
 "Apollo Justice: Ace Attorney","1012.8571428571429",7
 "Ghost Trick","1012.8571428571429",7
 "Final Fantasy Mystic Quest","1012.75",12
+"Chiptunez of Destiny","1012.6",10
 "Guerrilla War","1012.6",5
 "Klonoa: Door to Phantomile","1012.6",5
 "Love, Post-Dystopia","1012.6",5
 "Dark City","1012.6",5
 "Zone of the Enders","1012.6",5
+"Final Fantasy VII Remake","1012.6",10
 "FX","1012.6",5
 "Owlboy","1012.6",5
 "Smooth McGroove Remixed 2","1012.6",5
@@ -657,12 +661,11 @@ elementName,score,nbOfSongs
 "Psychonauts","1012.6",5
 "MetalHog","1012.6",5
 "Moments Captured","1012.6",5
-"Chronicles of Time","1012.5357142857143",28
 "Ninja Gaiden III: The Ancient Ship of Doom","1012.375",8
-"Final Fantasy V: The Fabled Warriors ~II. WATER~","1012.375",8
 "The Court Sessions","1012.375",8
 "Grandia II","1012.375",8
 "Etrian Odyssey III","1012.375",8
+"Live at Symphony Hall","1012.375",8
 "To Far Away Times Chrono Trigger Chrono Cross Arrangement Album","1012.375",8
 "CHRONO CROSS Orchestral Arrangement","1012.375",8
 "Suikoden Vocal Collection ~La passione commuove la storia~","1012.375",8
@@ -681,26 +684,24 @@ elementName,score,nbOfSongs
 "Gamer Symphony Orchestra Spring 2011","1012",6
 "Bucky O'Hare","1012",9
 "Skygunner","1012",6
-"Catacomb Snatch","1012",3
 "Secret of Mana: Whispers from a Verdant Grove","1012",12
 "MoeNES vol.1: the idol composer's groove","1012",3
 "Game Changer","1012",9
 "Assassin's Creed","1012",3
 "Touhou Eiyashou: Imperishable Night","1012",6
-"Bad Dudes EP","1012",6
 "ROCKMAN Dystopia","1012",6
+"Fate's Delusion","1012",3
 "Zombies Rocked My Neighbors","1012",3
 "Super Mario World 2: Yoshi's Island","1011.8421052631579",19
 "Persona 4","1011.7692307692307",13
 "Mega Man ZX","1011.7692307692307",13
 "Mystic Awakening: Music of Final Fantasy VI","1011.7692307692307",13
 "Final Fantasy IX","1011.7",30
-"Streets of Rage","1011.7",20
 "Stardew Valley","1011.7",10
 "Zelda & Chill","1011.7",10
+"Blaster Master","1011.6470588235294",17
 "Trine 2","1011.5714285714286",7
 "Final Fantasy Type-0","1011.5714285714286",7
-"Suikoden II","1011.5714285714286",14
 "ToeJam & Earl","1011.5714285714286",7
 "Symphonic Memories Concert - music from SQUARE ENIX","1011.5714285714286",7
 "hYMns","1011.5714285714286",7
@@ -714,14 +715,13 @@ elementName,score,nbOfSongs
 "ActRaiser","1011.25",12
 "Ocean Loaders","1011.25",4
 "Sunset Riders","1011.25",4
+"Streets of Rage","1011.25",20
 "Kick Master","1011.25",8
-"Final Fantasy VII Chips","1011.25",8
 "Ghosts'n Goblins","1011.25",4
 "Shadow of the Beast","1011.25",4
 "Mega Man Universe","1011.25",12
 "Kirby and the Forgotten Land","1011.25",12
 "Metal Gear Solid 3: Snake Eater","1011.25",12
-"Nanobeast","1011.25",4
 "A Short Hike","1011.25",4
 "Tetris Plus","1011.25",8
 "Volume 4","1011.25",8
@@ -729,6 +729,7 @@ elementName,score,nbOfSongs
 "Nobunaga's Ambition: Iron Triangle","1011.25",8
 "Incredible Crisis","1011.25",4
 "Planescape Torment","1011.25",4
+"PoPoLoCRoIS Story","1011.25",4
 "Uncharted Waters II: New Horizons","1011.25",4
 "BigBot Audio Drop","1011.25",4
 "American Pixels","1011.25",4
@@ -744,12 +745,13 @@ elementName,score,nbOfSongs
 "Videoball","1011",9
 "Distant Memories Once Lost (Bright Reflections)","1011",9
 "Banjo-Kazooie","1010.9285714285714",14
+"Teenage Mutant Ninja Turtles III: The Manhattan Project","1010.8",15
 "Vampire Variations: A Musical Tribute to Castlevania","1010.8",10
 "Sonic R","1010.8",5
-"Omnia: Original Soundtrack","1010.8",15
 "The Legend of Zelda 25th Anniversary","1010.8",5
 "Muse: An 8 Bit Tribute","1010.8",5
 "Dr. Robotnik's Mean Bean Machine","1010.8",5
+"Golden Sun","1010.8",15
 "Baldur's Gate 3","1010.8",5
 "Advance Wars: Dual Strike","1010.8",10
 "Mega Man X8","1010.8",5
@@ -763,46 +765,44 @@ elementName,score,nbOfSongs
 "Sonic Mania","1010.6875",16
 "Street Fighter X Mega Man","1010.6363636363636",11
 "Unsung Heroes","1010.6363636363636",11
+"The Glory Days","1010.6363636363636",11
 "For Everlasting Peace: 25 Years of Mega Man","1010.5882352941177",17
-"Blaster Master","1010.5882352941177",17
 "Final Fantasy Tactics","1010.5652173913044",23
 "Star Road: Super Mario Reimagined","1010.5",6
+"Metroid Prime","1010.5",24
 "Side Pocket (GB)","1010.5",6
 "Crystalis","1010.5",12
 "Cave Story 3D","1010.5",12
 "New Pokémon Snap","1010.5",6
 "Jet de GO!","1010.5",6
 "Ys: Memories of Celceta","1010.5",12
-"Ganbare! Golf Boys","1010.5",6
 "Piano Collections NieR:Automata","1010.5",6
 "Halo 2","1010.5",6
 "X-Men: Mutant Apocalypse","1010.5",6
 "MAGFest = WIN","1010.5",6
 "Happy Ending After All","1010.5",6
 "Year 2 Complete Collection","1010.5",12
+"Bad Dudes EP","1010.5",6
 "Half-Life 2: Episode Two","1010.5",6
 "F-Zero X Expansion Kit","1010.2857142857143",7
 "BadAss: Boss Themes","1010.2857142857143",14
 "Etrian Odyssey IV","1010.2857142857143",7
 "Monster Hunter 10th Anniversary Compilation Album [Self-cover]","1010.2857142857143",7
 "Pink Sells...","1010.2857142857143",7
-"Breath of Fire IV","1010.2857142857143",7
 "Kingdom Hearts","1010.2857142857143",21
 "Kunoi","1010.2857142857143",7
 "Chicory: A Colorful Tale","1010.2857142857143",7
 "Steins;Gate 8bit","1010.2857142857143",7
-"Golden Sun","1010.2857142857143",14
 "CADENZA -Gyakuten Saiban 1-","1010.2857142857143",7
 "Mamorukun Curse!","1010.2857142857143",7
 "Mario Strikers Charged","1010.2857142857143",7
 "Super Street Fighter II Turbo HD Remix","1010.2413793103449",29
+"Suikoden II","1010.2",15
 "Bravely Default","1010.2",15
 "Tetris","1010.1739130434783",23
 "Ragnarök Online II","1010.125",8
-"Super Mario 64: Portrait of a Plumber","1010.125",16
 "Double Dragon","1010.125",8
 "Double Dragon Neon","1010.125",8
-"Live at Symphony Hall","1010.125",8
 "Sonic the Hedgehog 2 (GG)","1010.125",8
 "BadAss: Boss Themes: Volume III","1010.125",16
 "Lizard","1010.125",8
@@ -817,24 +817,25 @@ elementName,score,nbOfSongs
 "Seiken Densetsu 25th Anniversary Orchestra Concert","1009.9",10
 "Mode Seven: A Jazz Tribute to the SNES","1009.9",10
 "Super Metroid Remastered: An Atmospheric Experience","1009.9",10
-"The Glory Days","1009.9",10
 "Castlevania: Symphony of the Night","1009.8571428571429",21
+"Super Smash Bros. Brawl","1009.8181818181819",44
 "Super Metroid: Relics of the Chozo","1009.8181818181819",11
 "ToeJam & Earl: Back in the Groove!","1009.8181818181819",11
-"Final Fantasy VII Remake, Part 1 - Beneath a Stolen Sky","1009.8181818181819",11
 "Castlevania: Harmony of Despair","1009.8181818181819",11
 "Ar tonelico: Melody of Elemia","1009.8181818181819",11
-"Metroid Prime","1009.75",24
+"Sonic Unleashed","1009.75",12
 "F-Zero GX","1009.75",12
 "OCTOPATH TRAVELER Arrangements Break & Boost","1009.75",12
+"Final Fantasy VIII (20th Anniversary Remix Album)","1009.75",12
 "Squaredance","1009.6923076923077",13
 "Amiga Days - Volume 2","1009.6428571428571",14
 "Sonic 1&2: 8-bit Arrange OST","1009.6428571428571",14
 "BadAss: Paragons & Renegades","1009.6",15
-"Teenage Mutant Ninja Turtles III: The Manhattan Project","1009.6",15
+"Omnia: Original Soundtrack","1009.5625",16
+"Super Mario 64: Portrait of a Plumber","1009.5625",16
+"Super Mario Kart","1009.5294117647059",17
 "Pokémon Diamond/Pearl/Platinum","1009.4736842105264",19
 "Donkey Kong Country Returns","1009.4736842105264",19
-"Super Smash Bros. Brawl","1009.4090909090909",44
 "Chrono Trigger","1009.3068181818181",88
 "Super Mario RPG: Legend of the Seven Stars","1009.3",30
 "The Ultimate Stuntman","1009",4
@@ -845,14 +846,17 @@ elementName,score,nbOfSongs
 "The Elder Scrolls V: Skyrim","1009",4
 "Beyond The End of Time: An Orchestral Tribute to Chrono Trigger","1009",28
 "Etrian Odyssey IV Super Arrange Version","1009",12
+"Mega Man X3","1009",14
 "World Of Goo","1009",6
 "Overlord (Supremacy: Your Will Be Done)","1009",4
 "Sonic the Hedgehog","1009",33
-"Teleroboxer","1009",10
 "The Grand Robot Master Remix Battle 2010","1009",16
+"Breath of Fire IV","1009",7
 "Diablo II","1009",2
+"Mischief Makers Remixed","1009",4
 "The Evolutioning","1009",5
 "Hyrule Warriors","1009",8
+"Final Fantasy VII Remake, Part 1 - Beneath a Stolen Sky","1009",11
 "Persona Music Live Band","1009",8
 "Dicey Dungeons: Reunion","1009",5
 "Wii Sports","1009",5
@@ -861,11 +865,11 @@ elementName,score,nbOfSongs
 "Varia Suite","1009",9
 "Xenosaga Episode I: Der Wille zur Macht","1009",9
 "Ripple Runner Deluxe","1009",7
-"Nintendo Power GB Memory Flash Cart","1009",2
 "Okami Jazz Version","1009",7
 "Miku Hatsune -Project DIVA- F","1009",4
 "Super Mario Maker","1009",6
 "Rivals of Aether","1009",21
+"Nanobeast","1009",4
 "One Must Fall 2097","1009",7
 "Unlock Everything","1009",4
 "Gokinjo Bouken Tai","1009",11
@@ -877,8 +881,8 @@ elementName,score,nbOfSongs
 "Mega Man (Game Gear)","1009",6
 "Intergalactic Dancefloor","1009",4
 "Hyper Duel","1009",5
+"Joe & Mac (NES)","1009",2
 "Vigilante 8","1009",5
-"Another Castle","1009",12
 "FINAL FANTASY TRIBUTE ～THANKS～","1009",12
 "Immune to Silence","1009",8
 "Chikyuu Kaihou Gun ZAS","1009",6
@@ -896,10 +900,11 @@ elementName,score,nbOfSongs
 "Zan Gear","1009",4
 "Stardusk","1009",2
 "Adventures in the Magic Kingdom","1009",3
+"Catacomb Snatch","1009",3
 "3D Pinball: Space Cadet","1009",2
 "Snake Man vs The World","1009",4
 "Sonic Traces","1009",4
-"Octave Theory","1009",2
+"Spark the Electric Jester","1009",11
 "Wii Fit Plus","1009",4
 "Gex 3: Deep Cover Gecko","1009",4
 "Wily & Light no Rockboard: That's Paradise","1009",5
@@ -926,7 +931,6 @@ elementName,score,nbOfSongs
 "Alpha","1009",1
 "Masada Gestalt","1009",1
 "October November December","1009",1
-"Puggsy","1009",1
 "Friday the 13th","1009",1
 "Chaos Legion","1009",1
 "The 7th Guest","1009",1
@@ -952,6 +956,7 @@ elementName,score,nbOfSongs
 "Nostalgic Memories","1009",1
 "Bandai Golf: Challenge Pebble Beach","1009",1
 "Bad Piggies","1009",1
+"Tenjin Kaisen 2: Yomihon Yumegoyomi","1009",1
 "Nodes of Yesod","1009",1
 "Counter-Strike: Global Offensive","1009",1
 "F-Zero GP Legend","1009",1
@@ -971,7 +976,6 @@ elementName,score,nbOfSongs
 "The Legend of Zelda: Oracle of Ages","1008.6785714285714",28
 "MATERIA: Final Fantasy VII Remixed","1008.6666666666666",27
 "SUCCESSOR: Final Fantasy VIII Remixed","1008.64",25
-"Super Mario Kart","1008.4705882352941",17
 "Guilty Gear Xrd","1008.4",15
 "Persona 5","1008.4",15
 "Mega Man Battle Network 3","1008.3571428571429",14
@@ -979,15 +983,13 @@ elementName,score,nbOfSongs
 "A New World: Intimate Music from FINAL FANTASY","1008.3076923076923",13
 "Ys: The Oath in Felghana","1008.3076923076923",13
 "DM DOKURO Presents: Cave Story Arranged","1008.3076923076923",13
-"Sonic Unleashed","1008.25",12
-"Eternal Sonata","1008.25",12
 "Teenage Mutant Ninja Turtles II: The Arcade Game","1008.25",12
+"Another Castle","1008.25",12
 "Shatter","1008.25",12
-"Final Fantasy VIII (20th Anniversary Remix Album)","1008.25",12
 "The Legend of Zelda: Majora's Mask","1008.2058823529412",34
 "Golvellius: Valley of Doom","1008.1818181818181",11
 "Seas of Time: FFVIII Tribute","1008.1818181818181",22
-"Octopath Traveler: Echoes of Eight","1008.0526315789474",19
+"Teleroboxer","1008.1",10
 "SimCity 4","1008",9
 "Sonic: Before the Sequel","1008",9
 "Xenosaga Episode II: Jenseits von Gut und Böse","1008",9
@@ -1007,7 +1009,6 @@ elementName,score,nbOfSongs
 "Dark Cloud 2","1007.7142857142857",14
 "Super Star Soldier","1007.7142857142857",7
 "Mega Man 4","1007.7142857142857",21
-"Mega Man X3","1007.7142857142857",14
 "The Sims 3","1007.7142857142857",7
 "Monster Hunter: World","1007.7142857142857",14
 "Mega Man 5 (PS)","1007.7142857142857",7
@@ -1022,9 +1023,11 @@ elementName,score,nbOfSongs
 "CrossCode","1007.7142857142857",14
 "Super Mario Bros. 3","1007.65",20
 "Final Fantasy VIII","1007.6153846153846",39
+"Eternal Sonata","1007.5",12
 "Tales of VS.","1007.5",6
 "20th Anniversary Rockman 1~6 Rock Arrange Ver.","1007.5",6
 "Made of Metal","1007.5",6
+"The Greatest Video Game Music","1007.5",18
 "chipWINter","1007.5",6
 "Chiptunes = WIN: Volume 1","1007.5",12
 "Calm Your Nerves","1007.5",12
@@ -1037,12 +1040,9 @@ elementName,score,nbOfSongs
 "Super Mario RPG: Window to the Stars","1007.4347826086956",23
 "Legend of Mana","1007.4117647058823",17
 "Cuphead","1007.4117647058823",17
-"Yooka-Laylee and the Impossible Lair: Retro Remix Soundtrack","1007.3928571428571",28
 "Bomber Blue / Gallant Green","1007.3636363636364",11
-"SQ Chips2","1007.3636363636364",11
 "Nice.","1007.3636363636364",11
 "Chiptunes = WIN: Volume 6","1007.3636363636364",11
-"Spark the Electric Jester","1007.3636363636364",11
 "Spectrum of Mana","1007.3333333333334",27
 "Ys VIII: Lacrimosa of Dana","1007.3125",16
 "EIDOLON: Music From Final Fantasy IX","1007.2692307692307",26
@@ -1052,7 +1052,9 @@ elementName,score,nbOfSongs
 "Triggerheart Exelica","1007.2",5
 "Final Fantasy Tactics A2","1007.2",10
 "Astral Chain","1007.2",5
+"Octopath Traveler: Echoes of Eight","1007.2",20
 "Snatcher","1007.2",5
+"Gran Turismo","1007.2",10
 "Super Smash Bros. Melee: Smashing Live","1007.2",10
 "S.C.A.T.","1007.2",5
 "A New Story","1007.2",5
@@ -1061,25 +1063,23 @@ elementName,score,nbOfSongs
 "Mega Man: The Power Battle","1007.2",5
 "Bug Fables","1007.2",5
 "Leg Vacuum","1007.2",5
-"NOW THAT'S WHAT I CALL KULOR!","1007.2",10
 "Freedom Planet","1007.2",20
 "Hot Shots Golf 6","1007.2",5
-"Rabi-Ribi","1007.2",5
 "Our Cerulean Skies","1007.2",10
 "Echochrome","1007.2",5
 "Gunstar Heroes (GEN)","1007.2",5
 "Harmony of Heroes: Final Smash","1007.1052631578947",19
 "Chrono Trigger: Chrono Symphonic","1007.1052631578947",19
 "Final Fantasy: Random Encounter","1007.0714285714286",14
+"Yooka-Laylee and the Impossible Lair: Retro Remix Soundtrack","1007.0714285714286",28
 "Select Start","1007.0714285714286",14
 "Kirby's Adventure","1007",18
-"PAX 07 Live","1007",9
-"Mega Man 3","1007",45
 "THE ANSWER - Armored Core Tribute Album -","1007",9
 "Metal Slug 4","1007",9
 "Mega Man X6","1007",9
 "Transistor","1007",9
 "NieR Orchestral Arrangement Album - Addendum","1007",9
+"Deadbolt","1007",9
 "Tekken 5","1007",9
 "Banjo-Kazooie: Nuts & Bolts","1007",9
 "Cadence of Hyrule","1006.9230769230769",13
@@ -1090,6 +1090,8 @@ elementName,score,nbOfSongs
 "Versus Video Games","1006.9230769230769",13
 "Volume 2","1006.8823529411765",17
 "The Lone Ranger","1006.8823529411765",17
+"Donkey Kong Country: Treetop Tunes","1006.8571428571429",21
+"Mega Man 3","1006.8",45
 "Famicom Tantei Club: Kieta Koukeisha","1006.75",4
 "Splatoon","1006.75",8
 "EvilWezil","1006.75",8
@@ -1101,11 +1103,11 @@ elementName,score,nbOfSongs
 "Club Kong","1006.75",4
 "Sonic CD USA","1006.75",12
 "Super Robot Wars Alpha Gaiden","1006.75",4
+"Inverse Phase (Singles)","1006.75",4
 "The Song Remains the Game","1006.75",4
 "Final Symphony","1006.75",4
 "Alcahest","1006.75",4
 "Etrian Odyssey I & II Live Super Arrange","1006.75",8
-"PoPoLoCRoIS Story","1006.75",4
 "Time Trax","1006.75",4
 "GAIAttack!","1006.75",4
 "Serious Sam 3","1006.75",4
@@ -1119,26 +1121,28 @@ elementName,score,nbOfSongs
 "The Legend of Zelda: A Link to the Past","1006.6",60
 "Grandia","1006.6",15
 "Shantae: Half-Genie Hero","1006.6",15
+"SQ Chips2","1006.5454545454545",11
 "Songs for the Recently Deceased","1006.5454545454545",11
 "Mega Man Battle Network 6","1006.5454545454545",11
-"The Greatest Video Game Music","1006.5",18
 "Atelier Rorona","1006.5",18
 "The Legend of Zelda: Link's Awakening","1006.4883720930233",43
 "The Sonic Stadium Music Adventure 2012 [Discs 7-10]","1006.48",25
 "Retro Remix Revue Vol. 2","1006.4285714285714",7
 "The Best Of Video Game Remix - Level 2","1006.4285714285714",7
+"Ori and the Blind Forest","1006.4285714285714",7
 "Donut Dodo","1006.4285714285714",7
-"Mega Man 10","1006.4285714285714",14
+"Assassin's Creed II","1006.4285714285714",7
 "System of a Master","1006.4285714285714",7
 "Hello World: Adventures in Mushroomland","1006.4285714285714",7
 "Chaos Rings Ω","1006.4285714285714",7
 "Trails in the Sky","1006.4285714285714",7
 "MegaMan 1","1006.4285714285714",7
 "BLUESHIFT","1006.4285714285714",7
+"Sonic the Hedgehog 3","1006.3947368421053",38
 "Einhänder","1006.3",10
 "Unavenged","1006.3",10
 "Motorway","1006.3",10
-"Donkey Kong Country: Treetop Tunes","1006.3",20
+"NOW THAT'S WHAT I CALL KULOR!","1006.3",10
 "Catch This!","1006.2608695652174",23
 "Sonic the Hedgehog: The Sound of Speed","1006.2307692307693",13
 "Faxanadu","1006.2307692307693",13
@@ -1149,9 +1153,11 @@ elementName,score,nbOfSongs
 "VG Rocks","1006.2307692307693",13
 "Lemmings","1006.1875",16
 "The Legend of Zelda: The Minish Cap","1006.1875",16
+"PAX 07 Live","1006",9
 "Ys III: Wanderers from Ys","1006",12
 "The Neverhood","1006",3
 "The Revenge of Shinobi","1006",12
+"Shadow of the Colossus","1006",27
 "Gitaroo Man","1006",9
 "Teenage Mutant Ninja Turtles: Shell Shocked","1006",15
 "Turok: Battle of the Bionosaurs","1006",12
@@ -1169,10 +1175,8 @@ elementName,score,nbOfSongs
 "Monster Hunter 10th Anniversary Orchestra Concert ~Shuryou Ongakusai 2014~","1006",15
 "Perfect Selection Xexex","1006",3
 "Phantasy Star Series 25th Anniversary Concert Sympathy 2013","1006",12
-"Chiptunes From Russia","1006",3
 "Pokémon Mystery Dungeon: Gates to Infinity","1006",6
 "Pizza Tower","1006",6
-"Mother 3","1006",9
 "Raiden III","1006",6
 "Total Pwnage","1006",6
 "The TRIFORCE of BASS","1006",6
@@ -1183,9 +1187,7 @@ elementName,score,nbOfSongs
 "Persona 3: FES","1006",15
 "Mr. Driller","1006",9
 "Diad","1006",6
-"Fate's Delusion","1006",3
 "HeadBangers","1006",3
-"Sonic the Hedgehog 3","1005.921052631579",38
 "Metroid","1005.8846153846154",26
 "The Legend of Zelda","1005.8695652173913",23
 "Final Fantasy VI - World's Requiem","1005.8695652173913",23
@@ -1193,15 +1195,17 @@ elementName,score,nbOfSongs
 "Star Ocean: The Second Story","1005.85",20
 "Versus Video Games 2","1005.8235294117648",17
 "Pokémon X/Y","1005.8235294117648",17
+"Final Fantasy","1005.8064516129032",31
+"Mega Man 10","1005.7857142857143",14
 "Phantasy Star IV: The End of the Millennium","1005.7272727272727",11
 "Super Paper Mario","1005.7272727272727",11
-"GAME: Game & Anime Music Emotions","1005.7272727272727",11
 "Mystical Ninja Starring Goemon","1005.7272727272727",11
 "Guilty Gear XX","1005.7272727272727",11
+"Sonic the Hedgehog Pocket Adventure","1005.6842105263158",19
 "Mario & Zelda: Big Band Live","1005.625",8
 "Power Quest","1005.625",8
-"Abinox","1005.625",8
 "Miracle Warriors: Seal of the Dark Lord","1005.625",8
+"Kirby's Epic Yarn","1005.625",16
 "Mobile Suit Gundam Wing: Endless Duel","1005.625",8
 "Adventures of Mana","1005.625",8
 "Breath of Fire","1005.625",16
@@ -1233,7 +1237,6 @@ elementName,score,nbOfSongs
 "Metroid Prime 3: Corruption","1005.4",10
 "Castlevania: Order of Ecclesia","1005.4",15
 "Yume Penguin Monogatari","1005.4",5
-"The Legend of Zelda: Oracle of Seasons","1005.4",15
 "Abinox II","1005.4",5
 "Tearaway","1005.4",5
 "Super Mario Land","1005.4",25
@@ -1245,7 +1248,6 @@ elementName,score,nbOfSongs
 "Helmarock: Zelda Metal Vol. II","1005.4",5
 "#2","1005.4",5
 "Dragon Quest II","1005.4",5
-"Gran Turismo","1005.4",10
 "The Bugs Bunny Crazy Castle 2","1005.4",5
 "Stay Awhile and Listen","1005.4",10
 "Geometry Wars 2","1005.4",5
@@ -1254,7 +1256,7 @@ elementName,score,nbOfSongs
 "VGM Acapella: Volume 3","1005.4",10
 "BLUENOISE","1005.4",5
 "Teenage Mutant Ninja Turtles: Fall of the Foot Clan","1005.4",5
-"Shadow of the Colossus","1005.3333333333334",27
+"Rabi-Ribi","1005.4",5
 "Cave Story Remix Project","1005.2941176470588",17
 "Ocarina of Time (Super Guitar Bros.)","1005.2941176470588",17
 "Genshin Concert 2021 - Melodies of an Endless Journey","1005.2758620689655",29
@@ -1262,7 +1264,6 @@ elementName,score,nbOfSongs
 "Sonic Symphony","1005.25",24
 "Phantom Brave","1005.25",12
 "Pixel","1005.25",12
-"Final Fantasy","1005.2258064516129",31
 "Final Fantasy VII: Voices of the Lifestream","1005.2258064516129",31
 "Lufia II: Rise of the Sinistrals","1005.1923076923077",26
 "Over the Sky -Final Fantasy XII-","1005.1428571428571",7
@@ -1271,7 +1272,6 @@ elementName,score,nbOfSongs
 "Shantae and the Seven Sirens","1005.1428571428571",7
 "Music EXP","1005.1428571428571",7
 "BACKUP","1005.1428571428571",7
-"Assassin's Creed II","1005.1428571428571",7
 "Street Fighter IV","1005.1428571428571",21
 "Shantae and the Pirate's Curse","1005.1428571428571",21
 "Rogue Legacy","1005.1428571428571",7
@@ -1282,6 +1282,7 @@ elementName,score,nbOfSongs
 "Soulcalibur","1005.1428571428571",7
 "NESteryears","1005.1428571428571",7
 "Tiny Barbarian DX","1005.1136363636364",44
+"Super Smash Bros. for 3DS / Wii U","1005.0769230769231",39
 "BlazBlue: Calamity Trigger","1005.0625",16
 "Harvestella","1005.0625",16
 "God Eater Burst","1005",9
@@ -1289,7 +1290,7 @@ elementName,score,nbOfSongs
 "Super Guitar Bros.","1005",9
 "Kid Icarus","1005",9
 "Atelier Rorona Arrange Tracks","1005",9
-"Deadbolt","1005",9
+"Mother 3","1005",9
 "Uncharted Waters II - New Horizons Arranged","1005",9
 "Pokémon Stadium","1005",9
 "Live At San Pedro Square","1005",9
@@ -1304,6 +1305,7 @@ elementName,score,nbOfSongs
 "The Sonic Stadium Music Album 2011","1004.9090909090909",22
 "Rhythm Thief & the Emperor's Treasure","1004.9090909090909",11
 "Culdcept Saga","1004.9090909090909",11
+"Code of Princess","1004.9090909090909",11
 "Wild Arms: ARMed and DANGerous","1004.8461538461538",39
 "PPPPPPowerup!","1004.8461538461538",13
 "Zelda II: The Adventure of Link","1004.8214285714286",28
@@ -1312,25 +1314,23 @@ elementName,score,nbOfSongs
 "Warriors Orochi 3","1004.7647058823529",17
 "Button Masher","1004.7647058823529",17
 "Banjo Guy Ollie - Vol. 1","1004.7647058823529",17
-"Sonic the Hedgehog Pocket Adventure","1004.7368421052631",19
 "Pokémon Gold/Silver/Crystal","1004.725",40
 "Wild Arms","1004.7142857142857",21
-"Super Smash Bros. for 3DS / Wii U","1004.6153846153846",39
 "Mega Man: Dr Wily's Revenge","1004.5",10
-"Cave Story","1004.5",28
 "Espgaluda II: Black Label","1004.5",10
 "Final Fantasy IV","1004.5",46
 "Plants vs. Zombies","1004.5",14
-"DuckTales 2","1004.5",8
+"2007 GOTO 1986","1004.5",10
+"The 8-Bit Adventure Album","1004.5",20
+"Abinox","1004.5",8
 "Target Renegade (NES)","1004.5",6
 "Street Fighter Alpha 2","1004.5",10
 "Magic Sword","1004.5",6
 "Forest = ВИН!","1004.5",6
 "A Hat in Time","1004.5",10
 "Eijukugo Target 1000 DS","1004.5",6
-"Kirby's Epic Yarn","1004.5",16
+"Plok","1004.5",4
 "Rogue Galaxy Premium Arrange","1004.5",6
-"Tetris (Tengen)","1004.5",4
 "Portals","1004.5",8
 "Pokémon XD: Gale of Darkness","1004.5",4
 "Trails in the Sky the 3rd","1004.5",8
@@ -1338,7 +1338,6 @@ elementName,score,nbOfSongs
 "Wacky Wheels","1004.5",6
 "The Greatest Video Game Music 2","1004.5",14
 "Decades","1004.5",6
-"Beneath The Skin","1004.5",8
 "Choice Nuggets","1004.5",8
 "The NewZealand Story","1004.5",2
 "The Legend of the Mystical Ninja","1004.5",2
@@ -1347,7 +1346,6 @@ elementName,score,nbOfSongs
 "Amiga Days","1004.5",12
 "Escape Goat 2","1004.5",4
 "Weekly Treats: 2015","1004.5",12
-"Mischief Makers Remixed","1004.5",4
 "MENU: An Homage to Game Title Themes","1004.5",28
 "Metroid Piano","1004.5",6
 "Super Smash Bros. Ultimate","1004.5",40
@@ -1356,18 +1354,15 @@ elementName,score,nbOfSongs
 "Gamer Symphony Orchestra Spring 2009","1004.5",2
 "Beer SQ","1004.5",8
 "Pikmin","1004.5",2
-"Contra III: The Alien Wars","1004.5",4
 "Dragon Quest Monsters","1004.5",6
 "From Which Was Wrought...","1004.5",2
 "Mega Man X: Command Mission","1004.5",6
 "Vampire Killer","1004.5",2
 "Crash Bandicoot: Warped","1004.5",4
-"Crash Bandicoot 2: Cortex Strikes Back","1004.5",2
 "Final Fantasy VII: Crisis Core","1004.5",16
 "The Legend of Zelda: Phantom Hourglass","1004.5",10
 "Spindash 3: Sonic the Hedgehog Remixes","1004.5",16
 "Hero Hours Contract","1004.5",4
-"Square Enix - Mellow Minstrel Mix Vol.2","1004.5",10
 "Legend of Heroes V","1004.5",10
 "Wild Arms 3","1004.5",12
 "Heavy Troopa is Ready to Launch!","1004.5",20
@@ -1381,6 +1376,7 @@ elementName,score,nbOfSongs
 "Star Spangled Chips","1004.5",2
 "Tekken 7","1004.5",6
 "Evil Genius","1004.5",4
+"Octave Theory","1004.5",2
 "Lemmings (2006)","1004.5",4
 "Electronica Tunes -FINAL FANTASY Series-","1004.5",8
 "Mappy Kids","1004.5",2
@@ -1388,18 +1384,23 @@ elementName,score,nbOfSongs
 "Worms 3D","1004.5",2
 "Beat Drop","1004.5",2
 "Rollerball","1004.5",2
+"OMEGA: A Tribute to Xenogears","1004.304347826087",23
 "Okami","1004.2857142857143",21
 "Nier","1004.2631578947369",19
 "IWADON: Hiroyuki Iwatsuki Tribute Album","1004.2631578947369",19
 "Mega Man: The Wily Wars","1004.2352941176471",17
-"Hymns of Light and Shadows","1004.2352941176471",17
 "Game & Watch Gallery 4","1004.2",15
+"The Legend of Zelda: Oracle of Seasons","1004.2",15
+"Cave Story","1004.1785714285714",28
+"The Secret of Monkey Island","1004.1538461538462",13
 "The Legend of Zelda: Twilight Princess","1004.1538461538462",39
 "Mega Man Battle Network 5 (GBA)","1004.1538461538462",13
+"Invalid song","1004.1379310344828",435
 "Final Fantasy VII","1004.1142857142858",70
-"Invalid song","1004.1095890410959",438
 "Final Fantasy V","1004.0909090909091",33
 "Pixel Glass","1004.0909090909091",11
+"Battle SQ","1004.0909090909091",11
+"GAME: Game & Anime Music Emotions","1004.0909090909091",11
 "Bitpop? Vol. 1","1004.0909090909091",11
 "ROBOGIRL 2 (Journey the Stars)","1004",18
 "Doom: The Dark Side of Phobos","1004",9
@@ -1419,22 +1420,22 @@ elementName,score,nbOfSongs
 "30XX","1003.8571428571429",14
 "Disgaea: Hour of Darkness","1003.8571428571429",14
 "Bound Together: ReBound","1003.8571428571429",21
-"Ori and the Blind Forest","1003.8571428571429",7
 "EtlanZ Best Collection Series Vol. 16 Ever Green ~Tapestry of Mana and Time~","1003.8571428571429",7
 "Digimon World: Next Order","1003.8571428571429",7
+"Metal Slug 6","1003.8571428571429",7
 "Professor Layton vs. Phoenix Wright: Ace Attorney","1003.8571428571429",14
 "Haven","1003.8571428571429",7
 "Final Fantasy VII - Radiant Melodies","1003.8571428571429",7
 "SQUARE ENIX - Airship Cruise Beats Vol.2","1003.8571428571429",7
 "Final Fantasy XIV Duality ~Arrangement Album~","1003.8571428571429",7
 "Dragon Quest IV (PS)","1003.8571428571429",7
-"Shin Megami Tensei ONLINELIVE2021 ~Ongaku no Kotowari~","1003.7894736842105",19
 "thirteen","1003.75",12
 "Mavericks Of Metal","1003.75",12
 "Journeys: FINAL FANTASY XIV Arrangement Album","1003.75",12
-"Tales of Symphonia","1003.75",12
+"The Legend of Zelda: Ocarina of Time","1003.7317073170732",82
+"Hymns of Light and Shadows","1003.7058823529412",17
+"Chronopolis: Music Inspired by Chrono Cross","1003.6818181818181",22
 "Final Fantasy VI","1003.6195652173913",92
-"The 8-Bit Adventure Album","1003.6",20
 "OneShot","1003.6",5
 "Lufia: The Legend Returns","1003.6",25
 "Radiant Silvergun","1003.6",5
@@ -1443,6 +1444,7 @@ elementName,score,nbOfSongs
 "Diddy Kong Racing: Bootleg Circuit","1003.6",5
 "Gordian Tomb","1003.6",10
 "Das Geheimnis der Happy Hippo-Insel","1003.6",5
+"Klonoa 2: Lunatea's Veil","1003.6",5
 "Selected Videogame-Based Instrumentals","1003.6",10
 "FATE: A Tribute to Majora's Mask","1003.6",25
 "OCTOPATH TRAVELER Break, Boost and Beyond Live!","1003.6",15
@@ -1452,36 +1454,33 @@ elementName,score,nbOfSongs
 "Sol-Feace","1003.6",5
 "Castlevania: Scarlet Night","1003.6",20
 "Within a Deep Forest","1003.6",5
+"Square Enix - Mellow Minstrel Mix Vol.2","1003.6",10
 "Touhou Sangetsusei: Fairy Wars","1003.6",5
-"Level","1003.6",5
 "Black Mesa","1003.6",5
 "EPOCH: A Tribute to Chrono Trigger","1003.6",35
 "Guardia: The X-Strike Sessions","1003.6",5
 "Skipp and Friends","1003.6",5
 "Front Mission 3","1003.6",5
-"OMEGA: A Tribute to Xenogears","1003.5217391304348",23
-"Yoshi's Woolly World","1003.5",18
 "Pokémon Puzzle Challenge","1003.4615384615385",13
 "Giana Sisters: Twisted Dreams","1003.4615384615385",13
 "Famison 8BIT☆iDOLM@STER","1003.4615384615385",13
-"Final Fantasy Legend III","1003.4615384615385",13
 "Skeleton Boomerang","1003.4615384615385",13
 "Hylian Downfall","1003.4137931034483",29
 "FX3","1003.375",8
 "Langrisser II","1003.375",8
 "Valdis Story: Abyssal City","1003.375",8
 "Super Monday Jam 2: Thursday Edition","1003.375",8
-"The Legend of Zelda: Ocarina of Time","1003.375",80
 "Street Fighter 2010: The Final Fight","1003.375",8
+"Beneath The Skin","1003.375",8
 "Mega Man 7","1003.375",8
 "Rare SQ","1003.375",8
 "Part Seven","1003.375",8
 "Risk of Rain","1003.375",8
 "µWIN","1003.375",16
 "Ristar","1003.375",8
-"Return of the Attack of the Legend of Pizzor","1003.375",8
 "Falcom Field Zanmai","1003.375",8
 "Sounds of Sunrise","1003.3157894736842",19
+"Shin Megami Tensei ONLINELIVE2021 ~Ongaku no Kotowari~","1003.3157894736842",19
 "Mega Man II (GB)","1003.2727272727273",11
 "Super Puzzle Platformer Deluxe","1003.2727272727273",11
 "BRA★BRA FINAL FANTASY BRASS de BRAVO 3","1003.2727272727273",11
@@ -1490,11 +1489,8 @@ elementName,score,nbOfSongs
 "Crypt of the NecroDancer: The Synthwave Cuts","1003.2727272727273",11
 "What's Pink and Sucks?","1003.2727272727273",11
 "Beyond the Mist","1003.2727272727273",44
-"Code of Princess","1003.2727272727273",11
 "The Black Mages II: The Skies Above","1003.2727272727273",11
 "Sengoku Basara Battle Heroes","1003.2727272727273",11
-"The Legend of Zelda: Breath of the Wild","1003.2142857142857",28
-"Celeste","1003.2142857142857",14
 "FantomenK (Singles)","1003.2142857142857",14
 "Lunar 2: Eternal Blue Complete","1003.2142857142857",14
 "SOUND WAVES: A Tribute to Ecco the Dolphin","1003.1764705882352",17
@@ -1502,6 +1498,7 @@ elementName,score,nbOfSongs
 "Final Fantasy III","1003.15",20
 "Twilight Symphony","1003.09375",32
 "Tribute Album 64","1003.078947368421",38
+"1-Minute","1003",9
 "Cybernoid II: The Revenge","1003",3
 "Tecmo Bowl","1003",3
 "Zwei!!","1003",6
@@ -1512,9 +1509,11 @@ elementName,score,nbOfSongs
 "Bionic Commando Rearmed","1003",3
 "Bits and Bytes","1003",6
 "Wario Blast: Featuring Bomberman!","1003",6
-"Penguin Adventure","1003",9
+"Yoshi's Woolly World","1003",18
 "Crypt of the NecroDancer: Freestyle Retro","1003",6
 "The Light Corridor","1003",6
+"Chiptunes = WIN: Volume 8","1003",18
+"Chiptunes From Russia","1003",3
 "Lethal League Blaze","1003",3
 "Catch This! Vol. 2: Goldenrod FM","1003",18
 "Ys: The Oath in Felghana Super Arrange Version","1003",9
@@ -1523,8 +1522,8 @@ elementName,score,nbOfSongs
 "The Bouncer","1003",3
 "Calm Everlasting: Music from FINAL FANTASY X","1003",6
 "Mario Tennis: Power Tour","1003",6
+"Tales of Symphonia","1003",12
 "Hyperdimension Neptunia","1003",9
-"Phoenix Wright 5: Dual Destinies","1003",6
 "Berserker","1003",9
 "NES Jams","1003",9
 "We Are ROCK-MEN!","1003",12
@@ -1537,9 +1536,9 @@ elementName,score,nbOfSongs
 "Where Hearts And Minds Collide","1003",3
 "Final Fantasy VI: Balance and Ruin","1002.9302325581396",43
 "Brandish 3: Spirit of Balcan","1002.9032258064516",31
+"The Legend of Zelda: Breath of the Wild","1002.8928571428571",28
 "Video Game Guitar Covers, Vol. 2","1002.8928571428571",28
 "A Cursed Legacy","1002.88",25
-"Chronopolis: Music Inspired by Chrono Cross","1002.8636363636364",22
 "Wario Land: Shake It!","1002.8421052631579",19
 "Super Cartography Bros.","1002.8125",16
 "GoldenEye 007","1002.8125",16
@@ -1547,15 +1546,12 @@ elementName,score,nbOfSongs
 "Bastion","1002.8125",16
 "Pokémon Red/Blue/Yellow","1002.8",45
 "Mario Kart 8","1002.7931034482758",29
-"The Secret of Monkey Island","1002.7692307692307",13
+"Final Fantasy Legend III","1002.7692307692307",13
 "Tropical Paradise - Sound of The Sonic Stadium '15","1002.7692307692307",13
 "Mario Kart 8 Deluxe","1002.7692307692307",13
-"Street Fighter II: The World Warrior","1002.7391304347826",46
 "Metal Gear Solid 4: Guns of the Patriots","1002.7",10
 "Wonder Boy III: The Dragon's Trap","1002.7",10
 "Guilty Gear XX #Reload (Korea)","1002.7",10
-"Over Horizon","1002.7",10
-"2007 GOTO 1986","1002.7",10
 "Tekken Tag Tournament 2","1002.7",10
 "Monster Hunter Swing ~Big Band Jazz Arrange~","1002.7",10
 "Mega Man Xtreme 2","1002.7",10
@@ -1566,19 +1562,20 @@ elementName,score,nbOfSongs
 "Final Fantasy X","1002.5961538461538",52
 "Teenage Mutant Ninja Turtles II: Back from the Sewers","1002.5714285714286",7
 "Doom","1002.5714285714286",7
+"Celeste","1002.5714285714286",14
 "Sega Piano Nocturne","1002.5714285714286",7
 "Soulcalibur II","1002.5714285714286",7
-"Golden Sun: The Lost Age","1002.5714285714286",14
 "*OUTDATED* MegaMan 25th Anniversary","1002.5714285714286",7
 "Dolphin Park","1002.5714285714286",7
-"Atelier Meruru","1002.5714285714286",14
 "Futures Past Due","1002.5714285714286",7
 "DKC Mix't Ape '94","1002.5714285714286",21
 "FINAL FANTASY XIV Orchestral Arrangement Album Vol. 2","1002.5714285714286",7
+"Castle Crashers","1002.5714285714286",14
 "PinkSweets","1002.5714285714286",7
 "Shin Megami Tensei: Devil Summoner: Raidou Kuzunoha vs. The Soulless Army","1002.5714285714286",7
 "OCTOPATH TRAVELER Arrangements Break & Boost -Extend-","1002.5714285714286",7
 "Mega Man 4 (PS)","1002.5714285714286",7
+"Street Fighter II: The World Warrior","1002.5434782608696",46
 "Final Fantasy XI Online","1002.52",25
 "Chiptunes = WIN: Volume 2","1002.5",18
 "Pokémon Mystery Dungeon Red/Blue","1002.4545454545455",22
@@ -1588,15 +1585,17 @@ elementName,score,nbOfSongs
 "Silent Hill","1002.4545454545455",11
 "The Binding of Isaac","1002.4545454545455",11
 "Pokémon Reorchestrated: Double Team!","1002.4545454545455",11
-"Battle SQ","1002.4545454545455",11
 "Castlevania: Aria of Sorrow","1002.4545454545455",11
+"Unreal Tournament","1002.4545454545455",11
 "LOADING READY RUN","1002.4545454545455",11
 "Ys IV: The Dawn of Ys","1002.4545454545455",11
 "Metal Gear Solid","1002.4545454545455",11
 "Final Fantasy Series Acoustic Arrangements","1002.4545454545455",11
 "Samurai Warriors 4","1002.4545454545455",11
+"Video Game Covers","1002.4545454545455",11
 "Shantae","1002.4",15
 "Yggdra Union","1002.3684210526316",19
+"DuckTales 2","1002.25",8
 "Sphere Brain","1002.25",4
 "Bases Loaded (GB)","1002.25",4
 "Grim Fandango","1002.25",8
@@ -1620,12 +1619,12 @@ elementName,score,nbOfSongs
 "Mega Man 6 (PS)","1002.25",8
 "Ragnarok Odyssey Ace","1002.25",4
 "Origin","1002.25",4
+"Contra III: The Alien Wars","1002.25",4
 "I Wish I Were Your Derivative","1002.25",4
 "Spider-Man and the X-Men in Arcade's Revenge","1002.25",4
 "Thunder Force V","1002.25",8
 "The Legend of Heroes: Trails from Zero Super Arrange Version","1002.25",8
 "Hoi","1002.25",4
-"Inverse Phase (Singles)","1002.25",4
 "Christmas NiGHTS into Dreams...","1002.25",4
 "Everquest 2","1002.25",4
 "FAST Racing NEO","1002.25",12
@@ -1634,26 +1633,24 @@ elementName,score,nbOfSongs
 "Geheime Musikbuch: Himitsu no Ongakujou ~Atelier Ryza 2 Special Arrange CD~","1002.0769230769231",13
 "Paper Mario: The Thousand-Year Door","1002.0769230769231",13
 "Infinite Game Music","1002.0769230769231",13
+"Ys IX: Monstrum Nox","1002.0769230769231",13
 "Versus Video Games 3","1002.0454545454545",22
 "Tree of Knowledge ～知恵の樹～","1002",9
 "big wh00p","1002",9
 "Folklore","1002",9
 "Aladdin","1002",9
-"Spiral Knights","1002",9
+"Penguin Adventure","1002",9
 "Piano Collections: Pokémon Red/Blue/Yellow","1002",18
-"Chiptunes = WIN: Volume 8","1002",18
-"Square Enix - Mellow Minstrel Mix","1002",9
 "Sonic Lost World","1002",9
 "Gametunes","1002",9
 "Psychokinetic","1002",18
-"Nights of Azure","1002",9
 "Mr. Driller G","1002",9
-"History Repeating: Blue","1002",9
 "Octopath Traveler","1001.9565217391304",23
+"Golden Sun: The Lost Age","1001.9285714285714",14
 "Rayman","1001.9285714285714",14
+"Atelier Meruru","1001.9285714285714",14
 "Fire Emblem Warriors","1001.9285714285714",14
 "Pokémon Ultra Sun/Moon","1001.9285714285714",14
-"PERSONA SUPER LIVE P-SOUND STREET 2019 ~Q-ban Theater e Youkoso~","1001.9285714285714",28
 "Advance Wars: Days of Ruin","1001.9285714285714",14
 "Super Castlevania IV","1001.8947368421053",19
 "Skies of Arcadia","1001.8947368421053",19
@@ -1676,27 +1673,25 @@ elementName,score,nbOfSongs
 "Kirby's Dream Course","1001.8",10
 "The Dark Hunter (Music from the Metroid Series)","1001.8",5
 "SEGA Arcade Selection: D-RAM Remix","1001.8",5
-"Myst III: Exile","1001.8",5
 "Sword of Mana","1001.8",5
 "Disgaea 3: Absence of Justice","1001.8",5
+"Level","1001.8",5
 "ActioN DooM 2: Urban Brawl","1001.8",5
 "Genshin Impact","1001.8",5
 "P.N.03","1001.8",5
 "Ragnarok Battle Offline","1001.8",5
 "Nibelung Valesti","1001.75",36
 "Sunrise & Moonfall: An Ocarina of Time & Majora's Mask Tribute Album","1001.75",36
-"Mega Man V (GB)","1001.6875",16
-"Super Metroid ~Reserve Tank VARIAtions~","1001.6875",16
 "TALES OF ORCHESTRA CONCERT 2016","1001.6363636363636",11
 "Castlevania Legends","1001.6363636363636",11
 "Cloudbuilt","1001.6363636363636",11
 "Choujin Sentai Jetman","1001.6363636363636",11
 "Fire Emblem Music Collection ~Faith & Engagement~ Piano","1001.6363636363636",11
 "Backwards Compatible","1001.6363636363636",11
-"Unreal Tournament","1001.6363636363636",11
 "GLITCH","1001.6363636363636",11
 "Pokkén Tournament","1001.6363636363636",11
 "The Sound of Kirby Café","1001.6363636363636",11
+"PERSONA SUPER LIVE P-SOUND STREET 2019 ~Q-ban Theater e Youkoso~","1001.6071428571429",28
 "Chiptunes = WIN: Volume 3","1001.5882352941177",17
 "Mega Man 11 Soundtrack Project","1001.5882352941177",17
 "Square Enix Piano Album","1001.5882352941177",34
@@ -1717,28 +1712,29 @@ elementName,score,nbOfSongs
 "Multiplayer 3: Wave","1001.5",24
 "Umineko: When They Cry","1001.5",12
 "Baten Kaitos","1001.5",12
+"Phoenix Wright 5: Dual Destinies","1001.5",6
 "Professor Layton and the Diabolical Box","1001.5",6
 "Speeding Towards Adventures: 25 Years of Sonic the Hedgehog","1001.421052631579",19
 "The Legend of Nayuta: Boundless Trails","1001.3846153846154",13
 "Songs of the Sirens: Link's Awakening ReMixed","1001.3846153846154",13
 "Retrocovered","1001.3846153846154",13
 "The Coffee Zone","1001.3846153846154",13
-"Let's Tap","1001.3846153846154",13
 "We Are ROCK-MEN! 2","1001.3846153846154",13
+"Sonic & Knuckles","1001.3333333333334",27
 "Reawakening","1001.2857142857143",7
 "River City Girls","1001.2857142857143",21
 "Mega Man X Jazz Arrange","1001.2857142857143",7
 "The Legend of Zelda: Skyward Sword","1001.2857142857143",21
 "Phoenix Wright 6: Spirit of Justice","1001.2857142857143",7
-"Metal Slug 6","1001.2857142857143",7
 "Ethereal Arrows","1001.2857142857143",7
 "Sonic the Hedgehog (GG)","1001.2857142857143",7
+"Keitai Denjuu Telefang","1001.2857142857143",7
 "Fighting EX Layer","1001.2857142857143",7
 "Donkey Kong Remixed","1001.2857142857143",7
 "Sonic 3D Blast (SAT)","1001.2857142857143",14
 "Valkyrie Profile Arrange","1001.2857142857143",7
 "Power Supply","1001.2857142857143",7
-"Castle Crashers","1001.2857142857143",14
+"Star Ocean The Second Story Fantasy Megamix","1001.2857142857143",7
 "The Computer Always Cheats","1001.2857142857143",7
 "Super Street Fighter II Turbo: Blood on the Asphalt","1001.2",15
 "Dark Cloud","1001.2",15
@@ -1748,24 +1744,30 @@ elementName,score,nbOfSongs
 "Resident Evil 2","1001.125",8
 "Touhou Hisouten: Scarlet Weather Rhapsody","1001.125",8
 "Batman (GB)","1001.125",8
+"Mega Man V (GB)","1001.125",16
 "Danganronpa","1001.125",8
 "Bean's Quest","1001.125",8
 "NiGHTS: Journey of Dreams","1001.125",8
+"Super Metroid ~Reserve Tank VARIAtions~","1001.125",16
 "Guacamelee!","1001.125",8
 "Power Stone","1001.125",8
+"Return of the Attack of the Legend of Pizzor","1001.125",8
+"Pokémon HeartGold/SoulSilver","1001.08",25
 "The Sonic Stadium Music Adventure 2012 [Discs 1-3]","1001.08",25
 "Ecco: The Tides of Time","1001.0588235294117",17
 "World of Warcraft","1001.0588235294117",17
-"SaGa Frontier","1001",18
-"1-Minute","1001",9
 "Equilibrium","1001",9
+"Phantasy Star","1001",9
 "Wario Land 3","1001",9
 "Mega Man 2: The Power Fighters","1001",9
+"Spiral Knights","1001",9
 "Ace Combat 7: Skies Unknown","1001",9
+"Square Enix - Mellow Minstrel Mix","1001",9
 "Arc Rise Fantasia","1001",9
 "Miles Edgeworth Investigations 2","1001",9
 "Shovel Knight: Dig It!","1001",9
 "Star Ocean: Till the End of Time Arrange Album","1001",9
+"Nights of Azure","1001",9
 "Star Fox Adventures","1001",9
 "Sonic II Remastered","1001",9
 "Mega Man IV (GB)","1000.9473684210526",19
@@ -1774,12 +1776,12 @@ elementName,score,nbOfSongs
 "Donkey Kong Country: Tropical Freeze","1000.9473684210526",19
 "Top Gear","1000.9",10
 "Suikoden III","1000.9",10
+"Over Horizon","1000.9",10
 "Songs from a Nightmare","1000.9",20
 "Piano Collections: Chrono Trigger","1000.9",10
 "Elebits","1000.9",10
-"Dynamite Headdy: Secret Bonus Point","1000.9",10
 "Dragon Quest IV Symphonic","1000.9",10
-"Soul Hackers 25th Anniversary Music Album","1000.9",20
+"Wangan Midnight Maximum Tune 4","1000.9",10
 "Landstalker: The Treasures of King Nole","1000.8571428571429",21
 "Bomberman '93","1000.8181818181819",11
 "Sonic 3D Blast (GEN)","1000.8181818181819",11
@@ -1789,32 +1791,32 @@ elementName,score,nbOfSongs
 "SQUARE ENIX JAZZ -CHRONO TRIGGER-","1000.8181818181819",11
 "Cosmic Star Heroine","1000.8181818181819",11
 "Tales of Series Battle Arrange Tracks","1000.8181818181819",11
-"Video Game Covers","1000.8181818181819",11
 "Castlevania III: Dracula's Curse","1000.75",24
 "Bloody Wolf","1000.75",12
 "Mega Man & Bass","1000.75",12
 "Super VG Christmas Party","1000.75",36
 "Etrian Odyssey Untold: The Millennium Girl","1000.75",12
 "Super Mega Zero","1000.75",12
+"Sonicesque, Vol. IV","1000.75",12
 "Sam & Max Save The World","1000.6923076923077",13
+"Pokémon Omega Ruby & Alpha Sapphire","1000.6923076923077",13
 "Suikoden Piano Collection ~Avertunerio Antes Lance Mao~","1000.6923076923077",13
 "Wild Arms 2","1000.6923076923077",13
+"Let's Tap","1000.6923076923077",13
 "Croc: Legend of the Gobbos","1000.6923076923077",13
-"Sonic & Knuckles","1000.6666666666666",27
 "Ballads of Hyrule","1000.6428571428571",14
 "Volume 1","1000.6428571428571",14
 "Teenage Mutant Ninja Turtles: Tournament Fighters (SNES)","1000.6428571428571",14
 "Spindash","1000.6428571428571",14
-"Street Fighter V","1000.6",15
-"Final Fantasy XIV Chill Arrangement Album: Sanctuary's Heart","1000.6",15
 "Atelier Ayesha","1000.6",15
 "The Great Tale of the Little Ones","1000.5142857142857",35
+"SaGa Frontier","1000.5",18
 "Project Destati: LIGHT","1000.5",18
 "STAR OCEAN Live Collection 2018","1000.5",18
+"Soul Hackers 25th Anniversary Music Album","1000.45",20
 "Versus Video Games 4","1000.4285714285714",21
 "Super Smash Bros. Melee","1000.4090909090909",22
 "Grounseed","1000.375",24
-"Pokémon HeartGold/SoulSilver","1000.36",25
 "Final Fantasy IX: Worlds Apart","1000.2368421052631",38
 "Luigi's Mansion","1000",4
 "Dust: An Elysian Tail","1000",12
@@ -1827,17 +1829,14 @@ elementName,score,nbOfSongs
 "Batman Returns","1000",9
 "Power Blade","1000",13
 "Chrono Cinematica: A Symphonic Tribute","1000",14
-"Age of Wonders II","1000",5
 "Mario Kart DS","1000",10
 "F-Zero","1000",22
 "Atelier Iris: Eternal Mana","1000",13
-"Star Control II: The Ur-Quan Masters","1000",4
 "Final Fantasy V: The Fabled Warriors ~I. WIND~","1000",8
 "Chill SQ","1000",7
 "Year 3 Complete Collection","1000",13
 "The Legend of Zelda (Cory Johnson)","1000",15
 "Bugs Bunny in Crazy Castle 4","1000",6
-"Okami Lounge Version","1000",6
 "Snake Pass","1000",5
 "Dark Cloud 2 Premium Arrange","1000",8
 "Policenauts","1000",5
@@ -1850,10 +1849,10 @@ elementName,score,nbOfSongs
 "Music System 2","1000",11
 "Ragnarök Online : Hybridism","1000",8
 "Mitsume ga Tooru","1000",10
+"Tetris (Tengen)","1000",4
 "The Smurfs (NES)","1000",6
 "Mother","1000",17
 "Descent II","1000",2
-"Klonoa 2: Lunatea's Veil","1000",5
 "Company of Heroes","1000",4
 "The Final Fantasy Legend","1000",5
 "Golden Axe II","1000",3
@@ -1865,8 +1864,6 @@ elementName,score,nbOfSongs
 "Year 3 (insaneintherainmusic)","1000",15
 "Dungeonmans","1000",12
 "Perfect Selection Snatcher Battle","1000",7
-"Plok","1000",4
-"Silent Hill 3","1000",7
 "Live A Live","1000",13
 "Pokémon Mystery Dungeon Time/Darkness/Sky","1000",16
 "Miles Edgeworth Investigations","1000",7
@@ -1874,23 +1871,23 @@ elementName,score,nbOfSongs
 "Dustforce","1000",7
 "Expansion Pack","1000",4
 "NESkimo Battle: Perfect Selection","1000",16
+"Dynamite Headdy: Secret Bonus Point","1000",10
 "Kirby's Dream Land 3","1000",7
 "DREAMERS ~A Tribute to Koji Kondo and Nobuo Uematsu~","1000",12
 "Drift City","1000",7
 "Medarot","1000",8
 "Chaos World","1000",6
-"Shining Force CD","1000",5
 "The Family Pewter EP","1000",3
 "I Set My Pixels On Fire - Bubu!","1000",13
 "Eat People 2","1000",9
 "The Legend of Zelda -Ocarina of Time- / Re-Arranged Album","1000",8
-"Year 1 Complete Collection","1000",17
 "Danse Macabre 3","1000",4
 "A.R.E.S.: Extinction Agenda","1000",8
 "Splatterhouse","1000",4
 "Star Ocean: Till the End of Time","1000",18
 "Metal Gear Red Disc Compilation","1000",2
 "Chiptunes = WIN: Volume 5","1000",24
+"Crash Bandicoot 2: Cortex Strikes Back","1000",2
 "Disgaea Arrange Collection ~Dark label~","1000",6
 "Zero Divide 2: The Secret Wish","1000",5
 "Streets of Rogue","1000",4
@@ -1900,6 +1897,8 @@ elementName,score,nbOfSongs
 "Nebs 'n Debs","1000",4
 "7 Billion Humans","1000",7
 "Ragnarok Odyssey","1000",5
+"Final Fantasy XIV Chill Arrangement Album: Sanctuary's Heart","1000",15
+"Myst III: Exile","1000",5
 "BlazBlue: Cross Tag Battle","1000",3
 "Gradius V","1000",5
 "The Seventh Seal","1000",7
@@ -1908,16 +1907,12 @@ elementName,score,nbOfSongs
 "Beware The Invasion","1000",16
 "Impostor Nostalgia","1000",16
 "Atelier Iris ETERNAL MANA Arranged Tracks DECEITFUL WINGS","1000",9
-"Final Fantasy XII - Piano OST","1000",19
-"Sidology","1000",2
 "Dead Pixels","1000",12
-"After Burner (SMS)","1000",5
 "Shining Force EXA","1000",8
 "The Smurfs","1000",8
 "Control","1000",3
 "Menagerie","1000",5
 "9-bit Blitzkrieg","1000",5
-"Who Framed Roger Rabbit","1000",5
 "Mach Rider","1000",2
 "Pokémon Reorchestrated: Kanto Symphony","1000",26
 "Gamer Symphony Orchestra Spring 2013","1000",4
@@ -1933,11 +1928,11 @@ elementName,score,nbOfSongs
 "Booster Logic","1000",2
 "Blaze Union","1000",15
 "RosenkreuzStilette","1000",12
+"History Repeating: Blue","1000",9
 "Altered Bit","1000",6
 "Panzer Dragoon Orta","1000",6
 "Balance","1000",4
 "Arcade","1000",2
-"Thai Guy","1000",6
 "Passcode: Soul of the Traveler","1000",2
 "Ego Depletion","1000",3
 "Back to the Future: The Game","1000",2
@@ -1961,6 +1956,7 @@ elementName,score,nbOfSongs
 "MOON8","1000",1
 "Clu Clu Land","1000",1
 "MilkSnake","1000",1
+"Puggsy","1000",1
 "Pilotwings","1000",1
 "Dennis","1000",1
 "Panzer Dragoon II Zwei","1000",1
@@ -1972,6 +1968,7 @@ elementName,score,nbOfSongs
 "Guardian Angel","1000",1
 "Monster Maker: Yami no Ryuukishi","1000",1
 "Die Katze von Schrödinger","1000",1
+"Paradox Lost","1000",1
 "Warframe","1000",1
 "Quest for Glory: Shadows of Darkness","1000",1
 "Tokkyū Shirei Solbrain","1000",1
@@ -1979,6 +1976,7 @@ elementName,score,nbOfSongs
 "Zelda: The Wand of Gamelon","1000",1
 "Puyo Puyo","1000",1
 "Altered Space: A 3-D Alien Adventure","1000",1
+"Twin Cobra","1000",1
 "NO RESTRAINT","1000",1
 "Nicky Boom","1000",1
 "A Nightmare on Elm Street","1000",1
@@ -1990,50 +1988,48 @@ elementName,score,nbOfSongs
 "Xenogears","999.8235294117648",51
 "Mega Man 9","999.6666666666666",27
 "Seiken Densetsu 3","999.6666666666666",27
-"Arcadia Legends","999.560975609756",41
-"Weekly Treats: 2013","999.5263157894736",19
 "Wild Arms 5","999.5263157894736",19
+"Final Fantasy XII - Piano OST","999.5263157894736",19
 "The Legend of Zelda: Spirit Tracks","999.5",18
+"Fall Guys","999.5",18
+"Year 1 Complete Collection","999.5",18
 "NieR: ReArranged","999.5",18
+"Mario Kart 64","999.4705882352941",17
 "Mouryou Senki Madara","999.4705882352941",17
 "The Legend of Dragoon","999.4375",16
 "La-Mulana (Wii)","999.4375",16
 "White Knight Chronicles","999.4",15
 "Sonic the Hedgehog 2: Hedgehog Heaven","999.4",15
+"Chiptunes = WIN: Volume 7","999.4",15
 "Trials Fusion","999.3571428571429",14
 "Cthulhu Saves the World","999.3571428571429",14
 "Tales of the World: Radiant Mythology 2","999.3571428571429",14
-"Pokémon Omega Ruby & Alpha Sapphire","999.3076923076923",13
+"Arcadia Legends","999.3414634146342",41
 "The Green (Greens) Album","999.3076923076923",13
 "Gargoyle's Quest II","999.3076923076923",13
 "Oz","999.3076923076923",13
 "Ultraball","999.3076923076923",13
 "Trails of Cold Steel","999.25",12
 "SQ Chips","999.25",12
-"Resonant Saga","999.25",24
 "Psychonauts 2","999.25",12
 "Suikoden V","999.25",12
 "Donkey Kong Land 2","999.25",12
-"Ys IX: Monstrum Nox","999.25",12
 "Disgaea 4: A Promise Unforgotten","999.25",12
-"Sonicesque, Vol. IV","999.25",12
 "Super Robot Wars OG Saga: EF EXCEED","999.25",12
 "S.S.T.BAND -30th Anniversary Box-","999.2173913043479",23
+"Kirby Air Ride","999.1818181818181",22
+"Suikoden Piano Collection 2","999.1818181818181",11
 "Suikoden","999.1428571428571",21
-"Psycho Somatic Generation","999.1",10
 "Phoenix Wright Orchestrated","999.1",10
 "Memento mori","999.1",10
 "Sonic & Sega All-Stars Racing (DS)","999.1",10
 "Motherlode","999.1",10
-"Girls' Frontline","999.1",20
-"Wangan Midnight Maximum Tune 4","999.1",10
 "coatlesscarl's 8-bit Covers","999.0425531914893",47
 "Breath of Fire II","999",9
 "Alter Ego Dreamwalker","999",9
 "Soldier Blade","999",9
 "Prince of Persia: The Sands of Time","999",9
 "Mother F------ Earthbound","999",18
-"Phantasy Star","999",9
 "ToeJam & Earl in Panic on Funkotron","999",9
 "Shining Wind","999",9
 "Edge of Despair","999",9
@@ -2042,14 +2038,16 @@ elementName,score,nbOfSongs
 "Air Zonk","999",9
 "Veneer","999",9
 "Tales of Crestoria","999",9
-"Tales of Phantasia","998.9411764705883",17
 "Baten Kaitos Origins","998.9411764705883",17
 "Soma Bringer","998.92",25
+"Resonant Saga","998.92",25
+"Professor Layton and the Curious Village","998.875",8
 "Suikoden IV","998.875",8
 "RADIATA STORIES Arrange Album","998.875",8
 "Vagrant Story","998.875",8
 "7th Dragon","998.875",8
 "Axiom Verge","998.875",8
+"Street Fighter V","998.875",16
 "Bleed 2","998.875",8
 "Memories Off 8bit Arrange","998.7727272727273",22
 "Harmony of Heroes","998.7671232876712",73
@@ -2060,56 +2058,59 @@ elementName,score,nbOfSongs
 "Magicka","998.7142857142857",7
 "Touhou Seirensen: Undefined Fantastic Object","998.7142857142857",7
 "Sonic Labyrinth","998.7142857142857",7
-"Keitai Denjuu Telefang","998.7142857142857",7
 "C64 reMIXed","998.7142857142857",7
 "Super Stardust HD","998.7142857142857",7
+"Silent Hill 3","998.7142857142857",7
 "Wangan Midnight Maximum Tune 2","998.7142857142857",7
 "Rock n' Roll Cereal","998.7142857142857",7
 "Illusion of Gaia","998.7142857142857",7
-"Star Ocean The Second Story Fantasy Megamix","998.7142857142857",7
 "Night Striker","998.7142857142857",7
 "The Grand Robot Master Remix Battle 2011","998.6666666666666",27
 "Sonic Adventure","998.65",20
 "Video Game Guitar Covers, Vol. 1","998.65",20
+"Girls' Frontline","998.65",20
 "Turok 2: Seeds of Evil","998.6153846153846",13
 "Breath of Fire V: Dragon Quarter","998.6153846153846",13
 "Final Fantasy Dimensions","998.578947368421",19
+"Weekly Treats: 2013","998.578947368421",19
 "Team Sonic Racing","998.5",6
-"Fall Guys","998.5",18
+"Okami Lounge Version","998.5",6
 "Journeys","998.5",6
 "NYPWP8: This is the Part Where I Usually Die","998.5",12
 "Tetris Blast","998.5",6
 "NieR Gestalt & Replicant Piano Collections","998.5",6
 "Muramasa: The Demon Blade","998.5",12
 "Touhou Koumakyou: The Embodiment of Scarlet Devil","998.5",6
-"Bacon EP","998.5",6
 "KRUNCH","998.5",6
 "Titan Warriors","998.5",6
 "Ridge Racer Arrange","998.5",6
+"Thai Guy","998.5",6
 "Total Annihilation","998.5",6
 "Daniel White (Singles)","998.4634146341464",41
+"Tales of Phantasia","998.4117647058823",17
 "Trauma Team","998.4117647058823",17
-"Snake's Revenge","998.3636363636364",11
 "SQUARE ENIX JAZZ Vol.2","998.3636363636364",11
 "Game Music Concert","998.3636363636364",11
-"Kirby Air Ride","998.3636363636364",22
 "Jets 'n' Guns","998.3636363636364",11
 "Mega Man Zero 4","998.3636363636364",11
 "Fortune Street","998.3636363636364",11
 "Sonic Adventure 2","998.3636363636364",11
-"Fire Emblem: Shadow Dragon","998.3636363636364",11
 "Captain Tsubasa II: Super Striker","998.3125",16
 "The King of Fighters XIV","998.3125",16
 "Super Hang-On","998.2",10
+"Boss Beats","998.2",5
 "Etrian Odyssey III Super Arrange Version","998.2",10
 "Crisis Force","998.2",5
+"Age of Wonders II","998.2",5
 "Tatsunoko vs. Capcom","998.2",10
 "Side Pocket","998.2",10
 "Final Fantasy II","998.2",10
 "DRAG-ON DRAGOON Chips Music","998.2",15
 "Dragon Quest Solo Guitar Collections","998.2",15
 "The Legend of Zelda Sound & Drama","998.2",5
+"Psycho Somatic Generation","998.2",10
 "Command & Conquer: Red Alert 2","998.2",5
+"Shining Force CD","998.2",5
 "Shining in the Darkness","998.2",5
 "Metal Gear (MSX)","998.2",5
 "Metal Gear Solid (GBC)","998.2",5
@@ -2119,14 +2120,11 @@ elementName,score,nbOfSongs
 "SEGAROCK VOL.02","998.2",5
 "Granblue Fantasy","998.2",5
 "Sega Rally 2 Re-Arrange Album ~Another Entries~","998.2",5
-"Chiptunes = WIN: Volume 7","998.2",15
-"The Keyblade War","998.2",10
 "Metal Max","998.2",15
+"After Burner (SMS)","998.2",5
 "Lock 'n' Chase","998.2",5
 "The Witch and the Hundred Knight Arrange Sound Track","998.2",10
-"Sonic Rush Adventure","998.2",10
 "Rival Schools 2","998.2",5
-"The Teaching Machine","998.2",5
 "Ottifanten: Kommando Stortebeker","998.2",5
 "Gungnir","998.1052631578947",19
 "Gimmick!","998.0714285714286",14
@@ -2137,17 +2135,18 @@ elementName,score,nbOfSongs
 "Falsion","998",9
 "Professor Layton and the Last Specter","998",9
 "Chiptunes = WIN: Volume 4","998",18
+"Monster Hunter 10th Anniversary Compilation Album [Tribute]","998",9
 "The Swindle","997.9230769230769",13
 "Legacy of the Wizard","997.9230769230769",13
 "Kid Icarus: Uprising","997.8823529411765",17
-"Mario Kart 64","997.8823529411765",17
 "Final Fantasy IV: Echoes of Betrayal, Light of Redemption","997.8181818181819",33
 "Snake Rattle 'N Roll","997.75",4
 "Frets of Valmar: Grandia II","997.75",4
-"Professor Layton and the Curious Village","997.75",8
 "TwinBee 3: Poko Poko Daimaō","997.75",8
+"Runbow","997.75",8
 "Odin Sphere","997.75",8
 "Dragon Quest IV","997.75",8
+"Star Control II: The Ur-Quan Masters","997.75",4
 "AFRIKA","997.75",8
 "Metal Slug 5","997.75",4
 "Ragnarök Online","997.75",24
@@ -2161,7 +2160,6 @@ elementName,score,nbOfSongs
 "Relatives","997.75",8
 "LittleBigPlanet","997.75",4
 "Rockman EXE 4.5","997.75",4
-"Ironsword: Wizards & Warriors II","997.75",4
 "Panzer Dragoon","997.75",8
 "RefleX","997.75",4
 "Darkstalkers 2: Vampire Hunter","997.75",8
@@ -2171,18 +2169,19 @@ elementName,score,nbOfSongs
 "Sonic and the Black Knight","997.6",15
 "Half-Minute Hero","997.6",15
 "Sonic Generations","997.6",15
+"Snake's Revenge","997.5454545454545",11
 "Audio Engineering: A Tribute to Cid","997.5454545454545",11
 "Adventure Time: Explore The Dungeon Because I Don't Know!","997.5454545454545",11
+"PHANTASY STAR ONLINE EPISODE I & II PREMIUM ARRANGE","997.5454545454545",11
 "READY. Vocally too","997.5454545454545",11
 "Ys Seven","997.5454545454545",11
 "Shin Megami Tensei III: Nocturne","997.5454545454545",11
 "Motoi Sakuraba Band Arrangement Album / STAR OCEAN & VALKYRIE PROFILE","997.5454545454545",11
 "Ratchet & Clank","997.5454545454545",11
 "Wangan Midnight Maximum Tune 3","997.5454545454545",11
-"Passion","997.5454545454545",11
-"Digimon Story: Cyber Sleuth","997.5454545454545",11
+"The Keyblade War","997.5454545454545",11
 "Vent ~ Grandia Arrange Version","997.5454545454545",11
-"Suikoden Piano Collection 2","997.5454545454545",11
+"Fire Emblem: Shadow Dragon","997.5454545454545",11
 "Sonic 30th Anniversary Symphony","997.5",18
 "Mega Man X: Maverick Rising","997.4565217391304",46
 "Nintendo World Cup","997.4285714285714",7
@@ -2199,13 +2198,14 @@ elementName,score,nbOfSongs
 "BlazBlue: Chronophantasma","997.4285714285714",21
 "Dig Dog","997.4285714285714",7
 "Outlaws","997.4285714285714",7
-"The Witcher","997.4285714285714",7
 "Celestial Music Record of All Mankind ~ Touhou Hisouten","997.3529411764706",17
 "Nostalgia Trip I","997.3",10
 "Sonic Symphony - 25th Anniversary Remix","997.3",10
+"Al Unser Jr. Turbo Racing","997.3",10
 "Vanguard Bandits","997.3",10
 "Rocklove","997.3",10
 "Steep","997.3",10
+"Sonic Rush Adventure","997.3",10
 "Rhythm'n'Bits","997.3",10
 "Sonicesque, Vol. II","997.3",10
 "Shovel Knight - Specter of Torment","997.2307692307693",13
@@ -2235,9 +2235,9 @@ elementName,score,nbOfSongs
 "The American Album Special Edition","997",9
 "Atomic Insanity","997",6
 "Kid Icarus: Of Myths and Monsters","997",3
+"Fetushouse","997",3
 "Dark Void Zero","997",3
 "Vampire Variations: Volume II","997",15
-"Tokyo Mono Hara Shi Karasu no Mori Gakuen Kitan Gakusou","997",6
 "Chroma Squad","997",6
 "Command & Conquer","997",3
 "Mega Man Unlimited","997",21
@@ -2248,9 +2248,12 @@ elementName,score,nbOfSongs
 "Horizon Chase Turbo","997",9
 "The Sims Medieval","997",6
 "Record of Agarest War","997",9
+"Etrian Odyssey II","997",6
 "Resident Evil Orchestra","997",3
+"Bacon EP","997",6
 "Game & Watch Gallery","997",6
 "Conquest of the Crystal Palace","997",3
+"Who Framed Roger Rabbit","997",6
 "Commander Keen 4: Secret of the Oracle","997",3
 "Final Fantasy Remix","997",9
 "Super Monkey Ball 3D","997",12
@@ -2263,14 +2266,13 @@ elementName,score,nbOfSongs
 "Controller 1","997",3
 "StarCraft II","996.85",20
 "Super Meat Boy","996.8235294117648",17
-"Seiken Densetsu 3: Songs of Light and Darkness","996.7966101694915",59
 "Turrican II: The Final Fight","996.7857142857143",14
-"PHANTASY STAR ONLINE EPISODE I & II PREMIUM ARRANGE","996.7272727272727",11
 "Kirby's Adventure: Rise of the Star","996.7272727272727",11
+"Passion","996.7272727272727",11
 "Tales of Zestiria","996.7272727272727",11
 "Final Fantasy IV (WSC)","996.7272727272727",22
-"The Black Box","996.7272727272727",11
 "Lunar: Sanpo-suru Gakuen","996.7272727272727",11
+"Digimon Story: Cyber Sleuth","996.7272727272727",11
 "Shantae: Risky's Revenge","996.625",8
 "Club Ocarina: An EDM Tribute to the Legend of Zelda","996.625",8
 "Valkyria Chronicles Piano Pieces","996.625",8
@@ -2286,9 +2288,9 @@ elementName,score,nbOfSongs
 "Fire Emblem: Genealogy of the Holy War","996.5384615384615",13
 "Arcus II -Silent Symphony-","996.5384615384615",13
 "Donkey Kong Country 3: Double the Trouble!","996.5263157894736",57
+"Seiken Densetsu 3: Songs of Light and Darkness","996.4915254237288",59
 "Sonic Colors","996.4",20
 "Oni II: Innin Densetsu","996.4",5
-"metamorphoses EP","996.4",5
 "The Binding of Isaac: Repentance","996.4",5
 "Virtual-On Force","996.4",5
 "The Smurfs' Nightmare","996.4",10
@@ -2318,6 +2320,7 @@ elementName,score,nbOfSongs
 "Read Only Memories: Neurodiver","996.4",5
 "Lost Odyssey","996.4",15
 "Enthusia Professional Racing","996.4",10
+"The Teaching Machine","996.4",5
 "Uru: Ages Beyond Myst","996.4",5
 "Robin Hood: Prince of Thieves","996.4",5
 "Pesterquest","996.4",5
@@ -2326,39 +2329,38 @@ elementName,score,nbOfSongs
 "Captain Tsubasa 2: Super Arrangements","996.2941176470588",17
 "Genso Suikoden Music Collection ~Celtic Collection~","996.2941176470588",17
 "Bitpop? Vol. 2","996.25",12
+"Game & Watch Gallery 3","996.25",12
 "Digimon World 3","996.25",12
+"Pokey Love","996.25",12
 "Roots","996.25",12
-"Super Robot Wars Compact 2","996.25",12
 "Alberto F------ González","996.25",12
 "Home Computer","996.25",12
+"The Black Box","996.25",12
 "Shenmue","996.1428571428571",7
 "Destiny of an Emperor","996.1428571428571",14
-"Spectral Souls","996.1428571428571",7
 "The Krion Conquest","996.1428571428571",7
 "Chronophobe","996.1428571428571",7
 "Ace Combat: Assault Horizon","996.1428571428571",7
+"Tokyo Mono Hara Shi Karasu no Mori Gakuen Kitan Gakusou","996.1428571428571",7
 "Nine","996.1428571428571",7
 "Minibosses EP","996.1428571428571",7
+"The Witcher","996.1428571428571",7
 "Blood of Bahamut","996.1428571428571",7
-"Super Dodge Ball","996.0625",16
 "Double Dragon III: The Sacred Stones","996.0625",16
 "Summertunes","996",9
 "Raging Fighter","996",9
 "Skate or Die!","996",9
 "HalloWIN","996",9
-"business pastel","996",9
-"Sounds of the 2a03 Extended","996",9
 "Mario's Tennis","996",9
 "Piano Collections FINAL FANTASY CRYSTAL CHRONICLES","996",9
+"Intergalactic Continuum","996",9
 "Izuna 2","996",9
-"Monster Hunter 10th Anniversary Compilation Album [Tribute]","996",9
 "The Legend of Xanadu Super Arrange Version","996",9
 "Ultimate Angler","996",9
 "Gloria Union","996",18
 "IDKFA - Doom Soundtrack","995.9090909090909",11
 "The Number of the Bit","995.9090909090909",11
-"Pocket Bomberman","995.9090909090909",11
-"Zelda Cinematica: A Symphonic Tribute","995.8461538461538",13
+"Halo: Combat Evolved","995.8461538461538",13
 "4chpcm love","995.8461538461538",13
 "Bravely Second: End Layer","995.8461538461538",13
 "Romancing SaGa: Minstrel Song","995.8",15
@@ -2369,6 +2371,7 @@ elementName,score,nbOfSongs
 "Okami Retro Version","995.5",10
 "Chiptuned Rockman","995.5",12
 "Weekly Treats: 2014","995.5",8
+"Super Dodge Ball","995.5",16
 "Shuttle Remix","995.5",8
 "Xenoblade Chronicles X","995.5",12
 "After Burner II (NES)","995.5",4
@@ -2382,21 +2385,19 @@ elementName,score,nbOfSongs
 "Emil Chronicle Online","995.5",8
 "KINGDOM HEARTS Orchestra -World Tour-","995.5",10
 "Hyper Princess Pitch","995.5",8
-"Game & Watch Gallery 3","995.5",12
 "Radical D","995.5",8
 "Sanxion","995.5",2
-"Al Unser Jr. Turbo Racing","995.5",10
 "Hero of Legend: Volume 1","995.5",12
 "TESSERACT: An Acoustic FEZ Album","995.5",12
 "Henry Hatsworth in the Puzzling Adventure","995.5",6
 "Otomedius G","995.5",14
+"Snowboard Kids","995.5",8
 "Touhou Suimusou: Immaterial and Missing Power","995.5",4
 "Romancing SaGa 3","995.5",10
 "Mega Man Network Transmission","995.5",6
 "Zen: Intergalactic Ninja","995.5",4
 "Magic Johnson's Fast Break","995.5",2
 "Sonic Spinball (GG)","995.5",4
-"Pokey Love","995.5",12
 "operat0r","995.5",10
 "Street Fighter VS Street Musician","995.5",6
 "Bootleg: Indie Games Concert 2013","995.5",10
@@ -2411,10 +2412,11 @@ elementName,score,nbOfSongs
 "Down Right Heavy","995.5",10
 "The Legend of Xanadu Arrange Album KLEENE","995.5",14
 "Nostalgic Pleasure","995.5",8
-"Aion","995.5",8
 "Wario Land: Super Mario Land 3","995.5",4
+"Ironsword: Wizards & Warriors II","995.5",4
 "Target Renegade","995.5",4
 "Shinobi","995.5",2
+"Castlevania: The Eternal Legacy (Vol. 1: 1986 - 1996)","995.5",14
 "Gradius IV","995.5",6
 "Kameo: Elements of Power","995.5",4
 "Sega Vintage Collection","995.5",8
@@ -2424,11 +2426,11 @@ elementName,score,nbOfSongs
 "PuyoPuyo! 15th Anniversary","995.5",6
 "Impeccable Micro","995.5",6
 "Space Quest III: The Pirates of Pestulon","995.5",2
+"Sidology","995.5",2
 "Ristar (GG)","995.5",6
 "Star Ocean: The Last Hope","995.5",10
 "Lost Patrol","995.5",2
 "Backloggery","995.5",2
-"Pipe Dreams","995.5",4
 "Hollow Knight: Voidheart","995.2857142857143",21
 "Monster Boy and the Cursed Kingdom","995.2352941176471",17
 "Fire Emblem: Path of Radiance","995.2352941176471",17
@@ -2436,54 +2438,57 @@ elementName,score,nbOfSongs
 "Dragon Quest VII Symphonic","995.2",15
 "Aquaria","995.1538461538462",13
 "Otomedius Excellent","995.1538461538462",13
-"Halo: Combat Evolved","995.1538461538462",13
+"Zelda Cinematica: A Symphonic Tribute","995.1538461538462",13
 "LOSER: A Sega Genesis Tribute","995.1538461538462",13
+"LOVE 2: kuso","995.1538461538462",13
 "Metal Gear","995.0909090909091",11
 "Zone of the Enders: The 2nd Runner","995.0909090909091",11
 "SaGa 3: Shadow or Light","995.0909090909091",11
+"Pocket Bomberman","995.0909090909091",11
 "20XX","995.0909090909091",11
 "The Guardian Legend","995.05",20
 "Kirby's Block Ball","995",18
+"business pastel","995",9
+"Sounds of the 2a03 Extended","995",9
 "Xenogears Light","995",18
 "Paper Mario: Sticker Star","995",18
+"Paths Less Travelled: Terranigma","995",27
 "Shiryu's Arcade Volume 4","995",9
 "Metal Gear 2: Solid Snake","995",9
 "Lunar Knights","995",9
 ".hack//G.U.","995",9
-"papillons","994.9375",16
 "Ace Combat 04","994.9375",16
 "Golden Sun: A World Reignited","994.9",30
-"Runbow","994.8571428571429",7
 "SpaceChem","994.8571428571429",7
 "Sengoku Basara 3","994.8571428571429",14
 "Command & Conquer: Tiberian Sun","994.8571428571429",7
 "Monster Sanctuary","994.8571428571429",7
 "Bloodshed","994.8571428571429",7
 "Hit and Run","994.8571428571429",7
+"Spectral Souls","994.8571428571429",7
 "Your Song Will Echo Throughout The Vast Ocean","994.8571428571429",7
 "of Atoms and Stardust","994.8571428571429",7
-"Dragon Saber: After Story of Dragon Spirit","994.8571428571429",7
 "SaGa Frontier II","994.8571428571429",14
 "Jumping Flash!","994.8571428571429",7
 "MicroD","994.8571428571429",7
 "The Witch and the Hundred Knight","994.8571428571429",7
 "Shovel Knight - Plague of Shadows","994.8571428571429",7
-"Castlevania: The Eternal Legacy (Vol. 1: 1986 - 1996)","994.8571428571429",14
 "Rudra no Hihou","994.8571428571429",14
 "Can You Play Pokémon?","994.8571428571429",7
 "Riviera: The Promised Land (PSP)","994.8571428571429",7
+"Pokémon: The Missingno Tracks","994.75",24
 "Ratchet & Clank: Going Commando","994.75",12
 "Retro Remix Revue Vol. 1","994.75",12
 "The Very Best Of SEGA","994.75",12
+"Super Robot Wars Compact 2","994.75",12
 "Time & Space","994.75",12
 "Soul Nomad & The World Eaters","994.75",12
 "Paper Mario","994.7058823529412",17
-"Synth Fighters","994.7058823529412",17
 "Goemon's Great Adventure","994.6",10
 "The Last Ninja","994.6",5
 "Gemfire","994.6",5
 "Candy Corn III: Direct to Video","994.6",5
-"Boss Beats","994.6",5
+"metamorphoses EP","994.6",5
 "Halo: Reach","994.6",5
 "Perfect Dark Zero","994.6",5
 "Tantei Jinguuji Saburo: Toki no Sugiyuku Mama ni","994.6",5
@@ -2491,31 +2496,26 @@ elementName,score,nbOfSongs
 "Crash Bandicoot","994.6",10
 "The King of Fighters '97","994.6",5
 "Lost Eden","994.6",5
-"World 1-2","994.6",15
-"Half-Life","994.6",5
 "Final Fantasy VII/VIII/IX Piano Opera","994.6",10
 "Earthbound (Cory Johnson)","994.6",5
 "MADE in Saitama","994.6",10
 "Famicom 20th Anniversary","994.6",5
-"Atelier Totori","994.6",10
 "Time's End: Majora's Mask Remixed","994.6",5
-"Commodore 64 Vocally","994.6",5
 "The Curse of Monkey Island","994.6",5
-"Cyber Spin","994.6",5
+"Synth Fighters","994.5",18
 "MEGALOMANIA","994.4615384615385",13
 "Super Spike V'Ball","994.4615384615385",13
 "Huntress","994.4615384615385",13
-"Paths Less Travelled: Terranigma","994.4615384615385",26
 "The King of Fighters XIII","994.4615384615385",13
-"Mutant Mudds","994.375",8
+"papillons","994.375",16
 "Amiga Days - Volume 3","994.375",8
-"Phantasy Star Online Episode III: C.A.R.D. Revolution","994.375",8
 "SanctuaryRPG","994.375",8
 "Black★Rock Shooter","994.375",8
 "Twinbee Yahho!","994.375",8
 "River City Rumble","994.375",8
 "Izuna","994.375",8
 "Spyro Remixed: Music from \"Spyro The Dragon\"","994.375",8
+"Aion","994.375",8
 "Infinite Undiscovery","994.375",8
 "Lord of Vermilion","994.2727272727273",11
 "Super Mario Galaxy 2","994.2727272727273",11
@@ -2535,39 +2535,34 @@ elementName,score,nbOfSongs
 "NEUTRALITE","994",6
 "Déjà Vu","994",3
 "Pokémon Pinball","994",12
-"Pokémon: The Missingno Tracks","994",24
 "Out of the Ashes - Sound of The Sonic Stadium '14","994",15
 "Dragon Quest III Symphonic","994",9
 "Bayonetta 2","994",9
 "Mega Man 9 Arrange Soundtrack","994",15
 "Radiant Historia","994",9
 "Persona 4 Arena Arrange","994",6
-"Intergalactic Continuum","994",9
+"Stone Soup","994",6
 "Tecmo World Wrestling","994",6
 "Sparked A War","994",3
+"World 1-2","994",15
 "Double Dragon (SMS)","994",3
-"Rocklove 2: Rockman x Clubmix","994",6
 "Dragon Quest VIII Symphonic","994",6
 "Marvel Puzzle Quest","994",3
 "Monster Hunter Compilation \"RE:\"MIX Chiptune","994",3
 "Sengoku Basara 2","994",12
 "Harvest Moon: Back To Nature","994",9
 "Live At Iggy's","994",6
-"FX2","994",6
 "OutRax","994",6
 "La Pucelle ~Legend of the Holy Maiden of Light~ Arrange Soundtrack","994",12
 "Rebirth","994",3
 "Splosion Man","994",6
-"Etrian Odyssey II","994",6
 "Gameboy Gallery Musics","994",3
-"Mickey's Speedway USA","993.8125",16
 "Lufia & the Fortress of Doom","993.7692307692307",13
 "Ragnarok Online Piano Arrange","993.7692307692307",13
 "7th Dragon Super Arrange Version","993.7692307692307",13
-"LOVE 2: kuso","993.7692307692307",13
 "Age of Empires","993.7",10
-"League of Legends","993.7",10
 "Speck","993.7",10
+"Atelier Totori","993.7",10
 "Arc the Lad: Twilight of the Spirits","993.7",10
 "Terranigma","993.6470588235294",17
 "A Sleeping Destiny","993.6470588235294",17
@@ -2576,6 +2571,7 @@ elementName,score,nbOfSongs
 "Dead or Alive","993.5714285714286",7
 "Strike the Earth! Shovel Knight Arranged","993.5714285714286",14
 "Danse Macabre 5","993.5714285714286",7
+"Dragon Saber: After Story of Dragon Spirit","993.5714285714286",7
 "Another Bound Neo","993.5714285714286",7
 "Guardian Heroes","993.5714285714286",7
 "Mighty Final Fight","993.5714285714286",7
@@ -2590,9 +2586,12 @@ elementName,score,nbOfSongs
 "Mega Man X4","993.3684210526316",19
 "The Great Giana Sisters","993.25",8
 "Flying Warriors","993.25",4
+"Mutant Mudds","993.25",8
 "Maybe We're The Same","993.25",8
-"Crash Bandicoot: The N. Sane Jam","993.25",8
+"Phantasy Star Online Episode III: C.A.R.D. Revolution","993.25",8
+"Yooka-Laylee","993.25",12
 "Need for Speed: Most Wanted","993.25",4
+"Hedgehog Orchestral Suite","993.25",8
 "Kingdom Hearts Destiny","993.25",12
 "Asterix & Obelix","993.25",12
 "Extreme Road Trip 2","993.25",4
@@ -2608,13 +2607,14 @@ elementName,score,nbOfSongs
 "Everhood","993.25",8
 "Slayers X: Terminal Aftermath: Vengance of the Slayer","993.25",4
 "Connectank","993.25",4
-"Snowboard Kids","993.25",8
+"Mickey's Speedway USA","993.25",16
 "Sega Rally 2006","993.25",12
 "Knights in the Nightmare","993.25",20
 "Helltaker","993.25",4
 "Flower Town","993.25",4
 "Super Bomberman","993.25",4
 "POKÉP","993.25",4
+"Pipe Dreams","993.25",4
 "Battle Kid 2: Mountain of Torment","993.0769230769231",13
 "HIGHSPEED ∇","993.0769230769231",13
 "Final Fantasy XII","993.0769230769231",26
@@ -2622,29 +2622,28 @@ elementName,score,nbOfSongs
 "Blue Dragon","993",9
 "Trip World","993",9
 "Fountainhead","993",9
-"Tyrian","993",9
 "Penny Arcade Adventures: On The Rain-Slick Precipice Of Darkness: Episode 4","993",9
 "Fate/Extella Link","993",9
 "BLUESCREEN","993",9
 "Space Age","993",18
 "Little Busters!","993",9
 "VGM Acapella: Volume 2","993",9
+"Last Ninja Remix","992.8",5
 "Star Clash","992.8",5
 "Darkman","992.8",5
 "Riviera: The Promised Land (GBA)","992.8",5
-"Kukeiha Club","992.8",5
 "Mega Man 11","992.8",10
 "Bonk's Adventure","992.8",5
-"Flashback: The Quest for Identity","992.8",5
-"Looney Tunes Collector: Alert!","992.8",5
+"The Binding of Isaac: Antibirth","992.8",5
 "Spectral Gene","992.8",5
+"League of Legends","992.8",10
 "Armored Core 4","992.8",5
 "Jet Moto","992.8",5
 "Superforce","992.8",5
-"Growlanser VI: Precarious World","992.8",5
+"Half-Life","992.8",5
 "SQUARE ENIX ACOUSTIC ARRANGEMENTS","992.8",10
-"King's Quest VI: Heir Today, Gone Tomorrow","992.8",5
-"Digital Devil Saga 2","992.8",10
+"Commodore 64 Vocally","992.8",5
+"Cyber Spin","992.8",5
 "Hydorah Arranged Tracks","992.8",5
 "Kisou Ryouhei Gunhound","992.8",5
 "Cor Metallicum","992.6363636363636",11
@@ -2655,18 +2654,18 @@ elementName,score,nbOfSongs
 "Futebol Arte: World Cup Tribute EP","992.5",6
 "Pretty Eight Machine","992.5",6
 "Wizardry","992.5",6
-"New Super Mario Bros. Wii","992.5",12
 "Dark Souls III","992.5",6
 "ROCKMAN ZERO COLLECTION SOUNDTRACK résonnant vie","992.5",12
 "Rockin' Sockin' Cinder Blockin' (A Concrete Man Remix EP)","992.5",6
 "Sailor Moon R","992.5",6
+"Rocklove 2: Rockman x Clubmix","992.5",6
 "Pyre","992.5",6
 "ChipWINter Wilderness","992.5",6
 "Space Invaders Extreme","992.5",6
+"FX2","992.5",6
 "Dragon Quest Wind Ensemble Part I","992.3846153846154",13
 "Tales of Graces","992.3846153846154",13
 "Harry Potter and the Chamber of Secrets","992.35",20
-"Evoland II","992.35",20
 "Marvel vs. Capcom 3","992.3333333333334",27
 "Little Samson","992.2857142857143",7
 "Forgotten Music","992.2857142857143",14
@@ -2684,25 +2683,26 @@ elementName,score,nbOfSongs
 "Conker's Bad Fur Day","992.125",8
 "Contra Force","992.125",8
 "Return All Robots!","992.125",24
+"Crash Bandicoot: The N. Sane Jam","992.125",8
 "Hardspace: Shipbreaker","992.125",8
 "The Simpsons: Hit & Run","992.125",8
 "Lime of the Season","992.125",16
 "ch7.5","992.125",8
 "release EP","992.125",8
-"Trauma Center: New Blood","992.125",8
-"Ratchet & Clank: Up Your Arsenal","992.0588235294117",17
 "2A03 PURITANS","992",9
 "Puyo Puyo!! 20th Anniversary","992",9
+"Tyrian","992",9
 "Skyborn","992",9
 "Guardian Heroines Final","992",9
 "Knight Arms: The Hyblid Framer","992",9
 "Iridion 3D & II Arranged Perfect Selection","992",9
 "The Wonderful 101","992",9
 "Music System I","992",9
+"La-Mulana","991.9473684210526",19
 "Mega Man 5","991.9",20
 "Valkyrie Profile","991.9",10
-"Metroid Arrange 25th Anniversary Album","991.9",10
 "Hermie Hopperhead: Scrap Panic","991.9",10
+"Digital Devil Saga 2","991.9",10
 "Yooka-Laylee and the Impossible Lair","991.8571428571429",21
 "Shadowgate","991.8181818181819",11
 "Hoenn Summer (Music from \"Pokémon Ruby and Sapphire\")","991.8181818181819",11
@@ -2715,9 +2715,9 @@ elementName,score,nbOfSongs
 "Magna Carta II","991.8181818181819",11
 "Sengoku Basara 2 Heroes","991.8181818181819",11
 "Summoning of Spirits: An Arrangement of Music from Tales of Phantasia and Tales of Symphonia","991.7627118644068",59
-"Yooka-Laylee","991.75",12
 "Shining Hearts","991.75",12
 "Mega Beardo: A Mega Man 2 Guitar Tribute","991.75",12
+"New Super Mario Bros. Wii","991.75",12
 "Starbound","991.75",12
 "Super Time Force","991.75",12
 "Sonic Paradox Remix Shorts","991.6923076923077",13
@@ -2726,13 +2726,11 @@ elementName,score,nbOfSongs
 "Shin Megami Tensei IV","991.6428571428571",14
 "Universe At War","991.6428571428571",14
 "Meteocrity Vol. 1","991.6428571428571",14
-"3D Dot Game Heroes","991.6428571428571",14
-"The String Arcade","991.6428571428571",14
-"Mega Man 9: Back in Blue","991.6",15
 "SaGa Orchestra Concert 2016","991.6",15
 "Skullgirls","991.5625",16
 "Super Dodge Ball: Around the World","991.5294117647059",17
-"Threads of Fate","991",14
+"Ratchet & Clank: Up Your Arsenal","991.5294117647059",17
+"Evoland II","991.45",20
 "Street Fighter II","991",7
 "Bionic Commando","991",13
 "Child of the Chozo","991",4
@@ -2740,32 +2738,29 @@ elementName,score,nbOfSongs
 "Akumajou Special: Boku Dracula Kun","991",10
 "Dominator","991",3
 "Ikaruga","991",7
-"Yakuza 4","991",13
 "Tangledeep","991",14
 "Hanjuku Hero 4","991",10
-"La-Mulana","991",19
 "Sky Shark","991",4
 "Digital Devil Saga","991",10
+"Kukeiha Club","991",6
 "Dragon Quest Symphonic","991",7
 "Willow","991",7
 "Maiden Voyage: A Star Ocean Tribute","991",15
-"Finding Paradise","991",6
 "The Legend of Zelda: Tears of the Kingdom","991",3
-"Hedgehog Orchestral Suite","991",8
 "Rockman & Forte: Mirai Kara no Chousensha","991",3
 "Monkey Island 2: LeChuck's Revenge: Special Edition","991",4
+"Metroid Arrange 25th Anniversary Album","991",10
 "Resident Evil: The Darkside Chronicles","991",7
-"The G.G. Shinobi","991",7
+"Flashback: The Quest for Identity","991",5
 "Rubicon","991",5
 "Ys","991",17
 "Magical Chase","991",11
 "Final Fantasy XI Chips","991",5
-"Stone Soup","991",6
-"Fetushouse","991",3
+"Looney Tunes Collector: Alert!","991",5
 "Famicom Grand Prix II: 3D Hot Rally","991",4
 "Space Harrier (SMS)","991",6
-"Crystal Hammer","991",3
 "Marathon","991",4
+"Mega Man 9: Back in Blue","991",15
 "Kaleidoscope","991",7
 "Hurry! A Final Fantasy X Impossible ReMix Album","991",6
 "Snailiad","991",4
@@ -2781,10 +2776,10 @@ elementName,score,nbOfSongs
 "Knuckles' Chaotix","991",8
 "Wii Fit","991",7
 "NYPWPX: endgame","991",4
+"3D Dot Game Heroes","991",14
 "Alter Ego","991",5
 "Professor Layton and the Unwound Future","991",6
 "Wai Wai World 2","991",10
-"Abrickadabra","991",4
 "Fantasy Zone II","991",3
 "The Wave","991",6
 "M.C. Kids","991",4
@@ -2795,14 +2790,15 @@ elementName,score,nbOfSongs
 "Mario Party 9","991",9
 "Ys 6 - The Return","991",9
 "Light Crusader","991",3
+"Growlanser VI: Precarious World","991",5
 "Tengami","991",8
 "Bloodstained: Curse of the Moon","991",9
 "Tribes: Ascend","991",5
 "Shin Megami Tensei: Devil Survivor 2 Record Breaker Arrange Soundtrack","991",4
 "Evil Zone","991",8
 "Mario Sports Mix","991",10
+"King's Quest VI: Heir Today, Gone Tomorrow","991",5
 "Elite Six","991",5
-"Rackets & Rivals","991",2
 "******s Don't Know Bout My Beeps","991",2
 "The Flash","991",4
 "Magical Drop III","991",2
@@ -2811,17 +2807,17 @@ elementName,score,nbOfSongs
 "Base Wars","991",4
 "Megami Ibunroku Persona Arrange Album","991",4
 "Mario's Super Picross","991",4
-"Metroid Prime: Federation Force","991",2
 "NieR Re[in]carnation Chill Out Arrangement Tracks","991",8
 "Alpine Racer","991",4
 "Tales of Monkey Island","991",4
 "Freelancer","991",3
+"Trauma Center: New Blood","991",8
 "Metal Gear Solid: Portable Ops","991",4
 "Aquarium Park","991",2
 "Gamer Symphony Orchestra Fall 2009","991",3
 "Fly on a Dog","991",3
 "Human Grand Prix III: F1 Triple Battle","991",4
-"Earth Defense Force: Insect Armageddon","991",3
+"Earth Defense Force: Insect Armageddon","991",4
 "No Man's Sky","991",3
 "The King of Dragons","991",4
 "Thundercats","991",2
@@ -2844,12 +2840,10 @@ elementName,score,nbOfSongs
 "Farland Saga","991",1
 "Tom and Jerry","991",1
 "Klonoa: Moonlight Museum","991",1
-"Tenjin Kaisen 2: Yomihon Yumegoyomi","991",1
 "Banjo-Tooie","991",1
 "Generation Xth: Code Realize","991",1
 "Dance Dance Revolution Extreme","991",1
 "BioShock","991",1
-"F-Zero: Maximum Velocity","991",1
 "Bomberman Hero","991",1
 "Zero Wars","991",1
 "Terra Cresta","991",1
@@ -2861,40 +2855,40 @@ elementName,score,nbOfSongs
 "Aleste 2","991",1
 "The Fall of Bahamut","991",1
 "Nintendo Metal","991",1
+"Threads of Fate","990.3571428571429",14
 "CheapBeats = WIN","990.3571428571429",14
 "BloodRayne: Betrayal","990.3076923076923",13
+"Yakuza 4","990.3076923076923",13
 "Persona","990.3076923076923",13
 "Final Fantasy II: Rebellion","990.3076923076923",13
 "Valkyria Chronicles","990.3076923076923",13
 "Dariusburst Remix Wonder World","990.25",12
-"Amiga meets Piano Vol. 1","990.25",12
 "Radiata Stories","990.25",12
 "Fire Emblem: Radiant Dawn","990.25",12
 "Sonic Advance 2","990.1818181818181",11
 "Secret of Mana Genesis / Seiken Densetsu 2 Arrange Album","990.1",10
 "River City Ransom","990.1",10
 "The Last Remnant","990",9
-"Valkyria Chronicles 2","990",9
 "Suikoden Music Collection ~ Hiroyuki Namba","990",9
-"RuneScape","989.9411764705883",17
 "color wheel","989.875",8
 "Shin Onigashima","989.875",8
 "spaceDRIFT","989.875",8
 "Mission: Impossible","989.875",8
-"Shiryu's Arcade Volume 2","989.875",8
 "Super Panda Adventures","989.875",8
 "Reaching The Surface","989.875",8
 "Final Fantasy II: The Roses of Rebellion","989.875",8
 "Shining the Holy Ark","989.8",15
-"R3BORN","989.8",15
 "7th Dragon III code:VFD","989.8",15
 "Erik the Viking","989.7142857142857",7
 "Grandia III","989.7142857142857",7
 "Fate/Grand Order Orchestra","989.7142857142857",7
 "The Sound of Kirby Café 2","989.7142857142857",14
+"The G.G. Shinobi","989.7142857142857",7
 "Fantasy Zone","989.7142857142857",7
+"Vampire Variations: Volume III","989.7142857142857",21
 "Soukaigi","989.7142857142857",7
 "Winning Shot","989.7142857142857",7
+"The String Arcade","989.7142857142857",14
 "A Tribute to SHATTERHAND","989.7142857142857",7
 "Sakuna: Of Rice and Ruin Musical Arrangements -Play-","989.7142857142857",14
 "Legend of Heroes IV","989.7142857142857",7
@@ -2906,36 +2900,37 @@ elementName,score,nbOfSongs
 "Baroque","989.5",6
 "K.K. Setlist","989.5",12
 "Gargoyle's Quest","989.5",6
+"Finding Paradise","989.5",6
 "Mischief Makers","989.5",6
 "Dragon's Dogma","989.5",6
+"Amiga meets Piano Vol. 1","989.5",12
 "Eat People 3","989.5",12
 "The Midnight Chiptunes","989.5",6
 "Intelligent Qube","989.5",6
-"Shūten","989.5",6
 "Songs From Beyond the Warp Zone","989.5",6
 "Worldwide Soccer: Sega International Victory Goal Edition Japan","989.5",6
 "Joystuck","989.5",6
+"RuneScape","989.4117647058823",17
 "Transport Tycoon","989.3125",16
-"The Grand Maverick Remix Battle 2010","989.2857142857143",21
 "Otto's Ottifanten: Baby Bruno's Nightmare","989.2",5
-"Last Ninja Remix","989.2",5
 "Pokémon Super Mystery Dungeon","989.2",5
-"The Binding of Isaac: Antibirth","989.2",5
+"Yakuza 3","989.2",15
 "NieR Tribute Album -echo-","989.2",5
 "Hack 'n' Slash","989.2",5
 "TinyKeep","989.2",5
 "\"zwei!!\" SUPER ARRANGE VERSION","989.2",10
 "DESTINY 8 - SaGa Band Arrangement Album","989.2",10
-"Danse Macabre 6","989.2",5
 "brass 2: mouth","989.2",5
 "Paper Mario: Color Splash","989.0714285714286",14
 "Musashiden II: Blademaster","989",9
 "Genso Suikoden Music Collection ~Asian Collection~","989",9
 "Last Bible III","989",9
+"Valkyria Chronicles 2","989",9
 "Man Of The Year","988.9230769230769",13
 "Riviera: The Promised Land","988.8823529411765",17
-"Vampire Variations: Volume III","988.8571428571429",21
+"The Grand Maverick Remix Battle 2010","988.8571428571429",21
 "Big Nose the Caveman","988.75",4
+"Ni no Kuni II: Revenant Kingdom","988.75",4
 "Roundabout","988.75",4
 "Soul Edge","988.75",8
 "Yu-Gi-Oh! 5D's Tag Force 5","988.75",4
@@ -2946,7 +2941,9 @@ elementName,score,nbOfSongs
 "Tobal 2","988.75",8
 "You Died But A Necromancer Revived You","988.75",4
 "DS Bimoji Training","988.75",4
+"Shiryu's Arcade Volume 2","988.75",8
 "Warlocked","988.75",4
+"Abrickadabra","988.75",4
 "Famicom Wars","988.75",8
 "Shin Megami Tensei","988.75",4
 "Super Galaxy Squadron","988.75",4
@@ -2955,13 +2952,13 @@ elementName,score,nbOfSongs
 "Heroes of Might and Magic V","988.75",4
 "Record of Rozen War","988.75",8
 "Space Rangers 2","988.75",8
-"Mindhouse","988.75",12
 "Godzilla","988.75",8
 "Street Racer","988.75",4
 "Maui Mallard in Cold Shadow","988.75",4
 "Final Fight 3","988.75",4
 "Touhou Hisoutensoku: Choudokyū Ginyoru no Nazo wo Oe","988.75",4
 "SEGA RALLY CHAMPIONSHIP 1995 -New Century Arrange Album-","988.75",4
+"R3BORN","988.6",15
 "Legaia 2: Duel Saga","988.5454545454545",11
 "Cadillacs and Dinosaurs","988.5454545454545",11
 "Phantom Brave Arrange","988.5454545454545",11
@@ -2970,15 +2967,12 @@ elementName,score,nbOfSongs
 "GunGirl 2","988.4285714285714",7
 "Paradise Killer","988.4285714285714",7
 "Deflektor","988.4285714285714",7
-"We Are Error","988.4285714285714",14
 "Entertainment System 64","988.4285714285714",7
 "Ace Combat 2","988.4285714285714",14
 "LISTENCORE Vol. I","988.4285714285714",7
-"Robots LOVE Music","988.4285714285714",7
 "Perfect World International","988.3",10
 "The 3rd Birthday","988.3",10
 "Supreme League of Patriots","988.3",10
-"OutRun","988.2307692307693",13
 "Child of Light","988.2307692307693",13
 "Wizards & Warriors","988",9
 "Touhou Fūjinroku: Mountain of Faith","988",9
@@ -2989,10 +2983,12 @@ elementName,score,nbOfSongs
 "Zero Divide","988",6
 "Blazing Souls","988",9
 "Dragon Quest III","988",6
+"Crystal Hammer","988",3
 "Lucky Luke","988",12
 "Vampire: Master of Darkness","988",6
-"Apex 2014: A New Challenger!!","988",12
+"Vortex","988",6
 "The Big Blue LP","988",9
+"Shūten","988",6
 "Metal Trainer","988",6
 "Pac-Man","988",3
 "Phantasy Star Zero","988",6
@@ -3008,28 +3004,28 @@ elementName,score,nbOfSongs
 "Shining Tears","988",9
 "Chester Field","988",3
 "Pac-Man World 2","988",3
+"Mindhouse","988",12
 "Starship Hector","988",3
 "Ace Combat 6","988",12
 "Tales of Xillia","988",9
 "RCT Album","988",3
 "Another Day in Dream Land","988",12
 "Crusader: No Remorse","988",3
-"Record of Lodoss War Arrange","988",3
-"Wolfchild","988",3
 "Katamari No-Emcee","988",3
 "Final Fantasy X Piano Collections","988",3
+"We Are Error","987.7857142857143",14
+"Radical Dreamers: Nusumenai Houseki","987.7272727272727",11
 "Halo 3","987.7272727272727",11
 "Unlimited Saga","987.7272727272727",11
 "BadAss: Boss Themes: Volume II","987.625",8
-"TimeSplitters 2","987.625",8
 "Valis: The Fantasm Soldier","987.625",8
 "Sigma Harmonics","987.625",8
 "Dragon Quest V Symphonic","987.625",8
 "Off","987.625",8
 "Cuttlefish (Re-Edit)","987.625",8
+"OutRun","987.5384615384615",13
 "Knytt Underground","987.5384615384615",13
 "Candy Corn","987.4",5
-"Radical Dreamers: Nusumenai Houseki","987.4",10
 "Wall You Need is Love","987.4",5
 "Mega Man Battle Network 4","987.4",10
 "Shining Force Gaiden","987.4",5
@@ -3040,37 +3036,37 @@ elementName,score,nbOfSongs
 "Super Glove Ball","987.4",5
 "Hiveswap Act 1","987.4",5
 "Gamer Symphony Orchestra Fall 2010","987.4",5
-"Adventure Time: Hey Ice King!","987.4",10
 "Sword & Sworcery LP - The Ballad of the Space Babies","987.4",5
 "Katamari Dance With Me","987.4",5
 "Alchemy of Sounds ~Atelier Arranged Tracks~","987.4",10
 "Opoona","987.4",10
+"Danse Macabre 6","987.4",5
 "Rayman Raving Rabbids","987.4",5
 "Rusty Hearts","987.4",15
 "Everything You Know Is Wrong","987.4",5
 "Rhino Rumble","987.4",5
 "Perfect Selection: Dracula Battle","987.4",5
+"Apex 2014: A New Challenger!!","987.25",12
 "The Hybrid Front","987.25",12
-"Yakuza 3","987.1428571428571",14
 "Project S-11","987.1428571428571",7
 "PiA-COM I / PIA-COMS","987.1428571428571",7
 "SEGAROCK VOL.01","987.1428571428571",7
-"Star Ocean: Blue Sphere","987.1428571428571",7
 "Split/Second","987.1428571428571",7
 "Porter","987.1428571428571",7
 "Suikoden III Music Collection ~Rustling of the Wind~","987.1428571428571",7
 "In Flux","987.1428571428571",7
 "Disgaea 3: Absence of Justice Arrange","987.1428571428571",7
+"Robots LOVE Music","987.1428571428571",7
 "Attack Animal Gakuen","987.1428571428571",7
 "The Jackbox Party Pack 8","987.1428571428571",7
 "The Dark Spire","987",18
 "PiA-COM II / PIA-COMS","987",9
 "2064: Read Only Memories","986.9090909090909",11
 "Mega Man 8","986.9090909090909",11
-"Tekken 2","986.8461538461538",13
+"Socket","986.9090909090909",11
+"TimeSplitters 2","986.5",8
 "Fairune","986.5",4
 "Mighty No. 9","986.5",8
-"Ni no Kuni II: Revenant Kingdom","986.5",4
 "Star Ocean: Blue Sphere Arrange","986.5",6
 "Embered Recollections","986.5",6
 "DESTINY 8 - SaGa Band Arrangement Album Vol.2","986.5",10
@@ -3079,35 +3075,40 @@ elementName,score,nbOfSongs
 "Front Mission 4","986.5",8
 "Resident Evil Code: Veronica","986.5",4
 "Mario Bros.","986.5",2
+"Adventure Time: Hey Ice King!","986.5",10
 "Vegavox 2","986.5",6
 "The Last Ninja 3","986.5",6
 "Runabout 2","986.5",6
+"MONSTER HUNTER THE JAZZ","986.5",10
 "Disgaea: Hour of Darkness Arrange","986.5",6
 "The Murder of Sonic the Hedgehog","986.5",8
 "Lego Racers","986.5",4
 "Random Encounter","986.5",8
 "Paperboy","986.5",4
 "Hanjuku Hero","986.5",2
-"Wizorb","986.5",2
 "Shuttle Scuttle","986.5",12
+"Metroid Prime: Federation Force","986.5",2
 "Sam & Max Beyond Time And Space","986.5",10
 "Megaman Remix Album","986.5",8
+"Rackets & Rivals","986.5",2
 "One Man and His Droid","986.5",2
-"Brains & Hearts","986.5",4
 "Ori and the Will of the Wisps","986.5",4
 "Broken Age","986.5",6
 "TimeSplitters: Future Perfect","986.5",4
 "GunZ","986.5",4
 "Power Drift","986.5",2
+"Esther's Dreams","986.32",25
 "Harmony (A Tribute to Rayman)","986.2",15
+"Tekken 2","986.1538461538462",13
 "of Atoms and Stardust [ Remixes ]","986.0909090909091",11
 "Deus Ex","986.0909090909091",11
+"Mega Man: The Robot Museum","986",9
 "Wangan Midnight Maximum Tune","986",9
 "Adventures in Pixels","986",9
 "Lagrange Point","985.9375",16
-"Cave Story Remix Project II","985.9375",16
 "Autoscroll","985.8571428571429",7
 "Tales of Series Piano Arrange Tracks","985.8571428571429",7
+"Star Ocean: Blue Sphere","985.8571428571429",7
 "Dragon Quest II Symphonic","985.8571428571429",7
 "Rogue Galaxy","985.8571428571429",7
 "Square Enix Jazz - SaGa","985.75",12
@@ -3117,37 +3118,32 @@ elementName,score,nbOfSongs
 "Certainty","985.6",10
 "FantaVision USA","985.6",5
 "Act 1","985.6",5
-"Esther's Dreams","985.6",25
 "Gran Turismo Rock Arrange","985.6",5
 "Dirge of Cerberus: Final Fantasy VII","985.6",5
 "Final Fantasy XV: Moonlit Melodies Piano Collections","985.6",10
-"Zero Wing","985.6",10
 "Get in the Car, Loser!","985.6",5
-"NiGHTS into Dreams...","985.5",18
-"Mega Man: The Robot Museum","985.375",8
-"MOTHER +LOVE 2","985.375",8
 "The Blue Marlin","985.375",8
 "MegaMan Zero","985.375",8
+"Cave Story Remix Project II","985.375",16
 "Impulse","985.375",8
 "Perfect Selection Gradius","985.375",8
 "Bomberman Max","985.375",8
 "drammatica -The Very Best of Yoko Shimomura-","985.375",8
 "Blue Reflection","985.375",8
 "Fittest","985.2727272727273",11
-"Socket","985.2727272727273",11
 "Final Fantasy XIII-2","985.2142857142857",14
 "Monty on the Run","985",3
 "Kaeru no Tame ni Kane wa Naru","985",6
 "Pxl-Win","985",6
 "Mega Man Battle Network 5 (DS)","985",6
+"NiGHTS into Dreams...","985",18
+"Mega Turrican","985",6
 "Atelier Iris ETERNAL MANA 2 Arranged Tracks RED LUCIFER RISING","985",9
 "Humans + Gears: Xenogears ReMixed","985",24
-"Vortex","985",6
 "The Human Race","985",3
 "PewDiePie: Legend of the Brofist","985",6
 "Inspector Gadget","985",3
 "Valkyrie Profile 2 -Silmeria- Arrange Album","985",6
-"KUNAI","985",6
 "M&M's Minis Madness","985",6
 "Devil May Cry 4","985",3
 "Fury of the Furries (DOS)","985",9
@@ -3162,15 +3158,14 @@ elementName,score,nbOfSongs
 "Another Bible","985",3
 "Rayman Origins","985",6
 "S4 League","985",9
+"Wolfchild","985",3
 "8bit Killer","985",9
 "NINTENDO VS SEGA","985",3
 "Fury","985",3
 "Spectral Force Chronicle","985",3
-"Ehrgeiz","984.7692307692307",13
 "Looney Tunes: Space Race (PS2)","984.7",10
 "Amiga meets Piano Vol. 2","984.7",10
 "Bionic Commando ReMixed: OK, We'll Groove","984.7",10
-"MONSTER HUNTER THE JAZZ","984.7",10
 "Final Fantasy VII Remake Acoustic Arrangements","984.7",10
 "Spyro the Dragon","984.5714285714286",7
 "Double Moon Densetsu","984.5714285714286",7
@@ -3183,17 +3178,19 @@ elementName,score,nbOfSongs
 "Legend of Heroes III","984.4545454545455",11
 "Dragon Fighter","984.25",8
 "Joe & Mac (SNES)","984.25",4
+"MOTHER +LOVE 2","984.25",8
 "Lovely Planet","984.25",4
 "No More Heroes 2: Desperate Struggle","984.25",8
 "Xeno Crisis","984.25",12
-"Corpse Party BloodCovered","984.25",8
 "F-1 Spirit 3D","984.25",4
 "Wings of Vi","984.25",4
 "Daze Before Christmas","984.25",4
 "Brawl Busters","984.25",4
 "Touge 3","984.25",4
-"UnchainBlades EXXIV","984.25",4
+"Brains & Hearts","984.25",4
+"Masters","984.25",4
 "Gamer Symphony Orchestra Spring 2010","984.25",4
+"Ehrgeiz","984.0769230769231",13
 "Hard Corps: Uprising","984.0769230769231",13
 "Donkey Kong 64","984",9
 "Mega Man Battle Network","984",9
@@ -3203,8 +3200,10 @@ elementName,score,nbOfSongs
 "Billy Hatcher and the Giant Egg","983.8",5
 "Luminous Arc 2","983.8",10
 "Lord of the Sword","983.8",5
+"Zero Wing","983.8",10
 "Battle Kid: Fortress of Peril","983.6363636363636",11
 "Famicom Mukashi Banashi: Yuuyuuki","983.6363636363636",11
+"KUNAI","983.5",6
 "Valkyrie Profile -Covenant of the Plume- Arrange Album","983.5",6
 "Castle of Shikigami III","983.5",6
 "Lands of Belfrum","983.5",6
@@ -3216,10 +3215,9 @@ elementName,score,nbOfSongs
 "Trails in the Sky SC","983.2857142857143",7
 "Chaos Rings II","983.125",8
 "Mankinds Arrogance","983.125",8
+"Corpse Party BloodCovered","983.125",8
 "Sam & Max: The Devil's Playhouse","983.125",8
 "Super Monkey Ball: Banana Blitz","983.125",8
-"Prime (MicroD)","983",9
-"KK and Friends","983",9
 "Lunia Chronicles","983",9
 "Sprint Vector","982.8181818181819",11
 "Sega Rally Championship","982.8181818181819",11
@@ -3230,22 +3228,20 @@ elementName,score,nbOfSongs
 "Dodge Club Party","982",2
 "Prime (Balloonbear)","982",4
 "Tetris Attack","982",10
-"Cetait Mieux en RDA","982",7
 "Final Fight One","982",5
-"Dragon Quest VI Symphonic","982",7
-"Mega Turrican","982",6
 "Touhou Chireiden: Subterranean Animism","982",6
 "Lunar: The Silver Star","982",2
 "Ork","982",2
 "Tails' Skypatrol","982",4
 "near death experience, SHADOW HEARTS Arrangetracks","982",3
+"Looney Tunes - Carrot Crazy","982",2
 "Walking straight on broken lines","982",5
 "Gyromite","982",2
 "Wonder Momo","982",4
 "The Elder Scrolls IV: Oblivion","982",3
 "Tails Adventure","982",5
 "8 Eyes","982",2
-"Fire Emblem Awakening","982",10
+"DARIUSBURST CHRONICLE SAVIOURS ARRANGE 2","982",11
 "Streets of Rage (Game Gear)","982",4
 "Miitopia","982",7
 "Frog Fractions","982",4
@@ -3255,16 +3251,16 @@ elementName,score,nbOfSongs
 "Street Fighter 2010 Arranged Album","982",5
 "8-bit lagerfeuer","982",3
 "Metal Storm","982",3
-"Hybris","982",2
+"Prime (MicroD)","982",9
 "Raiden Trad","982",2
-"Graffiti Kingdom","982",2
 "International Superstar Soccer Deluxe","982",4
 "Rocket Knight Adventures","982",6
 "HyperZone","982",5
 "Castlevania Tribute Vol.1&2","982",9
 "Hotel Dusk: Room 215","982",6
+"KK and Friends","982",9
 "Game & Watch Gallery 2","982",9
-"Too Human","982",4
+"Wizorb","982",2
 "Alundra","982",2
 "The Belmonts (Cassette EP)","982",3
 "Super Back to the Future 2","982",4
@@ -3278,6 +3274,8 @@ elementName,score,nbOfSongs
 "Arkanoid","982",3
 "Hanakisou","982",2
 "Micro Machines","982",2
+"Record of Lodoss War Arrange","982",3
+"UnchainBlades EXXIV","982",4
 "Batman: Revenge of the Joker","982",1
 "Super Aleste","982",1
 "Trolls","982",1
@@ -3312,20 +3310,21 @@ elementName,score,nbOfSongs
 "AstroPanda","982",1
 "Serpent","982",2
 "High Rise","982",1
-"Paradox Lost","982",1
 "Run Saber","982",1
 "The Elder Scrolls Online","982",1
 "Ultima IV: Quest of the Avatar","982",1
 "Street Fighter Alpha 3","982",1
+"F-Zero: Maximum Velocity","982",1
 "Hunter","982",1
 "Jet Set Willy","982",1
-"Twin Cobra","982",1
 ".hack//Infection","982",1
 "Castle of Illusion Starring Mickey Mouse","982",1
+"J.R.R. Tolkien's The Lord of the Rings, Vol. I","982",1
 "Horizon Zero Dawn","982",1
 "Monster Hunter","982",1
 "Sonic Jam","982",1
 "Extended Pixels: More Music From Lobei","982",2
+"Fire Emblem Awakening","981.1",10
 "Super Mario Maker 2","981.1",10
 "Teen Agent: The Root of All Evil","981",9
 "KINGDOM HEARTS TRIBUTE ALBUM","981",9
@@ -3333,9 +3332,12 @@ elementName,score,nbOfSongs
 "Shining Force Feather","981",9
 "Jack Bros.","980.875",8
 "Rockman EXE N1 Battle","980.875",8
+"Cetait Mieux en RDA","980.7142857142857",7
+"Dragon Quest VI Symphonic","980.7142857142857",7
 "Disgaea 4: A Promise Unforgotten Arrange","980.7142857142857",7
 "Super Robot Wars Compact 3","980.7142857142857",7
-"Perfection.","980.7142857142857",7
+"The Temples: Music from The Legend of Zelda: Ocarina of Time","980.7142857142857",7
+"Battletoads & Double Dragon Album","980.7142857142857",7
 "7th Dragon 2020","980.6153846153846",13
 "Growlanser Generations","980.5",6
 "Zillion","980.5",6
@@ -3344,17 +3346,18 @@ elementName,score,nbOfSongs
 "Tomb Raider: Legend","980.5",6
 "Uncharted Waters Online","980.5",6
 "A Valley Without Wind","980.3636363636364",11
-"DARIUSBURST CHRONICLE SAVIOURS ARRANGE 2","980.3636363636364",11
 "Elvandia Story","980.2",10
 "Spanky's Quest","980.2",5
 "The Briggs Effect","980.2",5
 "I Miss You - EarthBound 2012","980.2",5
 "Mugen Souls","980.2",5
 "Krater","980.2",5
+"Information Chase","980.2",5
 "Radiant Historia Piano Selections","980.2",5
 "Umihara Kawase Shun","980.2",5
 "Life Force","980.0714285714286",14
 "Super Stickman Golf","980",9
+"Donkey Kong Land III","980",9
 "Bad Dudes","979.75",4
 "Castlevania: Michiru Yamane Autobiographical Music","979.75",4
 "Where Good Marbles Go to Die","979.75",4
@@ -3362,14 +3365,14 @@ elementName,score,nbOfSongs
 "Slot Car Rivals","979.75",4
 "Devil May Cry 3","979.75",4
 "Shin Megami Tensei Devil Children Arrange","979.75",8
-"Masters","979.75",4
+"Too Human","979.75",4
 "Classic Video Game Music","979.75",4
 "Dark Souls","979.4285714285714",7
 "FZ: Side F","979.4285714285714",7
 "Dragon Quest","979.4285714285714",7
+"Perfection.","979.4285714285714",7
 "Moonlit Shadow","979.4285714285714",7
 "The King of Fighters '96","979.4285714285714",7
-"Yatagarasu: Attack on Cataclysm","979.3",10
 "ARMS","979.3",10
 "Wonder Boy","979",3
 "Call of Duty: Modern Warfare 2","979",9
@@ -3390,13 +3393,12 @@ elementName,score,nbOfSongs
 "Sounds From 20XX","978.4",5
 "Wizball","978.4",5
 "TROPOSPHERE","978.4",5
+"Yatagarasu: Attack on Cataclysm","978.4",10
 "Dynasty Warriors 6","978.4",5
 "Heroes of Might and Magic VI","978.4",5
 "Guxt","978.1428571428571",7
 "Ultima Online","978.1428571428571",7
 "Castlevania: Symphony of the Night - Resurrection","978.1428571428571",7
-"Battletoads & Double Dragon Album","978.1428571428571",7
-"Donkey Kong Land III","978",9
 "Battle Arena Toshinden","977.5",2
 "Obligatory Ice Level Day 2009","977.5",4
 "Shining Force III","977.5",6
@@ -3407,12 +3409,14 @@ elementName,score,nbOfSongs
 "P-47: The Freedom Fighter","977.5",2
 "Casino Kid II","977.5",2
 "Hitman 2: Silent Assassin","977.5",2
+"Hybris","977.5",2
 "Stormlord","977.5",4
 "Geometry Wars 3: Dimensions","977.5",4
 "Valley","977.5",4
 "Beat the 8 Super Robots With 8 Bit Instrumental","977.5",10
 "Lineage 2","977.5",6
 "Network Adventure Bugsite","977.5",2
+"Graffiti Kingdom","977.5",2
 "Gandhara","977.5",2
 "Milon's Secret Castle","977.5",2
 "Twisted Metal 2","977.5",4
@@ -3423,12 +3427,10 @@ elementName,score,nbOfSongs
 "Dark Souls II","977.5",2
 "Prince of Persia","977.5",2
 "Super Lesbian Animal RPG","977.0909090909091",11
-"Battle Jockey","976.8571428571429",7
 "G.I. Joe: The Atlantis Factor","976.7058823529412",17
 "Noisechan & Nugget: Adventures in Chiptunes","976.6",5
 "It's Not Over Yet!","976.6",5
 "Connected","976.6",5
-"Information Chase","976.6",5
 "There Will Be Brawl OST","976.6",10
 "Last Ranker Limited Soundtrack -Piano Trio Arrange-","976.6",5
 "Secret of Evermore","976.375",8
@@ -3444,45 +3446,46 @@ elementName,score,nbOfSongs
 "KILL CLUB #001","976",3
 "Bomb Jack (GB)","976",3
 "Ai Senshi Nicol","976",3
-"The King of Fighters '95","976",6
 "Tiny Toon Adventures: ACME All-Stars","976",3
 "Die Hard Trilogy","975.5714285714286",7
 "Parallel Processing","975.5714285714286",7
 "MiG-29: Soviet Fighter","975.5714285714286",7
 "Formula Nippon '99","975.5714285714286",7
+"Battle Jockey","975.5714285714286",7
 "The Bogstras","975.5714285714286",7
 "2","975.25",4
 "The Last Ninja 2","975.25",8
 "Invisigun Heroes","975.25",4
 "DESKPOP & ChipWIN","975.25",4
 "Star Versus","975.25",4
+"V-Rally Championship Edition","975.25",4
 "Axelay","974.8",10
-"Chaos Rings","974.8",10
 "Lotus III: The Ultimate Challenge","974.5",6
 "Ratchet & Clank: Size Matters","974.5",6
 "Bionic Commando (2009)","974.5",6
-"The Temples: Music from The Legend of Zelda: Ocarina of Time","974.5",6
+"The King of Fighters '95","974.5",6
 "Megami Tensei Gaiden: Last Bible","974.2857142857143",7
 "Glover","974.2",15
 "Machinarium","974.125",8
-"The Last Story","973.8181818181819",11
+"Chaos Rings","973.9",10
 "Boot Hill Heroes","973.6923076923077",13
 "Bomberman II","973",5
 "Skate or Die 2: The Search for Double Trouble","973",5
 "Super Crate Box","973",4
+"Darius Plus","973",5
 "Star Command ~Kurayami no Shinryakusha~","973",3
 "Starfields and Cityscapes","973",6
 "Shin Megami Tensei: Devil Children Red/Black Book","973",5
 "Gauntlet","973",2
+"The Incredible Machine","973",9
 "End of Line","973",3
 "Love","973",4
-"Looney Tunes - Carrot Crazy","973",2
 "Kingdom Hearts: Chain of Memories","973",2
 "Freedom Force","973",3
 "My Girl, The Princess","973",5
 "Infiltrator EP","973",5
 "Nazo no Murasame Jō","973",2
-"Alex the Allegator 4","973",2
+"The Last Story","973",11
 "Mega Man 6 - Intercontinental Contenders","973",5
 "O.S.T: Original Soundtrack","973",4
 "Anarchy Online","973",5
@@ -3503,6 +3506,7 @@ elementName,score,nbOfSongs
 "Mother 3+","973",1
 "Sid Meier's Civilization III","973",1
 "The Witcher 2: Assassins of Kings","973",1
+"Cybernoid: The Fighting Machine","973",1
 "Hawkeye","973",2
 "Threes!","973",1
 "Paperboy (Arcade)","973",1
@@ -3517,7 +3521,6 @@ elementName,score,nbOfSongs
 "Anachronox","973",1
 "Ghost Battle","973",1
 "Mario & Luigi - Superstar Saga","973",1
-"Z-Out","973",1
 "Chaos Seed","973",1
 "Super Ubie Land","972.1",10
 "F1 2012","971.7142857142857",7
@@ -3528,13 +3531,10 @@ elementName,score,nbOfSongs
 "Delete Forever EP","971.2",5
 "Entwined","971.2",5
 "Sexy Parodius","971.2",5
-"The Incredible Machine","971",9
-"V-Rally Championship Edition","970.75",4
 "Shin Megami Tensei: Devil Summoner: Soul Hackers Arrange","970.75",4
 "Inordinate Desire","970",3
 "The Daydream Elevator","970",9
 "Dungeon Defenders","970",6
-"Darius Plus","969.4",5
 "Uninvited","969.4",5
 "Bit Pilot","969.4",5
 "Diddy Kong Racing: Bootleg Christmas","968.5",4
@@ -3544,28 +3544,27 @@ elementName,score,nbOfSongs
 "City of Heroes / City of Villains","968.5",4
 "Animal Crossing: New Horizons","968.5",2
 "Time Twist: Rekishi no Katasumi de...","968.5",2
+"Alex the Allegator 4","968.5",2
 "We Love Retro Kirby!","968.5",2
 "Perfect Service","968.5",4
 "World Super Police","968.5",2
 "To Be On Top","968.5",2
 "NieR Gestalt & Replicant 15 Nightmares & Arrange Tracks","967.6",5
 "Suikoden IV Music Collection ~Another World~","967.6",5
-"From 8 To Infinity","967.375",8
 "Wario's Woods","967.375",8
 "Human Resource Machine","967",3
 "Shelf EP","967",3
 "Barbie","967",3
 "The Unfinished Swan","967",3
-"Astyanax","967",3
 "Fragments","967",3
 "Valkyrie Profile 2: Silmeria","966.7692307692307",13
 "Ace Combat Respect Arrange Soundtrack","966.7",10
+"From 8 To Infinity","966.25",8
 "Vacation Wasteland EP","966.25",4
-"Front Mission 1st","966.25",8
 "Transients","965.8",5
 "Crossing","965.8",5
 "Prehistorik Man","965.8",5
-"Resident Evil: Revelations","965.5",6
+"Front Mission 1st","965.125",8
 "Speedball","964",2
 "8-Bit Lebowski: 100% Electronic","964",3
 "Top Gear 2","964",6
@@ -3575,8 +3574,6 @@ elementName,score,nbOfSongs
 "Toki Tori","964",7
 "Apex 2013: Straight to the Top","964",11
 "STELLA DEUS BGM ReArrange Album","964",7
-"Soul Blazer","964",6
-"Shining Wisdom","964",4
 "Cheetah in the Dark","964",3
 "THE BEATS OF STREETS","964",5
 "Celt-tunes = WIN","964",4
@@ -3584,10 +3581,12 @@ elementName,score,nbOfSongs
 "Bloodborne","964",5
 "The Last Dream: Definitive Edition","964",5
 "ZanZarah: The Hidden Portal","964",5
+"Astyanax","964",3
 "Enduro Racer","964",2
 "Bubble Dizzy","964",2
 "BlazBlue: Central Fiction","964",5
 "Personal Trainer: Cooking","964",4
+"Resident Evil: Revelations","964",6
 "Recycled Material","964",2
 "Rush'n Attack","964",2
 "Mr. Nutz","964",1
@@ -3598,11 +3597,11 @@ elementName,score,nbOfSongs
 "The Last V8","964",1
 "Really Big Sky","964",1
 "Traz","964",1
-"Sárból Várat EP","964",1
 "Dragon Crystal","964",2
 "The Addams Family","964",1
 "Virtua Fighter 2","964",1
 "Bomberman","964",1
+"Sorcerian","964",1
 "Lords of the Realm II","964",1
 "Tinhead","964",1
 "Sonic Crackers","964",1
@@ -3617,20 +3616,19 @@ elementName,score,nbOfSongs
 "Eternal Poison","964",1
 "Bandit Kings of Ancient China","964",1
 "Zool: Ninja of the \"Nth\" Dimension","964",1
-"Cybernoid: The Fighting Machine","964",1
 "Clystron","964",1
-"Mass Effect 3","964",1
 "Global Gladiators","964",1
 "Lemmings (GEN)","964",1
 "Metal Gear Solid V: The Phantom Pain","964",1
-"J.R.R. Tolkien's The Lord of the Rings, Vol. I","964",1
 "Menace","964",1
 "The Oath","964",1
+"Z-Out","964",1
+"Soul Blazer","962.5",6
+"Shining Wisdom","961.75",4
 "Disgaea 2: Cursed Memories Arrange","961",6
 "Need for Speed","961",3
 "Technology Crisis","961",3
 "Saga of Ryzom","961",3
-"Commander Keen 5: The Armageddon Machine","960.4",5
 "MDK","960.4",5
 "Xenon","959.5",2
 "Tiny Toon Adventures","959.5",2
@@ -3644,8 +3642,9 @@ elementName,score,nbOfSongs
 "V42","959.5",2
 "Icewind Dale","959.5",2
 "Dewy's Adventure","959.5",2
-"Hurdle Turtle","957.25",4
+"Commander Keen 5: The Armageddon Machine","958.6",5
 "Shonen ReMix Jump!","956.5",6
+"Advent Rising","956.5",6
 "Takahashi Meijin no Bouken Jima IV","955",3
 "Quartet","955",5
 "Zombie Nation","955",2
@@ -3654,10 +3653,10 @@ elementName,score,nbOfSongs
 "James Bond Jr.","955",2
 "Rastan","955",1
 "Darwinia","955",1
+"Sárból Várat EP","955",1
 "Romancia","955",1
 "Solomon's Key","955",1
 "Raiden II","955",1
-"Sorcerian","955",1
 "The King of Fighters 2000","955",1
 "Omega Five","955",1
 "Lotus II R.E.C.S.","955",1
@@ -3671,6 +3670,7 @@ elementName,score,nbOfSongs
 "S.Y.K Shinsetsu Saiyuuki","955",1
 "Lightning Legend","955",1
 "Dancing Dad","955",1
+"Mass Effect 3","955",1
 "Mickey Saves the Day","955",1
 "Life is Strange","955",1
 "Jazz Jackrabbit: Holiday Hare 1995","955",1
@@ -3684,22 +3684,21 @@ elementName,score,nbOfSongs
 "Glider Rider","955",1
 "Scurge: Hive","955",1
 "A Bug's Life (PS1)","953.5",6
-"Advent Rising","953.5",6
 "Technology Crisis II","953.2",5
 "Tracked ✕ ChipWIN • #007","953.2",5
+"Hurdle Turtle","952.75",4
 "Jade Cocoon: Story of the Tamamayu","952",3
 "Mother Sounds e.p. 2","952",3
 "Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo","950.5",2
 "Gaiares","950.5",2
 "Dynamite Headdy","949",3
 "Zombies Ate My Neighbors","949",3
-"Sword of Vermilion","949",3
 "The Bugs Bunny Crazy Castle","949",3
-"Guild Wars 2","947.8",5
+"Guild Wars 2","946",5
 "Cosmic Space EP","946",2
+"Sword of Vermilion","946",3
 "UEFA 2000","946",3
 "Dutch Breeze","946",1
-"Vincent","946",1
 "DNA Warrior","946",1
 "Sins of a Solar Empire","946",1
 "Red Alarm","946",1
@@ -3717,6 +3716,7 @@ elementName,score,nbOfSongs
 "Myst IV: Revelation","946",1
 "Parodius","941.5",2
 "Sparkster","937",2
+"Vincent","937",1
 "Great Soccer","937",1
 "Treasure Island Dizzy","937",1
 "Yume Nikki","937",1
@@ -3724,8 +3724,8 @@ elementName,score,nbOfSongs
 "Cardinal Quest","937",1
 "Shin Megami Tensei Chaos Disc","937",1
 "Assassin's Creed Brotherhood","937",1
-"Prisoners of the Sun","937",1
 "Super 3D Noah's Ark","937",1
+"Dahna: Megami Tanjou","937",1
 "Yu-Gi-Oh! Duel Links","937",1
 "No Mercy","937",1
 "Nemesis the Warlock","937",1
@@ -3740,14 +3740,13 @@ elementName,score,nbOfSongs
 "Viewtiful Joe","928",1
 "Remember Me","928",1
 "Undeadline","928",1
-"Dahna: Megami Tanjou","928",1
+"Prisoners of the Sun","928",1
 "Bio-Hazard Battle","928",1
 "Missile Master","925",3
 "Renegade","919",1
 "B-Wings","919",1
 "Requiem for a Dying Star","919",1
 "Chicken Race: Christmas Special","919",1
-"Raptor: Call of the Shadows","919",1
 "Batman (GEN)","919",1
 "Linus Spacehead's Cosmic Crusade","919",1
 "Syberia","919",1
@@ -3761,20 +3760,21 @@ elementName,score,nbOfSongs
 "Firelord","910",2
 "Mission Jupiter","910",1
 "Super Robin Hood","910",1
+"Raptor: Call of the Shadows","910",1
 "Tom Clancy's Rainbow Six: Rogue Spear","910",1
-"King's Quest V: Absence Makes the Heart Go Yonder","910",1
 "Titanfall","910",1
-"Nemesis 3: The Eve of Destruction","910",1
-"Ninja Commando (C64)","910",1
+"King's Quest V: Absence Makes the Heart Go Yonder","901",1
 "Monarch: Heroes of a New Age","901",1
 "Pokémon FireRed/LeafGreen","901",1
+"Nemesis 3: The Eve of Destruction","901",1
+"Ninja Commando (C64)","901",1
 "Micro Mages","901",1
 "Air","892",1
 "MiG:29: Soviet Fighter (C64)","892",1
-"WinBack: Covert Operations","892",1
 "Asterix (GB)","892",1
 "Duck Hunt","892",1
 "Snow Brothers","883",1
+"WinBack: Covert Operations","883",1
 "Demon's Crest","883",1
 "Vectorman 2","883",1
 "The Lawnmower Man","874",1

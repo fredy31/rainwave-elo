@@ -103,6 +103,7 @@ elementName,score,nbOfSongs
 "Laamaa","1054",1
 "Kristin Naigus, Patti Rudisill","1054",1
 "Nobuo Uematsu, Kenichiro Fukui, The Black Mages","1054",1
+"The Hit Points","1054",1
 "Kate Davis, Naoto Kubo, Nobuyoshi Suzuki, Rob Tunstall","1054",1
 "Minnie Moog, Reuben Spiers","1054",1
 "Satoshi Igarashi","1054",1
@@ -146,6 +147,7 @@ elementName,score,nbOfSongs
 "OceansAndrew, Scaredsim","1048",3
 "Kenta Nagata","1045",4
 "YPOI","1045",2
+"AJ DiSpirito","1045",4
 "ZackParrish, The Vodoú Queen","1045",2
 "Scaredsim, Harjawaldar","1045",1
 "Andy Kelley","1045",1
@@ -177,6 +179,7 @@ elementName,score,nbOfSongs
 "wowaka, Miku Hatsune, Luka Megurine","1045",1
 "Jivemaster, Sir_NutS","1045",1
 "Balaur","1045",1
+"scythe","1045",1
 "Ken Ito, Masayoshi Soken, Michael-Christopher Koji Fix","1045",1
 "TSori, Kenny Jr., Siolfor the Jackal, tibone, Eladar","1045",1
 "Nobuo Uematsu, Shotaro Shima ","1045",2
@@ -189,6 +192,7 @@ elementName,score,nbOfSongs
 "Yuki Kajiura, Eri Itoh","1045",1
 "JAM Project","1045",1
 "Masakazu Sugimori, Noriyuki Iwadare","1045",1
+"Hiroshige Tonomura, Jake Kaufman (virt)","1043.2",5
 "Kenji Yamamoto, Minako Hamano","1042",3
 "Triodust, KuensanP","1042",3
 "Uboichi","1040.5",2
@@ -201,19 +205,17 @@ elementName,score,nbOfSongs
 "Instant Remedy","1040.5",2
 "Tohru Hasahe, Minki Motoyama","1040.5",2
 "Sentient Pulse","1040.5",2
-"AJ DiSpirito","1040.5",4
-"Hiroshige Tonomura, Jake Kaufman (virt)","1039.6",5
 "Tokyo Philharmonic Orchestra, Kosuke Yamashita","1039",3
 "Psycho Crusher","1039",3
-"Uhei Inoh, Takeaki Kunimoto","1039",3
-"Marshall Parker","1038.25",4
 "ansgaros","1038.25",4
 "FFmusic Dj, Geoffrey Taucer","1037.8",5
 "Romain Gauthier","1036",3
 "Sadorf, Sir_NutS","1036",2
+"Marshall Parker","1036",4
 "bustatunez","1036",2
 "DJ RoboRob","1036",2
 "Manami Matsumae, Yuki Iwai","1036",2
+"Uhei Inoh, Takeaki Kunimoto","1036",3
 "Risa Yuki, Sega","1036",2
 "Miwa Sato","1036",2
 "Dacian Grada, PrjzCalavera","1036",2
@@ -278,7 +280,6 @@ elementName,score,nbOfSongs
 "Kevin Schilder","1036",1
 "Asuka Hayazaki","1036",2
 "Iori Kimura, Bashiry","1036",1
-"Kenobit","1036",1
 "Arcade Machine Emulator","1036",1
 "RobotSexMusic","1036",1
 "Midee","1036",1
@@ -295,6 +296,7 @@ elementName,score,nbOfSongs
 "Lucca & The Inventions","1036",1
 "Kenichi Tokoi, Kan Hashimoto, Krzysztof Przygudzki","1036",1
 "Hiroshi Yamaguchi, Betsie Larkin, Keeley Bumford","1036",1
+"Minae Fujii, Mari Yamaguchi, Yuko Takehara","1036",1
 "BKM","1036",1
 "Jogurt","1036",1
 "IceRequiem","1036",1
@@ -310,7 +312,6 @@ elementName,score,nbOfSongs
 "Prjzcalavera","1036",1
 "Subversiveasset, Strings of the Woods","1036",1
 "69GuitarChick","1036",1
-"The Hit Points","1036",1
 "OverClocked University, prophetik music","1036",1
 "Besso0, GonZealous","1036",1
 "Chernabogue, Audio Mocha, Furilas","1036",1
@@ -322,7 +323,6 @@ elementName,score,nbOfSongs
 "Mairiba, Psamathes","1036",1
 "Metatron, Gamer of the Winds","1036",1
 "burryleak","1036",1
-"EyeScream","1036",1
 "(T-T)b","1036",1
 "Yumi Kawamura, Shihoko Hirata","1036",1
 "Richie Palys","1036",1
@@ -376,6 +376,7 @@ elementName,score,nbOfSongs
 "Ani, B","1036",1
 "Naoyuki Sato, Akihisa Matzura, Jessy","1036",1
 "Peter Hajba ","1036",1
+"RealFaction","1036",1
 "Nobuhiko Kashiwara","1036",1
 "Kaori Oda, Kazumi Mitome","1036",1
 "Bentley Jones / Lee Brotherton / LeeBro, Mariko Nanba, Tomoya Ohtani, Chewtaro Moritake","1036",1
@@ -418,6 +419,7 @@ elementName,score,nbOfSongs
 "Kenichi Matsubara","1030.6",5
 "Ivan Hakštok, Juan Medrano","1030",3
 "Chimpazilla, timaeus222","1030",3
+"Seth Parker","1030",6
 "Akira Sasaki","1030",3
 "gyms","1030",3
 "The Humble Brothers","1029.25",4
@@ -434,7 +436,6 @@ elementName,score,nbOfSongs
 "RetroCompute","1027",5
 "Brink-of-Time","1027",2
 "Hiroshi Takeyasu, Masae Nakashima, Sachiko Yakata","1027",2
-"Seth Parker","1027",6
 "Kazuki Muraoka, Shinya Sakamoto, Atsushi Fujio, Kiyohiro Sada","1027",2
 "Ro-Bear","1027",3
 "Samuel Lidström","1027",2
@@ -522,6 +523,7 @@ elementName,score,nbOfSongs
 "Sung-Woon Jang","1027",1
 "Blue Streaks","1027",1
 "Tatsuro Suzuki","1027",1
+"Kenobit","1027",1
 "Kazuma Jinnouchi","1027",1
 "Annette DiMedio, Farkle","1027",1
 "takajo yuukiss","1027",1
@@ -538,6 +540,7 @@ elementName,score,nbOfSongs
 "sham","1027",1
 "Tissue Hime","1027",1
 "Knight of the Round, Adam Higgins","1027",1
+"Jorito, BMC_WarMachine","1027",1
 "MASA-KING","1027",1
 "otokaz","1027",1
 "AOiRO_Manbow","1027",1
@@ -568,7 +571,6 @@ elementName,score,nbOfSongs
 "Kevvviiinnn, MegaPhilX","1027",1
 "Kevvviiinnn, Thunder Thouin","1027",1
 "Hades0013","1027",1
-"scythe","1027",1
 "NintenKwonDo!","1027",1
 "Deathro","1027",1
 "Respawn Collective","1027",1
@@ -576,6 +578,7 @@ elementName,score,nbOfSongs
 "Eliott Tordo","1027",1
 "OzoneOne, ImAFutureGuitarHero, Thibault Triat, VictorTheGuitarNerd","1027",1
 "NickMan7x, SwigglesRP","1027",1
+"EyeScream","1027",1
 "HoboKa, Stahalamora","1027",1
 "arthur x medic, Ben Briggs","1027",1
 "DJ Electrohead","1027",1
@@ -587,7 +590,6 @@ elementName,score,nbOfSongs
 "AlmightyArceus","1027",1
 "Danilo Ciaffi, Kenny Jr.","1027",1
 "Tetsuya Shibata, Michiru Yamane","1027",1
-"Chimpazilla, Emunator","1027",1
 "Wrexx","1027",1
 "ViolinGamer","1027",1
 "Miki Higashino, Yumiko Takahashi","1027",1
@@ -623,6 +625,7 @@ elementName,score,nbOfSongs
 "Koko Komine, Tomohiko Kira","1027",1
 "Leah","1027",1
 "Hayato Matsuo, Hitoshi Sakimoto","1027",1
+"Yuzo Koshiro, Emi Evans","1027",1
 "Keiichi Suzuki, Nobuo Kurita","1027",1
 "Michiel Van Den Bos","1027",1
 "Kotomi Kyouno","1027",1
@@ -639,7 +642,6 @@ elementName,score,nbOfSongs
 "AmIEviL","1025.7142857142858",14
 "744","1025.2",5
 "Last Boss 009","1025.2",5
-"Levus","1024.75",4
 "Daniele Zandara","1024.75",4
 "Akihiro Juichiya, Tomoya Tomita","1024.75",4
 "Masahiko Kimura, Michiru Yamane","1024.4285714285713",7
@@ -657,11 +659,14 @@ elementName,score,nbOfSongs
 "B-laze","1022.5",6
 "Wintermute","1022.5",4
 "USK","1022.5",2
+"Mark Cooksey","1022.5",4
 "Dale North, mp","1022.5",2
 "Dr. Fruitcake","1022.5",2
 "Alexander Prievert","1022.5",4
 "Geoffrey Taucer, prophetik music","1022.5",2
+"Gareth Coker, Rachel Mellis","1022.5",2
 "bLiNd, Chimpazilla","1022.5",2
+"Levus","1022.5",4
 "Richard Munns","1022.5",2
 "sylcmyk","1022.5",2
 "Shinji Ushiroda, Maasa Miyoshi, Shiho Fujii, Asuka Hayazaki","1022.5",4
@@ -680,7 +685,6 @@ elementName,score,nbOfSongs
 "Roger Wanamo","1022.5",2
 "Yukiko Takada","1022.5",2
 "Aethernaut","1022.5",2
-"Naoto Kubo","1022.5",8
 "Matthew S. Harrison","1022.5",6
 "The 8-Bit Big Band, Grace Kelly","1022.5",2
 "Sir Spacebar","1022.5",2
@@ -695,10 +699,12 @@ elementName,score,nbOfSongs
 "Blitz Lunar","1021.8571428571429",7
 "Howard Drossin","1021.8571428571429",7
 "+tek","1021.8571428571429",7
+"Dr. Manhattan","1021.75",12
 "Trash80","1021.6",5
 "yoshio","1021.6",5
+"Satoe Terashima","1021.375",8
+"Naoto Kubo","1021.375",8
 "SGX","1021",9
-"Paul van der Valk","1021",3
 "LuIzA","1021",3
 "Joshua Morse, Danimal Cannon","1021",3
 "PriZm","1021",3
@@ -712,10 +718,8 @@ elementName,score,nbOfSongs
 "Takeru Kanazaki","1020.5714285714286",7
 "kLuTz","1020.25",4
 "Jillian Aversa, zircon","1020.25",4
-"Dr. Manhattan","1020.25",12
 "Ryo Nagamatsu, Koji Kondo, Akito Nakatsuka","1020.25",8
 "noba","1020.25",4
-"Mark Cooksey","1020.25",4
 "Jeff Tymoschuk","1020.25",4
 "Catboss.","1020.25",4
 "Daiki Ishikawa","1020.25",4
@@ -732,27 +736,33 @@ elementName,score,nbOfSongs
 "Scott Lloyd Shelly","1019.2857142857143",7
 "Haruki Mino","1019.2857142857143",7
 "Justin St. Charles","1019.2857142857143",7
-"Satoe Terashima","1019.125",8
 "Masahiro Ikariko, Mutsuhiko Izumi","1019.125",8
 "Random","1018.9",10
 "Masahiko Yoshimura","1018.8181818181819",11
 "chipzel","1018",7
 "Gabe Terracciano, Shnabubula","1018",2
+"Paul van der Valk","1018",3
 "Mental","1018",4
+"Toshio Kajino, Saori Maeda","1018",9
 "Bart Klepka","1018",2
+"Ben Prunty","1018",3
 "Atsuyoshi Isemura, Hironobu Inagaki","1018",4
 "Jan Van Valburg","1018",4
 "Nullsleep","1018",5
 "Jivemaster, Sir_NutS, Helicopter Knife Fight","1018",2
 "Yoann Laulan","1018",4
+"Hyde209","1018",3
 "Ben McCullough","1018",3
 "Atsushi Fujio, Jun Funahashi, Hidenori Maezawa, Tsutomu Ogura, Kiyohiro Sada","1018",4
 "Luhny","1018",2
+"YUKIYOSHI","1018",2
+"Nintendo","1018",2
 "Naoya Iwaki","1018",3
 "Jonne Valtonen, Kanagawa Philharmonic Orchestra, Lina Matsuda","1018",3
 "Andrew Prahlow","1018",5
 "Yuki Kajiura, Deb Lyons","1018",2
 "Do a Barrel Roll!","1018",5
+"Dean Evans","1018",3
 "CrimzonWolf777","1018",2
 "The Syntax Sin Tax","1018",4
 "C-jeff","1018",2
@@ -865,6 +875,7 @@ elementName,score,nbOfSongs
 "DJ Carbunk1e, Ryan8bit","1018",1
 "Nousentre","1018",1
 "Suzumebachi, Protricity","1018",1
+"B33J, Cerrax, Juan Medrano, nonsensicalexis","1018",1
 "aneurySm","1018",1
 "Taika","1018",1
 "Christian Pacaud, PriZm","1018",1
@@ -989,7 +1000,6 @@ elementName,score,nbOfSongs
 "tomz0rs","1018",1
 "Plasma","1018",1
 "Star Mario","1018",1
-"Minae Fujii, Mari Yamaguchi, Yuko Takehara","1018",1
 "Daisuke Matsuoka","1018",1
 "Masato Code, RiRiKA","1018",1
 "doriko, Miku Hatsune","1018",1
@@ -1029,7 +1039,6 @@ elementName,score,nbOfSongs
 "Tomoyo Mitani","1018",1
 "Level 99, OceansAndrew","1018",1
 "AJURIKA","1018",1
-"Dacian Grada, VictorTheGuitarNerd","1018",1
 "Flying Knee","1018",1
 "Matheus Manente, CarboHydroM","1018",1
 "subversiveasset","1018",1
@@ -1065,8 +1074,10 @@ elementName,score,nbOfSongs
 "TSori, Deedubs","1018",1
 "Joe Jonker","1018",1
 "PeyCa, Kiaran","1018",1
+"Flake","1018",2
 "BadMojo, Kalu4ii Plays","1018",1
 "Torby Brand, Reuben Spiers","1018",1
+"SuperTonic64","1018",1
 "FingerstyleGaming","1018",1
 "Mark Autumn, ViolinGamer","1018",1
 "Nicole, Xander","1018",1
@@ -1094,7 +1105,6 @@ elementName,score,nbOfSongs
 "Tibone","1018",2
 "Flake, Torby Brand, Gamer of the Winds","1018",1
 "Springborne","1018",1
-"TheWallFly","1018",1
 "HangOnGetReady","1018",1
 "Bleeds, Chipocrite","1018",1
 "Hypnogram, DEFENSE MECHANISM","1018",1
@@ -1185,7 +1195,6 @@ elementName,score,nbOfSongs
 "The Plasmas","1018",1
 "Crystal Wave Machine","1018",1
 "Terminated Weasel, Gamer of the Winds, TomHenderson","1018",1
-"Flake","1018",1
 "SpaceGhost","1018",1
 "Oliver Deriviere, Motohiro Kawashima","1018",1
 "Frog & Cid","1018",1
@@ -1203,6 +1212,7 @@ elementName,score,nbOfSongs
 "Yoko Shimomura, Grant Kirkhope","1018",1
 "Junichi Nakatsuru, Hideki Sakamoto","1018",1
 "Jorito, Amerlyn Zeta, Andrew Steffen, Andrew Stern, Chromatic Apparatus, Damian Nguyen, Dewey Newt, Earth Kid, Gamer of the Winds, JohnStacy, Lauren the Flute, mkafie, Travis Kindred, TSori, Yuki K","1018",1
+"Chimpazilla, Emunator","1018",1
 "Tremendouz, Torby Brand, Gamer of the Winds, Chromatic Apparatus, KestrelGirl","1018",1
 "Yuki K, GuitarSVD","1018",1
 "Jorito & Friends","1018",1
@@ -1263,6 +1273,7 @@ elementName,score,nbOfSongs
 "Navi, Ryan Buell","1018",1
 "Lucas Guimaraes, Charles Ritz, Jess Destramp, Thomas Kresge, Daniel Caton","1018",1
 "The 8-Bit Big Band, Jonah Nilsson","1018",1
+"Yoshiyuki Sahashi, Tetsuo Ishikawa","1018",1
 "Cyril the Wolf, Jorito, TSori, Sirenstar, Dewey Newt, Numoon","1018",1
 "Tim Sheinman, Psyko Syndicate","1018",1
 "Warp Whistles Music, endlessrepeat","1018",1
@@ -1290,7 +1301,6 @@ elementName,score,nbOfSongs
 "Tracy W. Bush, Derek Duke, Jason Hayes, Glenn Stafford","1018",1
 "MaestroRage","1018",1
 "DavidOrr","1018",1
-"RealFaction","1018",1
 "Atsushi Tomita","1018",1
 "HΛL","1018",1
 "Atsufumi Sorai","1018",1
@@ -1322,13 +1332,14 @@ elementName,score,nbOfSongs
 "Cursed Lemon, Stephan Wells","1018",1
 "DCT, Joshua Morse","1018",1
 "TristEndo","1018",1
+"SEXY-SYNTHESIZER","1017.4",15
 "Toru Minegishi, Asuka Ohta, Koji Kondo","1017.1",10
 "Keiichi Suzuki","1016.7142857142857",7
 "Mikio Saito","1016.5",6
 "Nobuhito Koise","1016.5",6
 "Video Games Live","1016.5",6
-"SEXY-SYNTHESIZER","1016.2",15
 "Kajiya Shitamachi","1016.2",5
+"Yusuke Takahama","1016.2",10
 "Makeup and Vanity Set","1016.2",5
 "Gux","1016.2",5
 "CHiCO, Tomori Kudo, Kenji Hiramatsu","1016.2",10
@@ -1336,14 +1347,11 @@ elementName,score,nbOfSongs
 "Takushi Hiyamuta, JIM","1016.2",5
 "Donald S. Griffin","1016.2",5
 "Mohmega","1016.2",5
-"Toshio Kajino, Saori Maeda","1016",9
 "Yoshihito Yano","1016",9
 "Taro Bando, Hajime Wakai","1015.9230769230769",13
 "Jun Funahashi","1015.75",8
 "Milky Eiko","1015.75",4
 "Lucas Pope","1015.75",4
-"Two Feathers","1015.75",4
-"Paper Coelacanth","1015.75",4
 "Gamer of the Winds","1015.75",4
 "Kenny Chou","1015.75",4
 "D. Takahashi","1015.75",4
@@ -1367,11 +1375,9 @@ elementName,score,nbOfSongs
 "d0d0","1015",3
 "Rukunetsu","1015",3
 "Bill Kiley","1015",3
-"Dean Evans","1015",3
 "Cyborg Jeff","1015",3
 "Skip Cloud","1015",6
 "James Landino","1015",6
-"Reuben6, Gamer of the Winds","1015",3
 "Ruzarin Kashiwagi","1015",3
 "Paul Romero, Rob King, Steve Baca","1015",6
 "Sockpuppet","1015",3
@@ -1381,11 +1387,9 @@ elementName,score,nbOfSongs
 "Hajime Wakai, Shibo Fujii, Mahito Yokota, Takeshi Hama, Koji Kondo, Hyrule Symphony Orchestra","1015",3
 "Hirokazu Tanaka, Keiichi Suzuki","1015",3
 "Jack Wall, Sam Hulick, Richard Jacques","1015",3
-"Koji Kondo","1014.7272727272727",88
+"Koji Kondo","1014.625",88
 "jmr","1014.625",8
-"Astral Tales","1014.4",5
 "Anamanaguchi","1014.4",15
-"Yusuke Takahama","1014.4",10
 "Clark Aboud","1014.4",5
 "Toh-ru Iwao","1014.4",5
 "Kenji Kawai","1014.4",5
@@ -1393,25 +1397,29 @@ elementName,score,nbOfSongs
 "Mahito Yokota","1014.4",20
 "Yoshimi Kudo","1014.4",5
 "AriesT","1014.4",5
-"Order of Týr","1014.25",12
 "Scott Peeples","1014.1428571428571",14
 "Ryuji Sasai, Yasuhiro Kawakami","1014.1428571428571",7
-"Yasuaki Fujita","1014.1428571428571",21
 "Anti-Syne","1014.1428571428571",7
 "Shoji Meguro, Lyn","1014.1428571428571",7
 "Yoko Kanno","1014.0625",16
+"Jonathan Dunn","1013.9090909090909",11
 "Hidehiro Funauchi","1013.9090909090909",11
 "The Black Mages","1013.875",24
+"Yasuaki Fujita","1013.7142857142857",21
 "Nozomu Nakahashi, Keita Hoshi","1013.5",6
 "Eiswuxe","1013.5",6
 "Basheman","1013.5",2
 "OceansAndrew, OverClocked University","1013.5",4
+"fredrikd","1013.5",4
+"Order of Týr","1013.5",12
 "Professor Sakamoto","1013.5",8
 "That Headband Guy","1013.5",2
 "Naruto","1013.5",2
 "Dragonlord","1013.5",2
 "Kazuhiro Nakamura","1013.5",4
+"Two Feathers","1013.5",4
 "Kenneth Young, Brian D'Oliveira","1013.5",2
+"Paper Coelacanth","1013.5",4
 "Kouichi Sakita","1013.5",2
 "Paul Ruskay","1013.5",2
 "Revo","1013.5",14
@@ -1420,7 +1428,6 @@ elementName,score,nbOfSongs
 "Aureolius","1013.5",2
 "AkumajoBelmont","1013.5",6
 "Juan Medrano, zircon","1013.5",2
-"Gareth Coker, Rachel Mellis","1013.5",2
 "Kammo64","1013.5",2
 "David L. Puga, Mak Eightman","1013.5",2
 "Seiichi Fukami, Yuji Takenouchi, Junya Nakano","1013.5",4
@@ -1474,6 +1481,7 @@ elementName,score,nbOfSongs
 "SharpRainMusic","1013.5",2
 "John Paul Hayward","1013.5",2
 "Lucas Guimaraes, ImAFutureGuitarHero, Stemage","1013.5",2
+"Michael Staple","1013.5",2
 "Rich Douglas","1013.5",2
 "Masayoshi Soken, Ken Ito","1013.5",2
 "Max LL","1013.5",4
@@ -1487,8 +1495,8 @@ elementName,score,nbOfSongs
 "Timelord","1013.5",2
 "Super Nintechno","1013.5",2
 "Emperor","1013.5",2
+"DDRKirby(ISQ)","1013.3373493975904",83
 "Trenthian","1013.1538461538462",13
-"DDRKirby(ISQ)","1013.1204819277109",83
 "Daisuke Ishiwatari, Norichika Sato","1013.0909090909091",11
 "MkVaff","1013.0178571428571",56
 "Laura Shigihara","1013",9
@@ -1500,6 +1508,7 @@ elementName,score,nbOfSongs
 "Mayuko Kageshita","1012.8571428571429",7
 "Naoto Tanaka","1012.75",12
 "Toshiharu Yamanishi","1012.7058823529412",17
+"Astral Tales","1012.6",5
 "analoq","1012.6",15
 "Kris Keyser","1012.6",5
 "Kenny, Oh Chan, Tarkun","1012.6",5
@@ -1518,7 +1527,6 @@ elementName,score,nbOfSongs
 "Hiroshi Miyazaki, Kaori Nakabai, Rika Shigeno","1012.375",8
 "JD Harding","1012.375",8
 "Yerzmyey","1012",3
-"Ben Prunty","1012",3
 "The Koopas","1012",3
 "Kenmochi Hidefumi","1012",3
 "Kartmaze","1012",9
@@ -1532,9 +1540,9 @@ elementName,score,nbOfSongs
 "Seiichi Takamoto","1012",6
 "Tomoko Sasaki","1012",12
 "Hideki Okugawa","1012",3
-"Hyde209","1012",3
 "ARM","1012",3
 "Posu Yan","1012",3
+"Reuben6, Gamer of the Winds","1012",3
 "Kyaku","1012",3
 "David Cookie","1012",3
 "Dacian Grada","1012",6
@@ -1546,7 +1554,6 @@ elementName,score,nbOfSongs
 "4sk","1011.5714285714286",7
 "Kojiro Mikusa, Masayuki Nagao","1011.4545454545455",11
 "ZackParrish","1011.4",15
-"Minae Fujii","1011.4",15
 "Gareth Coker","1011.4",15
 "Magnus \"SoulEye\" Pålsson","1011.3684210526316",19
 "Bobby Prince","1011.25",4
@@ -1558,6 +1565,7 @@ elementName,score,nbOfSongs
 "Ryo Yonemitsu","1011.25",4
 "Vince Kaichan","1011.25",4
 "The Pancake Chef","1011.25",4
+"missingNo.","1011.25",12
 "James C. Hoffman","1011.25",4
 "Norihiko Togashi","1011.25",4
 "Michiru Yamane, Yasushi Asada","1011.25",4
@@ -1584,13 +1592,10 @@ elementName,score,nbOfSongs
 "Asuka Ohta","1010.8",5
 "Stephen Kennedy","1010.8",5
 "Hekdar Thunderfist","1010.8",5
-"Chimpazilla","1010.6875",16
 "Shinichi Sakamoto","1010.6363636363636",11
 "Select Start","1010.6363636363636",22
-"Jonathan Dunn","1010.6363636363636",11
 "Justin Thornburgh","1010.6363636363636",11
 "tenChux","1010.6363636363636",11
-"Juan Medrano","1010.5",36
 "GUIDO","1010.5",6
 "Daisuke Amaya (Pixel), Danny Baranowsky","1010.5",12
 "Capcom","1010.5",18
@@ -1602,19 +1607,21 @@ elementName,score,nbOfSongs
 "Takeshi Abo, Chiyomaru Shikura","1010.2857142857143",7
 "Tyler Heath","1010.2857142857143",7
 "Mike Peacock, Darren Radtke, Chad York, Scott McFadyen, Davor Vulama","1010.2857142857143",7
+"Juan Medrano","1010.25",36
 "Akihiko Mori","1010.2272727272727",22
+"Minae Fujii","1010.2",15
 "Toby Fox","1010.1612903225806",31
+"Chimpazilla","1010.125",16
+"Alph Lyla","1010.125",8
 "Graeme Norgate, Grant Kirkhope","1010.125",8
 "Lampje4life","1010.125",8
 "Lyn","1010.125",8
 "Mitsuhiko Takano","1010.125",8
-"Kan R. Gao","1010",9
 "Kazuhiko Uehara, Tomoya Tomita, Nobuyuki Akena","1010",9
 "Cody Wright","1009.8181818181819",11
 "Christopher Larkin","1009.8181818181819",11
 "Masakazu Sugimori","1009.75",24
 "David Wise, Graeme Norgate","1009.75",12
-"missingNo.","1009.75",12
 "Makoto Tomozawa","1009.6923076923077",13
 "Harumi Fujita","1009.5625",16
 "Gavin Raeburn","1009",4
@@ -1623,11 +1630,9 @@ elementName,score,nbOfSongs
 "Justin Tense","1009",3
 "Jared Hudson","1009",7
 "Takeharu Ishimoto","1009",29
-"fredrikd","1009",4
+"Kan R. Gao","1009",9
 "Arkimedes","1009",2
 "Stemage, Viking Guitar","1009",2
-"Katsuya Yamano","1009",10
-"Txai","1009",9
 "Tatsuyuki Maeda","1009",11
 "Hiroyuki Iwatsuki, Haruo Ohashi","1009",13
 "John Torkington","1009",3
@@ -1638,14 +1643,13 @@ elementName,score,nbOfSongs
 "Falk","1009",5
 "Kazumi Totaka","1009",23
 "Tasogare Frontier,alphes","1009",2
+"Video Game Orchestra","1009",9
 "Hidenori Maezawa, Motoaki Furukawa","1009",10
-"Mieko Ishikawa","1009",8
 "Tepid","1009",7
 "bLiNd, Leifo","1009",2
 "Matt Drouin","1009",2
 "Argitoth","1009",3
 "Fishy","1009",15
-"Nintendo","1009",2
 "Koji Kondo, Naoto Kubo, Asuka Hayazaki","1009",6
 "Josh Barron","1009",5
 "Akitaka Tohyama","1009",9
@@ -1674,6 +1678,7 @@ elementName,score,nbOfSongs
 "Ayumi Iga","1009",4
 "NoTuX","1009",4
 "Nobuo Uematsu, Tsuyoshi Sekito, Keiji Kawamori","1009",9
+"Earth Kid","1009",8
 "Tokyo Philharmonic Orchestra, Daisuke Shinoda","1009",3
 "Brenton Kossak & Blaine McGurty","1009",2
 "Misha Mansoor","1009",2
@@ -1694,7 +1699,6 @@ elementName,score,nbOfSongs
 "I Set My Pixels On Fire, bubu","1009",2
 "mutagene","1009",2
 "Masahiro Andoh, Ted Namba","1009",7
-"YUKIYOSHI","1009",2
 "Yoshiyuki Sahashi","1009",3
 "koutaq","1009",2
 "Woofle, Strife","1009",11
@@ -1702,7 +1706,6 @@ elementName,score,nbOfSongs
 "Marshall Art, jmr, streifig","1009",2
 "freezedream","1009",4
 "Hidehiro Kawai","1009",6
-"3R2","1009",5
 "Kenta Nagata, Toru Minegishi","1009",5
 "Gunderslam","1009",5
 "grooveman Spot","1009",2
@@ -1902,12 +1905,12 @@ elementName,score,nbOfSongs
 "SOuNDSNC","1009",1
 "Abreu Project","1009",2
 "DeNa","1009",1
-"Jorito, BMC_WarMachine","1009",1
 "Chipzel, Manami Matsumae","1009",1
 "Esteban Bellucci, Toni Leys","1009",1
 "EAR","1009",3
 "Tomoko Sasaki, Naofumi Hataya","1009",1
 "Akihito Hayashi","1009",1
+"DROIDEKKA","1009",1
 "Natsuko Naitou","1009",1
 "MICHI\"PAD-A\"","1009",1
 "Darkmoocher, timaeus222","1009",1
@@ -1920,7 +1923,6 @@ elementName,score,nbOfSongs
 "MunzadetH, Mega Beardo, Viking Guitar","1009",1
 "Jowie Schulner","1009",1
 "shaboogen","1009",1
-"Fumihisa Tanaka","1009",1
 "Detective Tuesday, DrumUltimA","1009",1
 "Yuuyu, Rin Kagamine","1009",1
 "Takatsugu Wakabayashi","1009",1
@@ -1954,6 +1956,7 @@ elementName,score,nbOfSongs
 "Carlos Eiene","1009",1
 "Triodust","1009",1
 "Hashel, Psamathes, Pegster McDudeson","1009",1
+"Dacian Grada, VictorTheGuitarNerd","1009",1
 "Lotus SM","1009",1
 "Julian Spillane, Lauren the Flute","1009",1
 "Game Play","1009",1
@@ -1980,11 +1983,11 @@ elementName,score,nbOfSongs
 "TheCoolestNerdGuy, Ian Martyn, Thennecan, Danilo Ciaffi, SmashKAB, Subversiveasset, Donovan, VideoGamesG33k","1009",1
 "VideoGamesG33k, Torjuz, JohnStacy, Playrhatr2007","1009",1
 "Steven Melin, freezetag","1009",1
-"Zohar Emulator","1009",1
 "Lord Bif Music, Vled Tapas","1009",1
 "CAO","1009",1
 "Jorito, jmabate, Kalu4ii Plays, Psamathes","1009",1
 "RichGC, Earth Kid, Torby Brand","1009",1
+"TheWallFly","1009",1
 "MBtech","1009",1
 "Jacob Greenmount","1009",1
 "laamaa","1009",1
@@ -2001,7 +2004,6 @@ elementName,score,nbOfSongs
 "Craig Matterson, Lemellekh2","1009",1
 "bertfm","1009",1
 "Ganondorofu","1009",1
-"TechnoBabble","1009",1
 "Freeo","1009",1
 "Pouale","1009",1
 "RebeccaETripp, Bassoonify, Gamer of the Winds, Sauraen","1009",1
@@ -2140,7 +2142,6 @@ elementName,score,nbOfSongs
 "U2","1009",1
 "Go Ichinose, Hitomi Sato","1009",1
 "Kazumi Mitome, Yasunori Mitsuda, Shota Kageyama","1009",1
-"Yuzo Koshiro, Emi Evans","1009",1
 "Yasuko Yamada","1009",1
 "Rikki","1009",1
 "Natasha Farrow","1009",1
@@ -2173,22 +2174,25 @@ elementName,score,nbOfSongs
 "SnappleMan, Braincells, Tony Dickinson (Prince uf Darkness)","1009",1
 "burnt toast","1009",1
 "The World Is Square","1008.5909090909091",22
+"Audio Sprite","1008.5714285714286",21
+"bLiNd","1008.542372881356",59
 "Lena Raine","1008.4",15
 "A_Rival","1008.3333333333334",27
 "DM DOKURO","1008.3076923076923",13
 "Jeroen Tel","1008.2894736842105",38
 "Kozo Nakamura, Yasuhiko Manno","1008.25",12
 "Jeremiah Ross (Module)","1008.25",12
-"bLiNd","1008.2372881355932",59
 "FFmusic Dj","1008.1818181818181",11
 "Hirosato Noda","1008.1",10
+"Katsuya Yamano","1008.1",10
 "Viking Guitar","1008.1",10
 "Masatomo Miyamoto, Take Shant, Shin-kun, Pazu","1008.1",10
+"Txai","1008",9
 "Tomoko Sasaki, Fumie Kumatani, Naofumi Hataya","1008",9
 "Yousuke Yasui","1007.9411764705883",17
 "Pure Sound Inc., Minako Adachi, Kyopi","1007.92",25
 "Junko Tamiya","1007.875",24
-"Alph Lyla","1007.875",8
+"Mieko Ishikawa","1007.875",8
 "Takashi Horiguchi","1007.875",8
 "Akihiro Honda","1007.875",8
 "Magical Trick Society","1007.7142857142857",14
@@ -2197,28 +2201,23 @@ elementName,score,nbOfSongs
 "The Protomen","1007.7142857142857",7
 "sasakure.UK","1007.7142857142857",7
 "Deniz Akbulut","1007.7142857142857",14
-"Audio Sprite","1007.7142857142857",21
 "Eric Buchholz","1007.6153846153846",13
 "Naoki Kodaka","1007.5535714285714",56
-"Akira Yamaoka","1007.5",24
 "Iku Mizutani, Koichi Yamanishi","1007.5",12
 "SnappleMan","1007.5",6
 "The Good Ice","1007.5",6
 "Wyvern's Spirit","1007.5",6
 "Rellik","1007.5",6
-"Ralph Vickers (Rakohus)","1007.5",18
 "Jun Ishikawa, Hirokazu Ando","1007.5",18
 "Kou Ogata","1007.5",6
 "DCT","1007.5",6
 "SlashBib","1007.5",6
 "Russell Brower, Derek Duke, Glenn Stafford","1007.5",6
 "Arata Iiyoshi, Atsuhiro Ishizuna","1007.4117647058823",17
-"Tater-Tot Tunes","1007.3928571428571",28
 "Bladiator","1007.3636363636364",11
 "Kousuke Yamashita","1007.3125",16
 "Super Guitar Bros.","1007.2857142857143",42
 "Super Marcato Bros., Karl Brueggemann, Will Brueggemann, Marty Brueggemann","1007.2692307692307",26
-"Disasterpeace","1007.258064516129",31
 "Junichiro Kaneda, Ayako Nishigaki","1007.2",5
 "Layton Grand Caravan Orchestra","1007.2",5
 "Yoshino Aoki, Taro Iwashiro","1007.2",5
@@ -2232,39 +2231,43 @@ elementName,score,nbOfSongs
 "Yoko Ueno","1007.2",5
 "Dj CUTMAN, Spamtron","1007.2",10
 "PXL8","1007.2",5
+"Tokyo Philharmonic Orchestra, Tomomichi Takeoka","1007.2",5
 "Sam Griffin","1007.2",10
 "Chris Porter","1007.2",5
+"3R2","1007.2",5
 "Sean Haeberman","1007.2",5
 "Fumito Hirata","1007.2",5
-"DJ UPPERCUT","1007.2",5
+"Akira Yamaoka","1007.125",24
 "Descendants of Erdrick","1007.125",24
-"Tweex","1007.1052631578947",19
+"Tater-Tot Tunes","1007.0714285714286",28
 "Yuki Iwai","1007.0434782608696",23
 "Minako Adachi, Go Ichinose","1007",9
-"Video Game Orchestra","1007",9
 "Yoko Osaka","1007",9
 "Nobuo Uematsu, Kenji Ito","1007",9
+"Ralph Vickers (Rakohus)","1007",18
 "RAC","1007",9
+"Disasterpeace","1006.9677419354839",31
 "Ghetto Lee Lewis","1006.9230769230769",13
 "Tim Follin","1006.8823529411765",51
+"Tim Follin, Geoff Follin","1006.8823529411765",17
 "Rainbowdragoneyes","1006.8823529411765",17
 "Kozo Nakamura, Tomoya Tomita, Kenichi Matsubara, Yoshinori Sasaki, Satoko Minami, Kenichiro Fukui","1006.8823529411765",17
 "Hiromi","1006.75",4
+"Kanako Kakino","1006.75",4
 "Pascal Michael Stiefel","1006.75",16
 "Star Salzman","1006.75",12
 "Keisuke Ito, Yasuhiro Kawagoe, Noriko Murakami","1006.75",4
+"Soyo Oka, Taro Bando","1006.75",8
 "Ben Briggs, Insert Rupee, halc","1006.75",4
-"Earth Kid","1006.75",8
+"Blake Inc.","1006.75",4
 "Go Sato","1006.75",4
 "OverCoat","1006.75",4
-"Steel Samurai","1006.75",4
 "Damjan Mravunac","1006.75",4
 "Gabe Castro","1006.75",8
 "Yoshihiro Tsukahara","1006.75",4
 "A-dash","1006.75",8
 "TrickyWolfy","1006.75",4
 "SuperPsyguy","1006.75",4
-"Main Finger","1006.75",4
 "Derek Oren, Jeremy Robson","1006.75",4
 "Adam Matlock","1006.75",4
 "The Primals","1006.75",4
@@ -2273,21 +2276,21 @@ elementName,score,nbOfSongs
 "Noriyuki Kamikura","1006.6666666666666",27
 "Siena Wind Orchestra","1006.6666666666666",27
 "Yoshito Hirano","1006.6521739130435",23
+"Tweex","1006.6315789473684",19
 "Darangen","1006.5454545454545",11
 "Doni","1006.4285714285714",21
 "xylo","1006.4285714285714",7
 "Sean Bialo (CosmicGem)","1006.4285714285714",7
 "Kain White","1006.4285714285714",7
 "Hayato Sonoda, Wataru Ishibashi, Takahide Murayama, Kohei Wada","1006.4285714285714",7
-"Kelly Bailey","1006.4285714285714",14
 "Michiru Yamane","1006.4109589041096",73
-"Kouji Murata","1006.3191489361702",47
 "Hiroshi Yamaguchi","1006.3",10
 "Mairiba","1006.3",10
 "Natsumi Kameoka","1006.2307692307693",13
 "Jeremiah Sun","1006.2307692307693",13
 "Metroid Metal","1006.2307692307693",13
 "Christophe Héral","1006.1875",16
+"Kouji Murata","1006.1276595744681",47
 "Chris J. Hampton","1006",3
 "PsyNES","1006",6
 "Kenji Yamamoto","1006",42
@@ -2310,9 +2313,7 @@ elementName,score,nbOfSongs
 "Shotaro Seo (MONACA)","1006",15
 "Mariam Abounnasr","1006",3
 "Keisuke Ito, Yasuhiro Kawagoe","1006",6
-"FKD","1006",6
 "Takenobu Mitsuyoshi","1006",6
-"Rudolf Stember","1006",3
 "injury (Starla)","1006",3
 "Abadoss","1006",3
 "texx sound","1006",3
@@ -2342,14 +2343,14 @@ elementName,score,nbOfSongs
 "Chronodin","1006",3
 "xylo, Wiklund","1006",3
 "Masayoshi Soken","1005.8695652173913",23
-"Tim Follin, Geoff Follin","1005.8235294117648",17
+"Kelly Bailey","1005.7857142857143",14
 "Hiroshige Tonomura","1005.7272727272727",22
-"Piano Squall","1005.7272727272727",11
 "Daisuke Ishiwatari, Koichi Seiyama","1005.7272727272727",11
 "DS Music","1005.7272727272727",11
-"Yasunori Mitsuda","1005.6875",144
 "YoshiBlade","1005.6842105263158",19
+"Maitaro","1005.6842105263158",19
 "PRYZM","1005.625",16
+"Yasunori Mitsuda","1005.625",144
 "Koichi Fujiwara","1005.625",8
 "ASCII Entertainment","1005.625",8
 "Sbeast","1005.625",8
@@ -2363,10 +2364,10 @@ elementName,score,nbOfSongs
 "Yuka Tsujiyoko, Saki Haruyama","1005.5384615384615",13
 "Black Cat Lounge","1005.5384615384615",13
 "Juhani Junkala","1005.5384615384615",13
-"ZUN","1005.52",75
-"Nobuo Uematsu","1005.4545454545455",231
+"Knight of the Round","1005.5384615384615",13
+"Nobuo Uematsu","1005.5324675324675",231
 "Martin Galway","1005.4",5
-"Scaredsim","1005.4",5
+"ZUN","1005.4",75
 "Hiroyuki Misawa","1005.4",5
 "Koji Kondo, Nobuo Kurita","1005.4",5
 "Sukenomiya Fujio","1005.4",5
@@ -2389,15 +2390,16 @@ elementName,score,nbOfSongs
 "Kenichiro Fukui, Seiichi Fukami","1005.4",5
 "Michiru Yamane, Tomoko Nishikawa","1005.4",5
 "Zeratul","1005.4",5
+"DJ UPPERCUT","1005.4",5
 "Hiroshi Watanabe","1005.4",5
 "Grant Kirkhope","1005.3333333333334",27
 "Richard Jacques","1005.3181818181819",22
-"David Wise","1005.2941176470588",119
 "Zac Zinger","1005.2941176470588",17
+"Chris Christodoulou","1005.2941176470588",17
 "Tokyo Philharmonic Orchestra","1005.2826086956521",46
+"David Wise","1005.25",120
 "Tsukasa Masuko, T's Music","1005.25",12
 "Eveline Fischer","1005.25",12
-"Chihiro Fujioka","1005.25",12
 "Ari Pulkkinen","1005.1428571428571",14
 "Fearofdark","1005.1428571428571",28
 "TPR","1005.1428571428571",21
@@ -2407,24 +2409,25 @@ elementName,score,nbOfSongs
 "RoBKTA","1005",9
 "Joel Kent","1005",9
 "Banjo Guy Ollie","1005",18
-"Hiroshi Kawaguchi","1004.9090909090909",22
+"Joe Hisaishi","1004.9090909090909",11
+"CHiCO, Tomori Kudo","1004.9090909090909",11
 "Argle","1004.8461538461538",13
 "Shinobu Ogawa","1004.8461538461538",13
-"Quinn Fox","1004.8461538461538",13
 "coda","1004.8214285714286",28
 "Hayato Sonoda, Takahiro Unisuga","1004.8",15
 "Yoshito Sekigawa, Shoh Murakami, Yoshiaki Kimura, Hiroki Morishita, Fumihiro Isobe","1004.8",15
 "Cityfires","1004.78125",32
 "Manami Matsumae","1004.7368421052631",38
-"Maitaro","1004.7368421052631",19
 "Hirokazu Tanaka","1004.7045454545455",44
 "Ken Nakagawa","1004.5882352941177",51
 "III","1004.5762711864406",59
 "Paul Hadame","1004.5",2
 "Nekofrog","1004.5",4
+"Hiroshi Kawaguchi","1004.5",22
+"František Fuka (Fuxoft)","1004.5",10
+"DJ MAX-E","1004.5",20
 "Masayoshi Soken, Nobuko Toda, Yoshitaka Suzuki","1004.5",8
 "Wiesty, The OC Jazz Collective","1004.5",8
-"Brad Fuller","1004.5",4
 "Akito Nakatsuka","1004.5",12
 "Solarbear","1004.5",4
 "Chris Abbott","1004.5",2
@@ -2434,13 +2437,13 @@ elementName,score,nbOfSongs
 "Mark Sparling","1004.5",6
 "Calavera","1004.5",10
 "Hayato Sonoda, Takahiro Unisuga, Ryo Takeshita, Yukihiro Jindo","1004.5",8
-"Soyo Oka, Taro Bando","1004.5",8
 "Robin Beanland","1004.5",6
 "Mark Klem","1004.5",6
 "Tim Yarbrough","1004.5",4
 "The St. Albans Rob Hubbard Fan Club","1004.5",4
 "K->","1004.5",2
 "Hirokazu Ando, Tadashi Ikegami","1004.5",10
+"Chihiro Fujioka","1004.5",12
 "deim0s","1004.5",2
 "OverClocked University","1004.5",4
 "Cerrax","1004.5",6
@@ -2449,10 +2452,12 @@ elementName,score,nbOfSongs
 "Ian Luckey","1004.5",2
 "Yoshiyuki Ito","1004.5",4
 "AutoReMi-PK","1004.5",2
+"FKD","1004.5",6
 "Hideaki Mitsui","1004.5",4
 "Fallen Seraph","1004.5",2
 "Shinya Okada","1004.5",6
 "Manami Matsumae, Mari Yamaguchi","1004.5",4
+"Steel Samurai","1004.5",4
 "they/them","1004.5",2
 "Emunator, Flexstyle","1004.5",2
 "Synesthesics","1004.5",2
@@ -2471,6 +2476,7 @@ elementName,score,nbOfSongs
 "Harmony","1004.5",2
 "Krow","1004.5",2
 "Tetrimino","1004.5",6
+"Main Finger","1004.5",4
 "Mega Flare","1004.5",2
 "MunzadetH","1004.5",2
 "Prime Legion","1004.5",2
@@ -2484,15 +2490,12 @@ elementName,score,nbOfSongs
 "Yendorami","1004.5",2
 "Retro Brothers","1004.5",2
 "Maxo","1004.5",2
-"Lyn, Yumi Kawamura, Shihoko Hirata,  Lotus Juice","1004.5",10
-"Michael Staple","1004.5",2
 "Doug Perry","1004.5",2
 "Lauren the Flute","1004.5",2
 "Masha Lepire","1004.5",2
 "Kosuke Mizukami","1004.5",2
 "Luis Vasquez","1004.5",2
 "Swum","1004.5",2
-"Fredrik Häthén & Friends","1004.5",2
 "Sebastian Mårtensson","1004.5",4
 "MB","1004.5",2
 "starRo","1004.5",2
@@ -2513,82 +2516,78 @@ elementName,score,nbOfSongs
 "Shinra Symphony Orchestra and Chorus, Sachiko Miyano","1004.5",2
 "Takahiro Nakaguchi","1004.5",2
 "Yasunori Shiono","1004.4081632653061",49
-"SAVESTATES","1004.4",45
+"Hirokazu Ando, Shogo Sakai, Tadashi Ikegami, Jun Ishikawa","1004.2857142857143",21
 "Hyakutaro Tsukumo","1004.2857142857143",21
-"Chris Christodoulou","1004.2352941176471",17
+"SAVESTATES","1004.2",45
 "PrototypeRaptor","1004.2",15
+"Quinn Fox","1004.1538461538462",13
 "Thunderclash","1004.1538461538462",13
 "Wizet","1004.1538461538462",13
-"Knight of the Round","1004.1538461538462",13
-"Invalid song","1004.1095890410959",438
+"Invalid song","1004.1379310344828",435
+"Vernian Process","1004.1370967741935",124
+"Go Ichinose","1004.1142857142858",35
 "Little V","1004.0909090909091",11
 "Martin O'Donnell, Michael Salvatori","1004.0909090909091",33
-"Joe Hisaishi","1004.0909090909091",11
 "Careless Juja","1004.0909090909091",11
-"Vernian Process","1004.0645161290323",124
-"Keiichi Okabe","1004",27
+"Piano Squall","1004.0909090909091",11
 "Sean Schafianski","1004",18
 "Marty Brueggemann","1004",18
 "Shinichiro Nakamura, Masato Koike, Miki Fujii","1004",9
 "Hiroki Hashimoto, Hiroyuki Kawada, Eriko Sakurai, Yoshinori Hirai, Takafumi Sato, Mitsuhiro Kitadani, Yu Sugimoto","1004",9
 "Akari Kaida","1003.9705882352941",34
 "Yasunori Nishiki","1003.9705882352941",34
-"YMCK","1003.9375",16
 "Minae Fujii, Akihiro Akamatsu, Sachiko Oita","1003.8571428571429",14
-"lpower","1003.8571428571429",14
 "Kentaro Koyama","1003.8571428571429",7
 "Matt Simmonds (4mat)","1003.8571428571429",7
 "EXCELSIA","1003.8571428571429",7
 "Koji Yamada, Yuko Ishii","1003.8571428571429",7
 "+TEK","1003.8571428571429",14
 "Alexander Brandon","1003.8076923076923",26
-"LaiD Back Devil","1003.7894736842105",19
 "Yuko Takehara","1003.7674418604652",43
+"Keiichi Okabe","1003.6666666666666",27
 "Hideki Sakamoto","1003.6666666666666",27
+"Scaredsim","1003.6",5
 "Michiko Naruke","1003.6",40
 "Akihiro Juichiya","1003.6",15
-"DJ MAX-E","1003.6",20
-"Go Ichinose","1003.6",35
 "Thomas Detert","1003.6",10
 "Tony Williams","1003.6",5
 "Russell Brower, Neal Acree, Sam Cardon, Edo Guidotti, Jeremy Soule","1003.6",5
 "Arne Hörberg","1003.6",5
 "Cyril the Wolf","1003.6",5
 "Danilo Ciaffi","1003.6",5
-"Tokyo Philharmonic Orchestra, Tomomichi Takeoka","1003.6",5
 "Takahiro Eguchi","1003.6",5
 "Stephane Bellanger, Didier Lord, Rémi","1003.6",5
 "Joel Neilsen","1003.6",5
 "JohnStacy","1003.6",5
-"yam","1003.6",5
+"Lyn, Yumi Kawamura, Shihoko Hirata,  Lotus Juice","1003.6",10
 "Shihoko Hirata","1003.6",5
 "Manami Kiyota","1003.6",5
 "Koji Hayama, Hayato Matsuo","1003.6",5
 "Junichi Masuda","1003.5084745762712",59
 "Kazunaka Yamane","1003.5",18
 "Salamander Factory","1003.5",18
-"Tomoya Tomita, Misaki Asada","1003.5",18
 "Mark 'TDK' Knight","1003.4615384615385",13
 "Rio Hamamoto","1003.4615384615385",13
 "Go Shiina","1003.4615384615385",65
-"Hirokazu Ando, Shogo Sakai, Tadashi Ikegami, Jun Ishikawa","1003.4285714285714",21
-"FamilyJules7x","1003.4054054054054",111
+"Big Giant Circles","1003.3962264150944",53
 "Daniel White (danooct1)","1003.3882352941176",85
 "Ziwtra","1003.375",16
 "Keiichi Okabe, Kakeru Ishihama, Keigo Hoashi, Takafumi Nishimura","1003.375",16
+"YMCK","1003.375",16
 "The Consouls","1003.375",8
 "RoboRob","1003.375",8
+"LaiD Back Devil","1003.3157894736842",19
+"FamilyJules7x","1003.2946428571429",112
 "Miyoshi Okuyama","1003.2727272727273",11
 "Simon Viklund","1003.2727272727273",11
 "Landon Podbielski","1003.2727272727273",11
 "Xoc","1003.2727272727273",11
-"CHiCO, Tomori Kudo","1003.2727272727273",11
 "Chris Holland","1003.2727272727273",11
 "The Wingless","1003.2142857142857",14
+"lpower","1003.2142857142857",14
 "Riyou Kinugasa, Kengo Hagiwara","1003.2142857142857",14
 "Dale North","1003.1935483870968",31
 "Rozen","1003.1304347826087",23
-"Big Giant Circles","1003.1153846153846",52
 "soundTeMP","1003.1153846153846",26
 "Hirokazu Ando","1003.1034482758621",29
 "Iku Mizutani, Shigehiro Takenouchi, Motoaki Furukawa","1003",6
@@ -2599,13 +2598,12 @@ elementName,score,nbOfSongs
 "Takashi Tateishi, Manami Matsumae, Yoshihiro Sakaguchi","1003",6
 "Steppo","1003",3
 "Yasuhiko Fukuda","1003",6
-"Kenichi Matsubara, Yoshinori Sasaki","1003",9
 "Pot Hocket","1003",6
 "Fredrik Häthén","1003",9
 "Jacob Lincke","1003",18
 "Atsuko Asahi","1003",9
 "Vic Viper","1003",18
-"James Hannigan","1003",15
+"Tomoya Tomita, Misaki Asada","1003",18
 "Ken Ito","1003",6
 "Takuro Iga","1003",3
 "Tibonev","1003",3
@@ -2613,6 +2611,7 @@ elementName,score,nbOfSongs
 "Tomoya Ohtani, Takeshi Watanabe","1003",3
 "Kenichi Kikkawa","1003",3
 "Trent \"Basstronix\" Robertson","1003",6
+"Rudolf Stember","1003",3
 "Greg","1003",3
 "Takuya Maekawa, Yuichi Ozaki, Masami Yone","1003",3
 "Yasumasa Kitagawa","1003",12
@@ -2631,7 +2630,6 @@ elementName,score,nbOfSongs
 "Shinji Orito, Manack","1003",3
 "Nao","1003",3
 "Saori Kobayashi","1003",3
-"Richter","1003",3
 "HertzDevil","1003",3
 "Louie Aronowitz","1003",3
 "Kohei Wada","1003",3
@@ -2641,17 +2639,18 @@ elementName,score,nbOfSongs
 "DaMonz","1002.7692307692307",13
 "John Baker","1002.7692307692307",13
 "Kenta Nagata, Atsuko Asahi, Yasuaki Iwata, Ryo Nagamatsu, Asuka Hayazaki, Toshiyuki Sudo, Daisuke Matsuoka, Tsukasa Usui, Haruko Torii, Takuhiro Honda, Yutaro Takakuwa, Kairi Hamada, Chisaki Hosaka, Sayako Doi, Reika Nakai","1002.7692307692307",13
+"Ben Briggs","1002.7341772151899",79
 "Keiji Yamagishi","1002.7",10
-"Rushjet1","1002.7",10
 "N.EX.T","1002.7",10
-"František Fuka (Fuxoft)","1002.7",10
 "Archangel","1002.7",10
 "Toshio Kajino, Mitsuhiko Takano","1002.7",10
 "halc","1002.6842105263158",57
 "Manabu Namiki","1002.6756756756756",37
+"prophetik music","1002.625",24
 "Tsuyoshi Sekito, Yuko Kurahashi","1002.5714285714286",7
 "University of Maryland Gamer Symphony Orchestra","1002.5714285714286",35
 "Kiminori Atsuta","1002.5714285714286",7
+"ABSRDST","1002.5714285714286",7
 "Orie Falconer","1002.5714285714286",7
 "Retro Game Remix","1002.5714285714286",7
 "EgM","1002.5714285714286",7
@@ -2659,22 +2658,20 @@ elementName,score,nbOfSongs
 "dj-Jo","1002.5714285714286",7
 "Woofle","1002.5714285714286",7
 "Infinity Tone","1002.5714285714286",7
-"Ben Briggs","1002.506329113924",79
 "The 8-Bit Big Band","1002.4827586206897",29
 "Jorito","1002.4545454545455",11
 "Hiroyuki Iwatsuki","1002.4545454545455",33
 "goat","1002.4545454545455",11
 "XPRTNovice","1002.4545454545455",11
+"James Hannigan","1002.4",15
 "AeroZ","1002.3684210526316",19
 "Daniel Brown","1002.25",20
 "Tero Hilpinen, Toni Hilpinen","1002.25",4
 "Guifrog","1002.25",16
-"Kanako Kakino","1002.25",4
 "Jaleco","1002.25",4
 "Kruai","1002.25",4
 "Jake Kaufman (virt), Ian Stocker","1002.25",12
 "Brian Davis","1002.25",8
-"Mark Vera","1002.25",4
 "Noriyuki Iwadare, Isao Mizoguchi","1002.25",4
 "Naoto Tanaka, Naoya Kamisaka, Takuya Miyawaki","1002.25",8
 "Wizwars","1002.25",8
@@ -2691,21 +2688,19 @@ elementName,score,nbOfSongs
 "Tommy '86","1002.25",4
 "bjulin, Martin Schioeler, Manfred Linzner","1002.25",12
 "Regretted","1002.25",4
-"Blake Inc.","1002.25",4
 "ROCK-MEN","1002.16",25
 "Rob Hubbard","1002.1176470588235",17
 "Yuichi Sakakura, Tomoya Tomita, Kozo Nakamura","1002.0769230769231",13
 "Keiko","1002.0454545454545",22
 "yogurtbox","1002",9
 "Protricity","1002",27
-"Harry Mack","1002",9
+"Kenichi Matsubara, Yoshinori Sasaki","1002",9
 "Trevor Alan Gomes","1002",27
 "Mike Morasky","1001.9285714285714",14
 "Yosuke Kinoshita, Kosuke Mizukami, Shin-ichiro Nakamura","1001.9285714285714",14
 "Masato Koike","1001.8947368421053",19
-"prophetik music","1001.875",24
 "ThePlasmas","1001.8529411764706",102
-"Noriyuki Iwadare","1001.8380281690141",142
+"Rushjet1","1001.8",10
 "LONELYROLLINGSTARS","1001.8",15
 "Ryo Nagamatsu","1001.8",25
 "Manabu Namiki,N.T","1001.8",5
@@ -2724,13 +2719,14 @@ elementName,score,nbOfSongs
 "Lucas Guimaraes","1001.8",5
 "Takayuki Aihara","1001.8",5
 "Devastus","1001.8",5
+"yam","1001.8",5
 "Yumi Kawamura","1001.8",5
 "Neon X","1001.8",5
 "Tomoya Ohtani, Takahito Eguchi","1001.8",5
 "Shusaku Uchiyama, Makoto Tomozawa","1001.8",5
 "Jer Roque","1001.8",5
 "ImAFutureGuitarHero","1001.8",5
-"Daisuke Achiwa","1001.741935483871",31
+"Noriyuki Iwadare","1001.7746478873239",142
 "Yoshino Aoki","1001.7234042553191",47
 "LukHash","1001.6981132075472",53
 "Stephen Rippy","1001.6875",16
@@ -2739,95 +2735,96 @@ elementName,score,nbOfSongs
 "Tsuyoshi Sekito","1001.6363636363636",44
 "Avaris","1001.6363636363636",11
 "Norikazu Miura","1001.6363636363636",11
+"Jesper Kyd","1001.5882352941177",17
+"Arceace","1001.5",6
+"ZREO","1001.5",108
 "Tsukasa Masuko, Hitoshi Sakimoto","1001.5",6
 "Ryu Takami","1001.5",12
 "Kazuo Sawa, Michiya Hirasawa, Urabe Taku, Kuma-san","1001.5",6
 "Alex Garcigregor","1001.5",6
-"Dr.RD, G.K","1001.5",6
+"Daisuke Achiwa","1001.4516129032259",31
 "Entertainment System","1001.4516129032259",31
-"PROTO·DOME","1001.44",50
-"ZREO","1001.4299065420561",107
 "Hiroki Kikuta","1001.4",45
 "Hayato Sonoda, Takahiro Unisuga, Saki Momiyama","1001.3846153846154",13
 "Yasuaki Iwata","1001.3846153846154",13
 "Hajime Wakai","1001.3846153846154",13
 "Spencer Nilsen","1001.35",20
-"Armcannon","1001.35",20
 "Kenichi Tokoi","1001.2857142857143",14
 "Tsukasa Tawada","1001.2857142857143",14
 "Rio \"88\" Hashikawa","1001.2857142857143",7
 "Yuzo Koshiro, Masato Nakamura","1001.2857142857143",7
 "Rom Di Prisco","1001.2857142857143",7
+"PROTO·DOME","1001.26",50
 "Kow Otani","1001.2272727272727",22
 "Sir_NutS","1001.2162162162163",37
 "Tomoya Tomita","1001.1612903225806",31
 "Super Soul Bros.","1001.1538461538462",39
+"djpretzel","1001.1454545454545",55
+"Nostalvania","1001.125",16
 "Koichi Sugiyama","1001.125",88
+"Videri String Quartet","1001.125",16
 "jaxx","1001.125",8
 "IDIOTAPE","1001.125",8
-"Jesper Kyd","1001.0588235294117",17
-"Delldongo","1001.0188679245283",53
+"Tokuhiko Uwabo (Bo)","1001.08",25
 "WillRock","1001",54
 "Toru Minegishi, Manaka Tominaga, Asuka Ohta, Koji Kondo","1001",9
+"Dan Rodrigues","1001",9
 "Michiru Yamane, Keiko Fukami, Masahiko Kimura","1001",9
 "GrayLightning","1001",9
 "Kozue Ishikawa","1001",9
 "Stephane Bellanger, Didier Lord","1001",9
+"Harry Mack","1001",9
 "Blake Robinson","1001",9
 "Darren Korb","1000.9310344827586",29
-"Skrypnyk","1000.9",10
 "Stello Doussis","1000.9",10
 "Naoko Mitome, Chika Sekigawa","1000.9",10
-"djpretzel","1000.8181818181819",55
+"Delldongo","1000.8490566037735",53
 "Masahiro Kajihara","1000.8181818181819",11
-"Deedubs","1000.8181818181819",11
-"Shoji Meguro","1000.8019801980198",101
 "Naofumi Hataya","1000.7941176470588",34
 "Minibosses","1000.75",24
 "Hiroshi Okubo","1000.75",12
 "Jun Ishikawa","1000.72",25
+"Shoji Meguro","1000.7128712871287",101
 "Will Brueggemann","1000.6428571428571",28
 "Nazaki Inoue, Kame Hirarin","1000.6428571428571",14
 "Keiichi Suzuki, Hirokazu Tanaka","1000.6428571428571",14
 "Kazuhiko Uehara, Hideto Inoue, Harumi Ueko","1000.6428571428571",14
-"Auxcide","1000.5142857142857",70
 "Kristin Naigus, David Russell, Sebastian Wolff","1000.5",18
+"Armcannon","1000.45",20
+"Auxcide","1000.3802816901408",71
 "Mustin","1000.375",24
 "Mari Yamaguchi","1000.36",25
-"Tokuhiko Uwabo (Bo)","1000.36",25
-"Miki Higashino","1000.2727272727273",33
-"Machinae Supremacy","1000.2368421052631",38
-"Jake Kaufman (virt)","1000.2359550561798",267
+"Hidenori Shoji","1000.3",30
 "DSC","1000.1914893617021",94
+"Jake Kaufman (virt)","1000.1685393258427",267
 "9","1000",1
+"505","1000",22
 "HyperDuck SoundWorks","1000",41
 "Katsuhiko Suzuki, Shigemasa Matsuo, Atsushi Fujio, Norio Hanzawa","1000",10
 "elmobo","1000",52
 "Matt Furniss","1000",7
+"Skrypnyk","1000",10
 "PeeWee Hill, Michiko Hill","1000",10
 "Masuma Ito, Yoshiyuki Ito","1000",4
-"Nostalvania","1000",16
 "Takashi Tateishi, Shigemasa Matsuo","1000",9
 "Hirofumi Sasaki","1000",2
-"Mason B. Fisher","1000",5
+"Machinae Supremacy","1000",38
+"Miki Higashino","1000",34
 "Shinobu Tanaka","1000",10
 "Minako Adachi, Shigeki Hayashi","1000",17
-"Masaharu Iwata","1000",22
+"Mark Vera","1000",4
 "Toshiyuki Kakuta","1000",4
 "Danimal Cannon","1000",27
 "Cory Johnson","1000",25
-"Hidenori Shoji","1000",29
 "Tomori Kudo, CHiCO","1000",20
 "Coffee-Break","1000",2
-"Videri String Quartet","1000",16
-"aivi, surasshu","1000",16
 "Kirikiri-Chan, Naoshi Mizuta, Akari Kaida","1000",8
 "Spad3s","1000",2
 "Ako Matsudaira","1000",5
 "Taro Bando,Hajime Wakai","1000",5
 "Toshikazu Tanaka","1000",12
 "Harry Gregson-Williams","1000",10
-"CSGuitar89","1000",48
+"Brad Fuller","1000",4
 "Youchi Iwata, Kaoru Okada","1000",10
 "Masahiro Ikariko, Mutsuhiko Izumi, Motoaki Furukawa, Michiru Yamane, Yuji Takenouchi, Harumi Ueko, Yuko Kurahashi, Tomoya Tomita, Tsuyoshi Sekito, Kazuhiko Uehara","1000",18
 "Elrinth, PsyNES","1000",3
@@ -2836,19 +2833,21 @@ elementName,score,nbOfSongs
 "Chuck Dodgers","1000",2
 "Christian Pacaud","1000",10
 "Team Teamwork","1000",13
-"C418","1000",11
 "A Shell in the Pit","1000",5
 "Kenneth Young","1000",5
 "Shiho Fujii, keity.pop, Mari Kikuma","1000",3
-"ABSRDST","1000",7
 "The Lost OST","1000",3
 "Minako Adachi, Go Ichinose, Junichi Masuda, Tomoaki Oga","1000",3
 "Azusa Chiba, Masaharu Iwata, Kimihiro Abe","1000",4
+"Deedubs","1000",11
 "Yuko Takehara, Toshihiko Horiyama, Makoto Tomozawa","1000",6
 "Rockos","1000",6
 "mikeblastdude","1000",3
+"Alexander Brandon, Michiel van den Bos","1000",6
 "Ryu Umemoto, Ryu Takami, Kazuhiro Kanae","1000",22
+"XenoCross","1000",2
 "Jinbae Park (ESTi)","1000",7
+"Holy Konni","1000",4
 "PxFury","1000",2
 "Jose Acosta","1000",3
 "tefnek","1000",3
@@ -2862,7 +2861,6 @@ elementName,score,nbOfSongs
 "Shady Monk","1000",2
 "Craig Barnes","1000",4
 "Masayoshi Soken, Yukiko Takada","1000",2
-"Rozen, Reven","1000",11
 "Minae Fujii, Yasuaki Fujita","1000",9
 "Atsuki Yoshida","1000",10
 "Norichika Sato","1000",4
@@ -2873,7 +2871,6 @@ elementName,score,nbOfSongs
 "Freen in Green","1000",3
 "Kreton","1000",3
 "SuperiorX","1000",3
-"Hiroki Isogai, Ippo Yamada","1000",2
 "sombreronegro","1000",2
 "Jerry Martin","1000",2
 "Visions of the Future","1000",2
@@ -2926,6 +2923,7 @@ elementName,score,nbOfSongs
 "sci","1000",2
 "-45","1000",2
 "Hideya Nagata","1000",2
+"Richter","1000",3
 "Draconiator","1000",3
 "The Cynic Project","1000",2
 "OceansAndrew, DragonAvenger","1000",3
@@ -2943,6 +2941,7 @@ elementName,score,nbOfSongs
 "Robby Duguay","1000",2
 "John Robert Matz","1000",2
 "Mordra","1000",2
+"Zohar Emulator","1000",2
 "Tobikomi","1000",2
 "Thecoolestnerdguy","1000",2
 "Taku Inoue","1000",4
@@ -2952,8 +2951,9 @@ elementName,score,nbOfSongs
 "Justin Levine","1000",2
 "Jonne Valtonen, Kanagawa Philharmonic Orchestra","1000",2
 "ZeldaRocks","1000",2
+"Fredrik Häthén & Friends","1000",2
+"Dr.RD, G.K","1000",6
 "EndlessRepeat","1000",2
-"DJ Mitsu the Beats","1000",2
 "Plumegeist","1000",2
 "Jace","1000",2
 "Hyper Potions, Jun Senoue","1000",2
@@ -2994,7 +2994,6 @@ elementName,score,nbOfSongs
 "GrayLightning, SnappleMan","1000",1
 "Josh Whelchel, Rachel Denlinger","1000",1
 "Air & Sea","1000",1
-"B33J, Cerrax, Juan Medrano, nonsensicalexis","1000",1
 "Pocketman","1000",1
 "Wintermute, Troy Lawlor","1000",1
 "Ralphis","1000",1
@@ -3006,10 +3005,12 @@ elementName,score,nbOfSongs
 "jaxx, Tim Sheehy (Kaijin)","1000",1
 "Nathan Rich","1000",1
 "superjoe","1000",1
+"Rozovian, WillRock","1000",1
 "Adrian Holovaty","1000",1
 "Sideways Staircase","1000",1
 "Rayagon","1000",1
 "DarkMessenger","1000",1
+"Edgen Animations","1000",1
 "dannyshock","1000",1
 "Emunator, Level 99","1000",1
 "MetalvaniaX","1000",1
@@ -3040,7 +3041,6 @@ elementName,score,nbOfSongs
 "SuperSquare","1000",1
 "Steve Ouimette, Fred Coury","1000",1
 "GrayFox1217","1000",1
-"J1 Sound Team, Dj CUTMAN","1000",2
 "とぼけがお","1000",1
 "Nitro Pulse","1000",1
 "AKIRA","1000",1
@@ -3057,8 +3057,6 @@ elementName,score,nbOfSongs
 "Minako Seki","1000",1
 "General Offensive, Steven Page","1000",1
 "Takuji Namura","1000",1
-"Brandon Strader, Chickenwarlord, Lemonectric, Tuberz McGee","1000",1
-"LV.4 (CODE-49)","1000",1
 "〆G (自由空間.net)","1000",1
 "Milos (Chip Jockey)","1000",1
 "Abadoss, AndyP, Fishy","1000",1
@@ -3075,6 +3073,7 @@ elementName,score,nbOfSongs
 "Chernabogue, Tuberz McGee, Furilas","1000",1
 "Python Blue","1000",1
 "Meteor","1000",1
+"Fumihisa Tanaka","1000",1
 "Kazuhiro Kobayashi","1000",1
 "Majeles","1000",1
 "Bitonal Landscape","1000",1
@@ -3121,6 +3120,7 @@ elementName,score,nbOfSongs
 "OMIYA","1000",1
 "+LET'S DISINFECT!+","1000",1
 "Hardcore Softboy","1000",1
+"TechnoBabble","1000",1
 "jnWake, zykO, ilp0, Ivan Hakštok, Trev Wignall, Jorito","1000",1
 "Troyificus, Jorito, Chimpazilla","1000",1
 "Fredrik Häthén, JohnStacy, Alex Hill, dannymusic, DavidRussell323, Dean Nguyen, Harpsona, Andrew Thompson, Chromatic Apparatus, Andrew Steffen, mkafie, Gabriel Vizcarra, Bassoonify, Gamer of the Winds, Damian Nguyen, Lauren the Flute, Catboss., Travis Kindred, Andre Beller","1000",1
@@ -3155,6 +3155,7 @@ elementName,score,nbOfSongs
 "Tim Hellmann","1000",1
 "Pandora's Bread","1000",1
 "Shusei Murai, Jiro Okada","1000",1
+"Marika Suzuki, Michiko Naruke","1000",1
 "Hideki Higuchi","1000",1
 "Spaceroast","1000",1
 "Ben Oz","1000",1
@@ -3169,7 +3170,6 @@ elementName,score,nbOfSongs
 "Fred Everything","1000",1
 "ExperimentalSoundLab","1000",1
 "Tab Newflax","1000",1
-"Techie Jessie","1000",1
 "Jamie Christopherson, Free Dominguez","1000",1
 "Jono Grant, Ben McCullough","1000",1
 "Traz Damji","1000",2
@@ -3178,7 +3178,6 @@ elementName,score,nbOfSongs
 "Stefan Moser (effoharkay)","1000",1
 "Insane Cup Posse","1000",1
 "The 8-Bit Big Band, Patrick Bartley","1000",1
-"Yoshiyuki Sahashi, Tetsuo Ishikawa","1000",1
 "Seepage, queenjazz, Jay Tholen","1000",1
 "Emunator, ZackParrish, The Vodoú Queen","1000",1
 "Earth Kid, Erika Richards","1000",1
@@ -3216,44 +3215,45 @@ elementName,score,nbOfSongs
 "hewhoisiam","1000",1
 "Martin Leung","1000",1
 "Insert Rupee","1000",1
-"The Megas","999.804347826087",46
+"Kinuyo Yamashita","999.8548387096774",62
+"CSGuitar89","999.8125",48
 "NESkimos","999.75",36
+"Shota Kageyama","999.7428571428571",35
 "Kazuo Sawa","999.7352941176471",34
 "Peter McConnell","999.7272727272727",33
 "Yukihiro Jindo","999.7142857142857",63
-"505","999.5909090909091",22
-"Hideyuki Fukasawa","999.5813953488372",43
-"Kinuyo Yamashita","999.5645161290323",62
-"Mazedude","999.5384615384615",78
+"Mazedude","999.6538461538462",78
+"Jukio Kallio, Daniel Hagström","999.5",18
 "Emunator","999.4705882352941",17
+"aivi, surasshu","999.4705882352941",17
 "Keiki Kobayashi","999.4545454545455",33
+"Falcom Sound Team jdk","999.4517766497462",197
 "Daisuke Amaya (Pixel)","999.4375",32
-"Kulor","999.4375",16
 "Petriform","999.4375",16
+"The Megas","999.4130434782609",46
 "DarkeSword","999.3863636363636",44
+"Hideyuki Fukasawa","999.3720930232558",43
 "Takeshi Inoue,Yumiko Hashizume,Noriyasu Agematsu","999.3571428571429",14
-"Mak Eightman","999.3571428571429",14
 "Petri Alanko","999.3571428571429",14
 "Gordon McNeil","999.3571428571429",14
 "Zebes System","999.325",40
-"Xavier Dang (mv)","999.3076923076923",39
 "Minako Adachi, Junichi Masuda, Go Ichinose, Hiromitsu Maeba, Teruo Taniguchi, Hitomi Sato, Toby Fox","999.3076923076923",13
-"Falcom Sound Team jdk","999.265306122449",196
 "Blue Magic","999.25",12
 "David Wise, Grant Kirkhope","999.25",12
-"Shota Kageyama","999.2285714285714",35
+"Rozen, Reven","999.25",12
 "S.S.T. Band","999.2173913043479",23
+"Masaharu Iwata","999.1818181818181",22
 "Shogo Sakai, Takafumi Miura, Yuji Suzuki, Yusuke Takahama","999.1818181818181",11
 "Noriko Matsueda","999.1818181818181",11
 "Temp Sound Solutions ","999.1818181818181",11
 "Parallelis","999.1818181818181",11
+"C418","999.1818181818181",11
 "Alec Holowka","999.1818181818181",22
 "Distorted Evolution","999.1818181818181",11
-"Masafumi Takada","999.15625",32
-"Atsushi Kitajoh","999.1428571428571",42
 "Theophany","999.1428571428571",21
 "Funk Fiction","999.1",10
 "Allister Brimble, Anthony Putson","999.1",10
+"Xavier Dang (mv)","999.0769230769231",39
 "Retro Remix Revue","999.0526315789474",19
 "Kumi Tanioka","999.0526315789474",38
 "coatlesscarl","999.0425531914893",47
@@ -3264,14 +3264,16 @@ elementName,score,nbOfSongs
 "Kaoru Okada","999",9
 "Daisuke Morishima","999",9
 "Sakai Naoe, Yutaka Hayashi, Takao Ogi","999",9
-"Dan Rodrigues","998.875",8
+"Carl Mylo","998.875",16
 "Thomas Happ","998.875",8
+"Masafumi Takada","998.875",32
 "Hiroki Koga","998.875",8
+"Kulor","998.875",16
 "Mutato Muzika","998.875",8
 "Ryan Ike","998.875",8
-"an0va","998.875",8
-"RebeccaETripp","998.8",60
+"Atsushi Kitajoh","998.7441860465116",43
 "Ailsean","998.7142857142857",14
+"Mak Eightman","998.7142857142857",14
 "Shigeru Tomita","998.7142857142857",7
 "Johan Lindgren","998.7142857142857",7
 "Derek Duke,Glenn Stafford,Neal Acree,Russell Brower","998.7142857142857",14
@@ -3279,34 +3281,32 @@ elementName,score,nbOfSongs
 "Miyoko Kobayashi, Masanori Hikichi","998.7142857142857",7
 "Masahiko Takaki","998.7142857142857",7
 "Jun Senoue","998.6909090909091",55
+"RebeccaETripp","998.65",60
 "Ryu Umemoto","998.6153846153846",26
 "Naoto Shibata","998.6153846153846",13
 "On Being Human","998.6153846153846",13
 "David L. Puga","998.6153846153846",13
 "Hayato Asano","998.59375",32
 "TGH","998.578947368421",19
-"Hitoshi Sakimoto","998.5123966942149",121
 "Jivemaster","998.5",12
-"Arceace","998.5",6
-"Jukio Kallio, Daniel Hagström","998.5",18
 "Niwaka-Zu, Bunbunmaru, Lah++, Gocky-7 Alives","998.5",6
-"Alexander Brandon, Michiel van den Bos","998.5",6
 "Stephane Picq","998.5",6
 "Masami Ueda, Shusaku Uchiyama, Shun Nishigaki","998.5",6
-"The Smash Brothers","998.5",6
 "Takayuki Ishikawa","998.5",6
 "Yoshio Hirai","998.5",6
 "String Player Gamer","998.5",6
+"Hitoshi Sakimoto","998.4380165289256",121
 "PRESS PLAY ON TAPE","998.4347826086956",23
 "Braxton Burks","998.418918918919",74
 "Phonetic Hero","998.4117647058823",17
-"Takayuki Ogura","998.3636363636364",11
 "Koji Kondo, Koichi Sugiyama","998.3636363636364",11
 "Yasuaki Fujita, Yoko Shimomura, Minae Fujii, Mari Yamaguchi","998.3636363636364",11
+"Reyn Ouwehand","998.3125",16
+"Karl Brueggemann","998.3125",64
 "Keiji Yamagishi, Mikio Saito, Mayuko Okamura","998.3125",16
 "Konami Kukeiha Club","998.2352941176471",102
 "Kenichi Matsubara, Yasuhiko Manno, J. Chuuma","998.2",5
-"chibi-tech","998.2",25
+"Mason B. Fisher","998.2",5
 "Hidenori Maezawa, Misao Senbongi","998.2",10
 "Glejs","998.2",5
 "Takeshi Abo, Chiyomaru Shikura, Toshimichi Isoe, Kanji Saito","998.2",20
@@ -3317,34 +3317,30 @@ elementName,score,nbOfSongs
 "Satoshi Kadokura, Shogo Sakai, Masaaki Iwasaki, Takafumi Miura","998.2",15
 "Takafumi Miura, Shogo Sakai, Yuji Suzuki, Yusuke Takahama","998.2",5
 "Yuki Iwai, Etsuko Yoneda, Setsuo Yamamoto","998.2",5
-"Yuka Tsujiyoko, Saki Kasuga","998.2",10
 "GaMeBoX","998.2",5
 "Pawel Blaszczak","998.2",5
 "Sega","998.125",24
 "Masashi Kageyama","998.0714285714286",14
-"Dj Mokram","998.0714285714286",14
-"Karl Brueggemann","998.03125",64
-"Sam Dillard","998.0243902439024",41
 "Kenji Ito","998.02",100
 "Masami Yitsuse, M. Yoshida, Y. Mizusawa","998",9
-"Diggi Dis","998",18
 "Shinya Sakamoto, Shigehiro Takenouchi, Atsushi Fujio","998",9
 "Tadayoshi Makino","998",9
-"Dj CUTMAN","998",9
 "Human Sound Team","998",9
 "Ryuji Sasai","998",27
 "Ozzed","997.9545454545455",22
 "Tobey Evans","997.9230769230769",13
+"Yuzo Koshiro","997.92",225
 "ErichWK","997.9",30
-"Yuzo Koshiro","997.8",225
+"Tomoya Ohtani","997.8823529411765",34
+"chibi-tech","997.84",25
+"Takumi Naramura, Houryu Samejima","997.8181818181819",33
+"Sam Dillard","997.8048780487804",41
 "Atsushi Fujio, Hidehiro Funauchi, Katsuhiko Suzuki","997.75",8
 "Mike Norvak","997.75",4
 "Tadashi Ikegami","997.75",4
 "Kenichiro Fukui","997.75",12
 "Wataru Hokoyama","997.75",8
-"Carl Mylo","997.75",16
 "José the Bronx Rican","997.75",8
-"Motoaki Furukawa","997.75",8
 "Mitsuharu Fukuyama","997.75",4
 "Terence Lee (Lifeformed)","997.75",8
 "Tim Wright (CoLD SToRAGE)","997.75",4
@@ -3356,15 +3352,16 @@ elementName,score,nbOfSongs
 "Jirurun","997.75",4
 "Michael Hoffmann","997.75",4
 "ANARCHY TAKAPON, Hideki O.K, Akari Kaida","997.75",8
+"an0va","997.75",8
 "Hadyn","997.75",4
 "insaneintherainmusic","997.6521739130435",23
 "Gario","997.6315789473684",19
-"Tomoya Ohtani","997.6176470588235",34
 "Theory of N","997.6",15
 "Shigeru Tomita, Kazunori Hasegawa","997.6",15
-"Hideaki Kobayashi","997.6",15
-"Eminence","997.5454545454545",11
+"Takayuki Ogura","997.5454545454545",11
 "Takuya Yasuda","997.5454545454545",11
+"Michael Land","997.5172413793103",29
+"Diggi Dis","997.5",18
 "Saitama Saisyu Heiki","997.4615384615385",39
 "Norio Hanzawa","997.4285714285714",14
 "Takeaki Kunimoto","997.4285714285714",7
@@ -3372,19 +3369,22 @@ elementName,score,nbOfSongs
 "Ippo Yamada","997.4285714285714",7
 "Filippo Vicarelli","997.4285714285714",14
 "ellywu2","997.4285714285714",7
+"Dj Mokram","997.4285714285714",14
 "Masakatsu Maekawa","997.4285714285714",7
 "Clint Bajakian","997.4285714285714",7
 "Stemage","997.3",10
 "Tezukake","997.3",10
 "Masanori Akita","997.3",10
 "Josh of Vernian Process, Vernian Process","997.3",10
+"Shogo Sakai, Takafumi Miura, Yuji Suzuki, Masaaki Iwasaki","997.3",10
 "Akihito Ohkawa","997.3",10
 "subPixel","997.3",10
 "Colis Postal","997.3",10
 "Zikali","997.3",10
-"Takumi Naramura, Houryu Samejima","997.2727272727273",33
-"Reyn Ouwehand","997.1875",16
+"Yuka Tsujiyoko, Saki Kasuga","997.3",10
 "Kyle Gabler","997.1875",16
+"Tomohito Nishiura","997.1764705882352",51
+"Binster","997",9
 "sephfire","997",6
 "Shion","997",12
 "Jeremy Soule","997",15
@@ -3393,6 +3393,7 @@ elementName,score,nbOfSongs
 "U2 Akiyama","997",18
 "Aran Lee Shige","997",6
 "MITSUO, Yasumasa Yamada, Hirotomi Imoto, Jojouha Kitapy, Yasuhiro Naka, Hideyuki Ashizawa","997",3
+"Hideaki Kobayashi","997",15
 "Darkman007","997",6
 "Nintendo Sound Team","997",3
 "Bear McCreary","997",3
@@ -3403,6 +3404,7 @@ elementName,score,nbOfSongs
 "Naoyuki Sato, Akihisa Matzura","997",9
 "Kazunori Miyake","997",3
 "MasterJace","997",6
+"The Smash Brothers","997",6
 "Yoko Mizuta","997",6
 "Tomohisa, Iwatan","997",3
 "Allister Brimble","997",3
@@ -3427,31 +3429,31 @@ elementName,score,nbOfSongs
 "James Roach","997",3
 "Yoshiaki Kashima","997",3
 "Simon Périn, Jérémie Périn","997",3
-"Michael Land","996.8965517241379",29
 "Toshihiko Horiyama","996.8965517241379",29
-"Jonas Tunander","996.8846153846154",26
-"Tomohito Nishiura","996.8235294117648",51
 "Trey Frey","996.8235294117648",17
 "Yuka Tsujiyoko","996.76",25
 "T's Music","996.7272727272727",44
 "Brandon Strader","996.7272727272727",33
+"Eminence","996.7272727272727",11
 "posu yan","996.7272727272727",11
 "Manfred Linzner","996.7272727272727",11
 "Noriyuki Iwadare, Isao Mizoguchi, Two Five","996.7272727272727",11
+"London Philharmonic Orchestra","996.6842105263158",95
 "Megan McDuffee","996.6842105263158",19
 "Iku Mizutani","996.6666666666666",27
 "EvilWezil","996.625",16
-"Visa Röster","996.625",16
+"Xenon Odyssey","996.625",16
 "Yutaka Minobe","996.625",16
 "Casey Ormond","996.625",8
 "Kensuke Inage","996.625",8
 "Minako Adachi","996.5945945945946",37
-"London Philharmonic Orchestra","996.5894736842105",95
 "X-Hunters","996.5862068965517",29
 "Flexstyle","996.5714285714286",21
 "Level 99","996.5714285714286",21
+"Jonas Tunander","996.5384615384615",26
+"Shusei Murai","996.5",18
+"Motoi Sakuraba","996.4715909090909",352
 "Jun Chikuma","996.4642857142857",28
-"Motoi Sakuraba","996.4358974358975",351
 "Hiroshi Nishizawa, Yoko Watanabe","996.4",5
 "Radiowar","996.4",10
 "Kenji Yamazaki","996.4",10
@@ -3467,52 +3469,45 @@ elementName,score,nbOfSongs
 "Paul Webb, Ken Moore","996.4",5
 "Hashel","996.4",5
 "GuitarSVD","996.4",5
-"Riot Games Music Team","996.4",5
 "RushJet1","996.3571428571429",42
 "Lemonectric","996.3513513513514",37
 "Tenpei Sato","996.3353293413173",167
 "Snowflakes91","996.2941176470588",17
-"TOSE","996.25",24
 "Satoshi Ishikawa","996.25",12
 "CarboHydroM","996.2363636363636",55
-"about:blank","996.1428571428571",7
 "The Runaway Five","996.1428571428571",7
 "Kiyoshi Yokoyama, Masaki Kase","996.1428571428571",7
 "Toxodentrail","996.1428571428571",7
 "FamicomBit","996.1428571428571",7
+"Inverse Phase","996.1176470588235",51
+"Yoann Turpin","996.0869565217391",23
+"Visa Röster","996.0625",16
 "Tetsuya Shibata","996.0625",16
-"Binster","996",9
 "Hitoshi Fukushima, Morihito Iwamoto","996",9
+"Motoaki Furukawa","996",9
+"Dj CUTMAN","996",9
 "Yoshito Sekigawa","996",9
 "sonicsneakers","996",9
 "k-wix","995.95",20
 "BONKERS","995.9090909090909",11
 "NoppZ","995.9090909090909",11
 "Andrew Hulshult","995.9090909090909",11
-"Shinya Yano, Jun Chikuma","995.9090909090909",11
-"Joshua Morse","995.8552631578947",76
 "mp","995.8461538461538",13
 "Gaspode","995.8",15
 "Masami Ueda","995.8",15
-"Inverse Phase","995.7647058823529",51
-"Malcos","995.5",22
+"Joshua Morse","995.6753246753246",77
 "Space Town Savior","995.5",18
 "Shogo Sakai, Takafumi Miura, Yusuke Takahama","995.5",4
-"xyce","995.5",28
 "ABG","995.5",4
 "Salkinitzor","995.5",8
 "Hayato Matsuo","995.5",6
-"Xenon Odyssey","995.5",16
-"Shogo Sakai, Takafumi Miura, Yuji Suzuki, Masaaki Iwasaki","995.5",10
+"TOSE","995.5",24
 "Super Marcato Bros.","995.5",12
 "mikedm92","995.5",2
 "Gravity Corporation","995.5",6
 "KOKIA","995.5",2
-"XenoCross","995.5",2
 "Kozo Nakamura, Junichiro Kaneda, Yuichi Sakakura, Tomoya Tomita","995.5",4
 "Paul Gadbois, David Delia, Brad Scott Gish, Howard Drossin","995.5",4
-"Holy Konni","995.5",4
-"Karsten Obarski","995.5",2
 "Ludwig, Dutch Game Music","995.5",10
 "TAM Music Factory, SAM Free Music, Otonomori, Rengoku Teien, Liberty Music Room","995.5",4
 "Motoi Sakuraba, Shinji Tamura, Hiroya Hatsushiba","995.5",8
@@ -3520,15 +3515,14 @@ elementName,score,nbOfSongs
 "Tetsuhiro Ogawa, Iku Mizutani, Toshihiko Hiraguchi, Tomonao Niiya, Makoto Suehiro, Tasuku Mizutani ","995.5",12
 "Ryota Koduka","995.5",12
 "POCKETMAN","995.5",2
-"Kunihiko Ryo","995.5",8
 "Ryoji Yoshitomi, Kozue Ishikawa","995.5",4
+"Hiroki Isogai, Ippo Yamada","995.5",2
 "Kimio Yudate","995.5",2
 "Sleepy Emp","995.5",2
 "The Vagrance","995.5",2
 "James George","995.5",2
 "munky","995.5",2
 "Ekaj","995.5",2
-"Adam Skorupa","995.5",2
 "Shinji Tachikawa","995.5",4
 "D.B.O.Y.D","995.5",2
 "Emunator, Ergosonic","995.5",2
@@ -3543,8 +3537,6 @@ elementName,score,nbOfSongs
 "Naoki Kita","995.5",4
 "The Gamba Geek","995.5",2
 "Satoshi Igarashi, Naofumi Harada, Hitomi Kurokawa,Masahiro Aoki, Satoshi Setsune","995.5",4
-"Shusei Murai","995.5",18
-"Chris Brayman","995.5",4
 "Hat","995.5",2
 "Brick BRKer","995.5",4
 "halc, Tuberz McGee","995.5",4
@@ -3569,6 +3561,7 @@ elementName,score,nbOfSongs
 "prophetik music, Fishy","995.5",2
 "Iggy Koopa","995.5",2
 "Yoko Mizuta, Tadashi Kaibara","995.5",2
+"J1 Sound Team, Dj CUTMAN","995.5",2
 "worldsbestgrandpa","995.5",2
 "Daisuke Matsumoto","995.5",2
 "Capcom, Keiki Kobayashi","995.5",2
@@ -3578,31 +3571,34 @@ elementName,score,nbOfSongs
 "Tyler Rydosz","995.5",2
 "Yoshitaka Suzuki, Shota Nakama","995.5",2
 "Shingo Nishimura","995.5",2
+"DJ Mitsu the Beats","995.5",2
 "Konami Kukeiha Club, Takahiro Izutani","995.5",2
 "Roh Hyoung Woo","995.5",2
 "Koji Kondo, Toshiyuki Watanabe","995.5",2
 "mellogear, Mustin","995.5",2
 "Braincells","995.5",2
-"Kazuki Yanagawa","995.3333333333334",27
+"Alberto José González","995.4150943396227",106
+"Ro Panuganti","995.4",45
 "Ian Stocker","995.32",25
-"Yoann Turpin","995.304347826087",23
 "Norihiko Hibino","995.275",40
 "Naoshi Mizuta","995.2352941176471",34
 "Keisuke Oku","995.2352941176471",17
 "Yuka Tsujiyoko, Yoshito Hirano, Saki Haruyama, Naoko Mitome, Atsushi Yoshida, Kaneko Teramae","995.2352941176471",17
 "Tomoki Miyoshi","995.2",15
-"Alberto José González","995.1603773584906",106
+"xyce","995.1785714285714",28
 "Toshiyuki Sudo, Megumi Inoue","995.1538461538462",13
 "Shigeki Hayashi","995.14",100
+"Malcos","995.0909090909091",22
+"Shinya Yano, Jun Chikuma","995.0909090909091",11
 "Mega Beardo","995.05",20
 "nervous_testpilot","995",18
+"Tony Thai","995",9
 "Masanobu Matsunaga, Saki Kurata, Shoh Murakami, Yoshito Sekigawa, Yasuhisa Baba, Hiroki Morishita, Masanori Adachi, Kiyoshi Hazemoto, Tomoko Sano, Kosei Muraki, Hiroaki Hanaoka, Yasumasa Yamada","995",18
 "2 Mello","995",9
 "Masahiro Ikariko, Mutsuhiko Izumi, Yuko Kurahashi, Tsuyoshi Sekito, Yuji Takenouchi, Tomoya Tomita, Kazuhiko Uehara","995",9
 "Masanori Akita, Akihiro Honda, Shuichi Kobori, Nobuko Toda, Yuichi Tsuchiya","995",9
 "Masashi Hamauzu","994.9295774647887",71
-"Shinji Hosoe","994.9",30
-"Ro Panuganti","994.8863636363636",44
+"about:blank","994.8571428571429",7
 "Junya Nakano","994.8571428571429",14
 "Evan LE NY","994.8571428571429",7
 "Jakesnke17","994.8571428571429",7
@@ -3619,8 +3615,10 @@ elementName,score,nbOfSongs
 "ryo","994.75",12
 "Tsukasa Masuko, Project SATAN","994.7058823529412",17
 "n00bstar","994.6818181818181",22
+"Kazuki Yanagawa","994.6666666666666",27
 "lazygecko","994.6",15
 "Random Encounter","994.6",30
+"Shinji Hosoe","994.6",30
 "Dj Mystix","994.6",5
 "K. Praslowicz","994.6",5
 "The Kode","994.6",10
@@ -3633,41 +3631,38 @@ elementName,score,nbOfSongs
 "Shibayan","994.6",5
 "BOKKADENcI","994.6",5
 "Faseeh","994.6",5
-"Junya Kozakai","994.6",5
 "Mordi","994.6",5
 "Kevin Riepl","994.6",5
 "Koji Sakurai","994.6",5
+"Riot Games Music Team","994.6",5
 "Fumito Tamayama","994.4615384615385",13
 "Fumihiro Isobe, Takeru Kanazaki, Shigemitsu Goto","994.4615384615385",13
-"The Dual Dragons","994.4615384615385",13
 "8bitmatt","994.4137931034483",29
-"Renegade Kid","994.375",8
 "Steven Melin","994.375",8
-"Tim Sheehy (Kaijin)","994.375",24
 "Suzumebachi","994.375",8
 "Rafael Langoni Smith","994.375",8
 "Akihiro Juichiya, Kazuhiro Senoo, Naoki Maeda","994.375",8
-"Tsutomu Narita","994.375",8
+"Kunihiko Ryo","994.375",8
+"Yoshihiro Ike","994.375",8
 "Sole Signal","994.3157894736842",19
 "Aki Kuroda","994.2727272727273",11
-"Masahiro Aoki","994.1764705882352",17
 "Sok-Ju Lee (HanStone)","994.1764705882352",17
 "Daisuke Ishiwatari","994.09375",64
 "Repliforce","994.0857142857143",35
-"The Orichalcon","994",12
 "Ryu Kawamura","994",24
 "Yuji Ohno","994",6
-"Dubmood","994",12
 "Kentaro Kobayashi","994",6
 "Minako Adachi,Shigeki Hayashi","994",9
+"Tim Sheehy (Kaijin)","994",24
 "jnWake","994",3
 "M-H","994",18
 "Eijiro Nakagawa","994",21
 "Risa Yuki, Tokuhiko Uwabo (Bo)","994",3
+"Linde","994",6
 "Shitamachi Kajiya, Mayu","994",6
+"DJ MetaZero","994",3
 "Arc Impulse","994",3
 "Malukah","994",3
-"Tony Thai","994",9
 "Masanori Hikichi, Masayuki Nagao","994",3
 "Rei Kondoh","994",30
 "Tomohiro Shirai, Neutrino","994",3
@@ -3696,49 +3691,53 @@ elementName,score,nbOfSongs
 "Koji Kondo, Shigeo Nukita","994",3
 "Keiichi Okabe, Keigo Hoashi","994",3
 "Shinsekai Gakkyoku Zatsugidan, Ayumi Yasui","994",3
-"Console Crusaders","993.918918918919",37
 "Rayza","993.8421052631579",19
 "Ichiro Shimakura","993.8421052631579",19
+"Console Crusaders","993.8421052631579",38
 "Shnabubula","993.8285714285714",35
-"Ben Cullum","993.8125",16
 "Studio A'","993.7692307692307",13
+"The Dual Dragons","993.7692307692307",13
 "FILMharmonic Orchestra Prague","993.7",10
-"business pastel","993.625",24
 "DjjD","993.5714285714286",7
-"Heosphoros","993.5714285714286",21
 "Haku","993.5714285714286",7
+"Isao Kasai, Tomohiko Satou","993.5714285714286",7
 "Kazuhiko Inaba, Makoto Hosoi","993.5714285714286",7
 "Setsuo Yamamoto, Yuko Takehara","993.5714285714286",7
 "Tsukasa Masuko, Ryo Yonemitsu, Project SATAN","993.5714285714286",7
 "Basiscape","993.5714285714286",14
 "Harumi Shiina","993.5714285714286",7
 "Kazumi Mitome, Shunsuke Tsuchiya, Yasunori Mitsuda","993.5714285714286",7
-"Shiho Fujii,Ryo Nagamatsu","993.4545454545455",11
+"Masahiro Aoki","993.5",18
 "Luna Umegaki","993.4545454545455",11
 "Hideki Abe","993.4",15
 "Rexy","993.3142857142857",35
+"The Orichalcon","993.25",12
+"business pastel","993.25",24
 "Culture Brain","993.25",4
+"Dubmood","993.25",12
 "Josh Whelchel","993.25",8
+"Renegade Kid","993.25",8
 "Paul Linford","993.25",4
 "Bak.R","993.25",12
 "Kazunaka Yamane, M. Hirasawa","993.25",8
 "Tonindo","993.25",8
 "Black SeeD","993.25",4
 "Masami Ueda, Saori Maeda","993.25",4
-"Joren de Bruin (Tensei-San)","993.25",4
 "Sachiko Miyano","993.25",24
 "dif-ref","993.25",4
 "Yuuta Ogasawara","993.25",4
 "Vesuvia Ecky","993.25",4
+"Ben Cullum","993.25",16
+"Chris Brayman","993.25",4
+"Tsutomu Narita","993.25",8
 "DrumUltimA","993.25",4
 "Smooth4Lyfe","993.25",4
 "Mittsies","993.25",4
 "Masahiko Kimura","993.25",8
 "KoheeanBand","993.25",4
-"Camille Schoell","993.16",25
+"Heosphoros","993.1428571428571",21
 "Shawn Daley","993",9
 "Tsutomu Ishida, Masayuki Iwata, Atsushi Mihiro","993",9
-"Graeme Norgate","993",18
 "Shusaku Uchiyama","993",9
 "Cabel Sasser","993",18
 "Nutritious","992.9565217391304",23
@@ -3746,29 +3745,31 @@ elementName,score,nbOfSongs
 "David Bergeaud","992.8461538461538",39
 "Ryo Kawakami","992.8",5
 "Makke","992.8",5
+"mudeth","992.8",5
 "Heinrich Von Ofterdingen","992.8",5
 "Chuck E. Myers","992.8",5
-"Kenichi Tsuchiya, Eisuke Seki, Atsushi Kitajoh","992.8",5
 "Hirokazu Koshio","992.8",5
 "Yasuhiro Kawasaki","992.8",5
+"Junya Kozakai","992.8",5
 "Kosuke Yamashita","992.6875",16
 "Hiroki Kikuta, Noriyasu Agematsu","992.6363636363636",11
 "Norrin_Radd","992.6363636363636",11
 "Noriko Matsueda, Takahito Eguchi","992.6363636363636",11
+"Shiho Fujii,Ryo Nagamatsu","992.6363636363636",11
 "Minho Jang","992.6363636363636",11
-"Shiryu","992.5882352941177",17
+"Graeme Norgate","992.5",18
 "Masumi Ito","992.5",6
 "Tuberz McGee","992.5",30
 "Dennis Martin","992.5",6
 "Katsuhiko Suzuki, Nazo² Unit","992.5",6
 "Akari Kaida, Yoshino Aoki","992.5",12
 "G.K","992.5",6
-"Rod Abernethy","992.5",6
+"Justin Scharvona","992.5",12
+"Camille Schoell","992.44",25
 "Neil Baldwin","992.3846153846154",13
-"Mattias Häggström Gerdt","992.3846153846154",39
 "Keigo Hoashi","992.3846153846154",13
 "Tokyo Metropolitan Wind Ensemble","992.3846153846154",13
-"Toshiko Tasaki","992.3846153846154",13
+"Atsuhiro Motoyama","992.2857142857143",35
 "Kazuhide Sasuga, Yukie Marikawa","992.2857142857143",7
 "Hajime Hirasawa","992.2857142857143",7
 "Kenichi Matsubara, Yasuhiko Manno, Tomoya Tomita","992.2857142857143",7
@@ -3777,41 +3778,41 @@ elementName,score,nbOfSongs
 "Pony Canyon","992.2857142857143",7
 "Fabian Del Priore","992.2857142857143",7
 "Yu Shimoda","992.2857142857143",7
+"Rod Abernethy","992.2857142857143",7
 "Chance Thomas,Turbine","992.2857142857143",7
 "Alex Mauer","992.1868131868132",91
+"Mattias Häggström Gerdt","992.1538461538462",39
 "Matt Gray","992.125",8
 "Marc Baril, Allan Levy, Jeff Tymoschuk","992.125",8
-"Yoshihiro Ike","992.125",8
 "Jared Emerson-Johnson","992.0909090909091",33
 "Chikayo Fukuda","992.0909090909091",33
-"David Bergeaud, Niels Bye Nielsen","992.0588235294117",17
+"Shiryu","992.0588235294117",17
 "Toshiki Konishi","992",9
 "Takayuki Hattori","992",9
 "Phil Hamilton","992",9
 "Toshiya Yamanaka","992",9
 "Koji Kondo, Ryuichi Katsumata","992",9
-"Motoaki Takenouchi","991.9",40
 "Kaoru Ohori","991.9",10
 "David Wise, Grant Kirkhope, Matt Griffin, Dan Murdoch","991.8571428571429",21
 "Keiichi Oku","991.8181818181819",11
-"Atsuhiro Motoyama","991.7714285714286",35
 "6955","991.75",12
 "Frank Klepacki","991.75",36
 "This Place is Haunted","991.75",12
 "SEGAROCKS","991.75",12
-"Kenji Kaneko","991.6923076923077",26
 "R-MEGA","991.6923076923077",13
+"Toshiko Tasaki","991.6923076923077",13
+"Motoaki Takenouchi","991.675",40
 "Mutherpluckin' B","991.6428571428571",14
-"Shinji Hosoe, Ayako Saso, Shoichiro Sakamoto, Teruo Taniguchi, Takahiro Eguchi, Norihiro Hurukawa","991.6428571428571",14
-"Dren McDonald","991.6428571428571",14
 "Jack Wall","991.5625",16
+"David Bergeaud, Niels Bye Nielsen","991.5294117647059",17
 "Stewart Copeland","991.5294117647059",17
-"Raito","991.2903225806451",31
+"Kenji Kaneko","991.3461538461538",26
 "227","991",2
 "Russell Cox","991",11
 "Yoko Shimomura, Isao Abe, Yoshihiro Sakaguchi","991",7
 "Feryl","991",13
 "Shinji Tasaka, Satoko Minami","991",10
+"Raito","991",31
 "AlexOgre","991",4
 "Fumio Ito","991",8
 "Brandon Strader, halc","991",3
@@ -3824,22 +3825,23 @@ elementName,score,nbOfSongs
 "Shusaku Uchiyama, Takeshi Miura","991",7
 "John Hey","991",3
 "Hitoshi Sakimoto, Masaharu Iwata","991",11
-"Linde","991",6
+"Karsten Obarski","991",2
 "Masashi Hamauzu, Ryo Yamazaki","991",2
 "Auriplane","991",4
 "Masashi Kageyama, Nobuyuki Hara","991",6
 "Yoshiji Yokoyama, Takashi Tateishi","991",9
 "Helynt","991",11
-"Earthbound Papas","991",3
 "RYOYA","991",2
 "Harold Pichol","991",4
 "Christian Linke","991",5
+"Random Battles","991",7
 "Pokémon Reorchestrated","991",3
 "The Symphonic Games","991",4
 "Neostorm","991",5
-"James Primate","991",4
+"Shinji Hosoe, Ayako Saso, Shoichiro Sakamoto, Teruo Taniguchi, Takahiro Eguchi, Norihiro Hurukawa","991",14
 "Toshiharu Okajima, Falcom Sound Team jdk","991",2
 "Charles Deenen","991",4
+"Joren de Bruin (Tensei-San)","991",4
 "Leandro Abreu","991",6
 "Jamphibious","991",14
 "Israfel","991",3
@@ -3848,24 +3850,23 @@ elementName,score,nbOfSongs
 "Men of Mega","991",8
 "Toshiki Aida, Ryosuke Asami","991",9
 "Atsushi Fukai","991",9
+"Kenichi Tsuchiya, Eisuke Seki, Atsushi Kitajoh","991",5
 "Please Lose Battle","991",2
 "Michiru Yamane, Ippo Yamada","991",9
 "Yffisch","991",3
 "Nymano","991",2
 "Chris Rickwood","991",5
 "Jang Sung Woon","991",9
-"Isao Kasai, Tomohiko Satou","991",7
 "Masayoshi Soken, Kumi Tanioka","991",10
 "Grigory Semyonov","991",4
-"Justin Scharvona","991",12
 "Norihito Sumitomo","991",2
 "Awesome-A","991",3
 "William Ascenzo","991",5
 "DaMonz, Trainbeat","991",3
 "Jason Covenant","991",6
-"Palcom","991",2
 "Producer Snafu","991",2
 "Peach","991",2
+"Adam Skorupa","991",2
 "pixelwave","991",3
 "Linked Horizon","991",3
 "VictorTheGuitarNerd","991",3
@@ -4001,7 +4002,6 @@ elementName,score,nbOfSongs
 "Thumper","991",1
 "Kailem","991",1
 "C-GPO, zircon","991",1
-"Omni-Psyence, TeraCMusic","991",1
 "Kozilek","991",1
 "CTPLR","991",1
 "MisfitChris","991",1
@@ -4155,10 +4155,12 @@ elementName,score,nbOfSongs
 "mudy on the Sakuban","991",1
 "So many tears","991",1
 "Nao Tokisawa","991",1
+"Brandon Strader, Chickenwarlord, Lemonectric, Tuberz McGee","991",1
 "Akitaka Tohyama, Hideki Tobeta","991",1
 "Masanori Hikichi","991",1
 "Chimpazilla, anterroir","991",1
 "Brandon Strader, Chernabogue, Detective Tuesday","991",1
+"LV.4 (CODE-49)","991",1
 "Shibayan (Shibayan Records)","991",1
 "Yu Miyake","991",1
 "Asuka Sakai, Ado Mizumori","991",1
@@ -4173,7 +4175,6 @@ elementName,score,nbOfSongs
 "MrKyle","991",1
 "Warriors of Time","991",1
 "Jer Roque, Maho Azuma, Natalie Clyne","991",1
-"DROIDEKKA","991",1
 "Ashley Watts, Alyssa Menes, Jer Roque, Yulia Nechaeva","991",1
 "Midioker","991",1
 "Chernabogue, AngelCityOutlaw, Furilas","991",1
@@ -4450,6 +4451,7 @@ elementName,score,nbOfSongs
 "Eshericks","991",1
 "Smooth","991",1
 "Earth Kid, Danilo Ciaffi, RichGC, TheBitterRoost, donut","991",1
+"Rahul Vanamali, Andy-Ru","991",1
 "Janne Sala, Gamer of the Winds, Sean R. Hanson, Alejandro Espinosa, dante","991",1
 "soundyg, KestrelGirl, Dewey Newt, HappyFunTimeGameBand, Jisunh003, Chromatic Apparatus","991",1
 "Andy-Ru, DS Music, Eli Simantel","991",1
@@ -4481,6 +4483,7 @@ elementName,score,nbOfSongs
 "wink wink","991",1
 "MURO","991",2
 "Level 99, OceansAndrew, OverClocked University","991",1
+"Techie Jessie","991",1
 "Rux Ton","991",1
 "Flake, Sorven, Audio Mocha, Cyril the Wolf, dpMusicman, ZackParrish, Ian Martyn, Calem Destiny, Hemophiliac, Lucas Guimaraes, Treyt, TSori","991",1
 "DJ Orange, Gamer of the Winds","991",1
@@ -4568,17 +4571,17 @@ elementName,score,nbOfSongs
 "Spirit of Armakuni","991",1
 "Luis A. Flores","991",1
 "Kemco","990.625",24
-"MicroD","990.625",24
 "PANDAstar","990.5714285714286",21
 "Tsukasa Masuko","990.5",18
-"Year 200X","990.4",15
-"Shinsekai Gakkyoku Zatsugidan","990.3571428571429",28
+"MicroD","990.25",24
 "Yuka Tsujiyoko, Yoshito Hirano","990.25",12
 "Hironobu Inagaki, Atsuyoshi Isemura","990.1818181818181",11
+"Noriko Nishizaka","990.1428571428571",21
 "Jon Holland","990.1",10
-"Ivan Hakštok","990.0526315789474",19
+"Shinsekai Gakkyoku Zatsugidan","990.0357142857143",28
 "Hiroyuki Namba, Yajuh-Ohkoku","990",9
 "timaeus222","989.9714285714285",35
+"James Bennett","989.9411764705883",17
 "Palpable","989.875",8
 "pu_freak","989.875",16
 "Jun Funahashi, Yoshiyuki Hagiwara","989.875",8
@@ -4586,28 +4589,28 @@ elementName,score,nbOfSongs
 "Masafumi Takada, Jun Fukuda","989.875",8
 "Kota Hoshino","989.875",8
 "James Dean","989.875",8
-"Noriyasu Agematsu","989.75",36
-"RoeTaKa","989.7142857142857",35
-"Noriko Nishizaka","989.7142857142857",21
+"Year 200X","989.8",15
 "Taizo Takemoto, Tokyo Metropolitan Symphony Orchestra","989.7142857142857",7
+"Dren McDonald","989.7142857142857",14
 "Clint Bajakian,Michael Land,Peter McConnell","989.7142857142857",7
-"CJthemusicdude","989.5",6
+"Ivan Hakštok","989.578947368421",19
+"Noriyasu Agematsu","989.5",36
 "Tim Larkin","989.5",6
 "Béatrice Martin (Coeur de Pirate)","989.5",12
 "Mantra Sound","989.5",6
+"RoeTaKa","989.4571428571429",35
 "Yuji Yoshino","989.4117647058823",17
 "Beatdrop","989.3636363636364",11
 "Nines","989.2",5
 "Stephen Root, Neil Palmer","989.2",5
 "Sukezo Ouyama, Ryoue Takagi","989.2",15
-"mudeth","989.2",5
+"Mitsuhiro Kaneda","989.2",10
 "melody","989.2",5
 "Hiroyuki Nakayama","989.2",20
 "Will Bedford","989.2",5
 "Megumi Ohara","989.2",5
 "Munakata","989.2",5
 "Tugboat","988.9230769230769",13
-"James Bennett","988.8823529411765",17
 "Camerica","988.75",4
 "Sivak","988.75",24
 "No Goblin Sound Team","988.75",4
@@ -4616,16 +4619,15 @@ elementName,score,nbOfSongs
 "Barry Leitch","988.75",12
 "Rabid Tunes","988.75",4
 "Daniel Finney","988.75",4
+"James Primate","988.75",4
 "Loser Kashiwagi","988.75",4
 "Oscar Araujo","988.75",4
 "Rob King,Paul Romero","988.75",4
 "pe-jun","988.75",8
-"GIRakaCHEEZER","988.75",4
 "Cuttlefish","988.75",16
 "Masanobu Tsukamoto","988.75",8
 "wata","988.75",4
 "Brian Marshall","988.75",4
-"Tatsuya Uemura","988.75",4
 "Yuki Iwai, Yuko Takehara","988.75",4
 "Motoi Sakuraba, Shinji Tamura","988.75",4
 "Blind Spot","988.75",4
@@ -4634,26 +4636,24 @@ elementName,score,nbOfSongs
 "Waterflame","988.75",4
 "Vincent Diamante","988.75",4
 "Isao Abe, Syun Nishigaki, Kiyo","988.5454545454545",11
-"Random Battles","988.4285714285714",7
 "Temp Sound Solutions","988.4285714285714",7
 "Munakata, Takao Kawana","988.4285714285714",7
 "Soyo Oka","988.1875",16
 "Vampire Hunter Dan","988.1578947368421",19
-"Takayuki Nakamura","988",27
+"CJthemusicdude","988",6
 "Kohei Tanaka","988",18
 "Kenji Kaneko, Kenichi Kikkawa","988",9
 "Takashi Horiguchi, Yoko Wada","988",6
-"DJ MetaZero","988",3
 "Ergosonic","988",6
 "Bentley Jones / Lee Brotherton / LeeBro","988",3
 "Tomoko Morita, Yukio Nakajima","988",9
 "Kevin Penkin","988",3
-"Dhsu","988",12
 "OneUp","988",3
 "OverClocked Assembled","988",3
 "Atomic Harada, TOM","988",6
 "Viking Guitar Live","988",6
 "OzoneOne","988",3
+"Earthbound Papas","988",3
 "Catonator","988",6
 "Masayoshi Ishi","988",6
 "Yuki Sugiura","988",6
@@ -4662,12 +4662,12 @@ elementName,score,nbOfSongs
 "Montaro Kinchan","988",3
 "David Logan","988",3
 "Michael Giacchino, Patrick J. Collins, Steve Duckworth","988",3
-"Miho Izawa, Masuma Ito, Yoshiyuki Ito","988",3
 "Kyle Landry","988",3
 "Andy Jayne","988",3
 "missingNo","988",3
 "Daniel Schraer","988",3
 "Nobuko Toda, Shuichi Kobori, Kazuma Jinnouchi","988",3
+"AzureKevin","988",3
 "Pyro Paper Planes","988",3
 "TheDeath","988",3
 "Masato Nakamura, Jun Senoue","988",3
@@ -4675,14 +4675,13 @@ elementName,score,nbOfSongs
 "Perfect World Entertainment","987.76",25
 "ilp0","987.7272727272727",22
 "Data East","987.7272727272727",11
-"AMIworx","987.7272727272727",22
 "Keita Egusa","987.7272727272727",11
 "The Coop","987.7272727272727",11
+"Takayuki Nakamura","987.6666666666666",27
 "Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh","987.625",8
 "Washudoll","987.625",8
 "Alias Conrad Coldwood","987.625",8
 "???","987.4",5
-"Mitsuhiro Kaneda","987.4",10
 "Hirofumi Murasaki, Morihiko Akiyama, Masayuki Nagao","987.4",5
 "David Wise, Mark Betteridge","987.4",5
 "James Roach, Toby Fox","987.4",5
@@ -4694,6 +4693,8 @@ elementName,score,nbOfSongs
 "Mykah","987.4",5
 "Mark Griskey","987.4",5
 "Toru Minegishi, Manaka Tominaga, Shiho Fujii","987.4",5
+"AMIworx","987.3181818181819",22
+"Dhsu","987.25",12
 "fu_mou","987.1428571428571",7
 "Joe Redifer","987.1428571428571",7
 "Jonne Valtonen, Aleksi Eeben","987.1428571428571",7
@@ -4702,13 +4703,13 @@ elementName,score,nbOfSongs
 "Eiichirou Yanagi","987.1428571428571",7
 "Yasuo Hattori","987.1428571428571",7
 "Shirobon","987.0625",16
+"Rush Coil","987",9
 "Kenichi Arakawa","987",18
 "HeavenWraith","986.5",10
 "Platonist","986.5",12
 "Y. Kimura","986.5",4
 "Ridiculon","986.5",10
 "Boqeh","986.5",14
-"Random Hero","986.5",8
 "Patrick Phelan","986.5",4
 "Takeshi Miura, Hijiri Anze, Sanae Kasahara","986.5",4
 "Alexei Zakharov","986.5",6
@@ -4716,16 +4717,18 @@ elementName,score,nbOfSongs
 "Yukio Kaneoka, Hirokazu Tanaka","986.5",2
 "zircon, Juan Medrano","986.5",2
 "Mikio Masuzawa","986.5",6
+"The Zac Zinger Group","986.5",10
 "Kohta Takahashi","986.5",6
 "Troupe Gammage, Joel Corelitz","986.5",8
 "Eric Nofsinger","986.5",4
-"Jean Chan","986.5",2
+"GIRakaCHEEZER","986.5",4
 "Tanuki Suit Riot","986.5",2
 "WARK!","986.5",2
 "Nobuo Uematsu, Tsutomu Narita","986.5",2
 "Tim Stoney","986.5",4
 "avaris","986.5",2
 "Tomoyuki Hamada","986.5",4
+"Palcom","986.5",2
 "Blen","986.5",2
 "Kommisar","986.5",4
 "Jun Senoue, Crush 40","986.5",4
@@ -4733,7 +4736,6 @@ elementName,score,nbOfSongs
 "Chris Kohler","986.5",2
 "Mat Clark, Kenneth Young","986.5",2
 "NieN","986.5",2
-"AzureKevin","986.5",2
 "mobius","986.5",2
 "Nobuyoshi Sano","986.5",2
 "Mecha_B.E.A.R.","986.5",2
@@ -4767,25 +4769,22 @@ elementName,score,nbOfSongs
 "Konami Kukeiha Club, Kenichiro Fukui","986.5",2
 "Motoi Sakuraba, Yuzo Koshiro","986.5",2
 "Ben Landis","986",9
-"daXX","985.8571428571429",7
 "autoscroll","985.8571428571429",7
 "Rob Hubbard, Kyle Granger, Chris Grigg","985.8571428571429",7
-"Mao Hamamoto","985.8571428571429",7
-"Yoshie Takayanagi, Yoshie Arakawa","985.75",12
 "Ashif Hakik","985.6",5
 "Masahiro Ando","985.6",5
 "LEAF XCEED Music Division","985.6",5
 "Christa Lee","985.6",5
+"Random Hero","985.375",8
 "Michiya Hirasawa","985.375",8
 "Katsuhiko Suzuki, Jun Irie","985.375",8
 "Yoko Shimomura, Natsumi Kameoka","985.375",8
 "Zelkedo","985.2142857142857",14
 "Hiroyuki Yanada","985.1764705882352",17
-"Rush Coil","985",9
 "Dale North, Ailsean","985",3
 "Tadayoshi Makino, Sofia Film Orchestra","985",3
+"Yoshie Takayanagi, Yoshie Arakawa","985",12
 "Kennosuke Suemura, Saori Kobayashi","985",3
-"Pongball","985",6
 "Brent Kennedy","985",3
 "Hirokazu Tanaka, Minako Hamano, Kentaro Nishimura","985",3
 "Aki Hata","985",9
@@ -4796,8 +4795,9 @@ elementName,score,nbOfSongs
 "E-Bison","985",3
 "Christophe Héral, Billy Martin","985",6
 "Gavin Parker","984.7",10
-"The Zac Zinger Group","984.7",10
+"daXX","984.5714285714286",7
 "Mr Stream","984.5714285714286",7
+"Mao Hamamoto","984.5714285714286",7
 "cerror","984.4545454545455",11
 "Ukkari Yamanishi","984.25",8
 "Ryuichi Takada","984.25",8
@@ -4805,6 +4805,7 @@ elementName,score,nbOfSongs
 "samlie","984.25",4
 "Savaged Regime","984.25",12
 "Ashton Morris","984.25",4
+"Tatsuya Uemura","984.25",4
 "Shin-ichiro Nakamura","984.25",4
 "Kim M. Jensen, Geir Tjelta","984.25",4
 "Rock Hippo Productions","984.25",4
@@ -4819,10 +4820,10 @@ elementName,score,nbOfSongs
 "Whitaker Trebella","983.8",10
 "Jredd","983.8",5
 "Eino Keskitalo","983.6875",16
+"Pongball","983.5",6
 "Youichi Shimamura, Kota Nakashima","983.5",6
 "Asami Mitake","983.5",6
 "Hiroshi Fujioka","983.2857142857143",7
-"no.5","983.2857142857143",7
 "Motoi Sakuraba, Hibiki Aoyama","983.2857142857143",7
 "Yuri Fukuda, Takashi Nagasaka","983.125",8
 "Bound Media","983",9
@@ -4831,11 +4832,11 @@ elementName,score,nbOfSongs
 "Ryuji Sasai, Tadahiro Nitta","982.5625",16
 "DarkSim","982",8
 "DusK","982",19
-"Adam Gilmore","982",2
 "Tommy Pedrini","982",2
 "Toshio Kajino, Yoshihiro Sakaguchi, Yoko Shimomura","982",5
 "Sadorf","982",6
 "Nick Singer","982",3
+"no.5","982",7
 "That Andy Guy","982",2
 "Maki Kirioka","982",5
 "housethegrate","982",5
@@ -4861,7 +4862,7 @@ elementName,score,nbOfSongs
 "Ben Briggs, ectogemia","982",6
 "Paul Blackford","982",2
 "Skummel Maske","982",3
-"Steve Henifin","982",4
+"Jean Chan","982",2
 "Dong","982",2
 "Matt E. Waldman","982",3
 "Hyd Lunch","982",5
@@ -4873,12 +4874,10 @@ elementName,score,nbOfSongs
 "Masayuki Nagao, Saori Kobayashi","982",4
 "Ryan8bit, Xaleph","982",2
 "Sir_NutS, Usa","982",2
-"Monobrow","982",4
 "Evan Pattison","982",2
 "Graz","982",2
 "Takao Kawana","982",2
 "RiverSound","982",2
-"Marius Masalar","982",2
 "KingTiger","982",3
 "Sam English","982",2
 "Craig Matterson","982",2
@@ -4889,9 +4888,11 @@ elementName,score,nbOfSongs
 "Eladar","982",2
 "PpMaster","982",2
 "LV-380","982",2
+"Miho Izawa, Masuma Ito, Yoshiyuki Ito","982",3
 "Forte Escape","982",3
 "Michio Okamiya","982",2
 "Big Giant Circles, zircon","982",1
+"Makoto Asai","982",1
 "WARK","982",1
 "David Hsu","982",1
 "Dom1","982",1
@@ -4922,6 +4923,7 @@ elementName,score,nbOfSongs
 "Hideyuki Fukasawa, Kota Suzuki, Hideki Okugawa, Akihiko Narita, Seiko Kobuchi","982",1
 "Snyderman","982",1
 "Evil Horde, RoeTaKa","982",1
+"Omni-Psyence, TeraCMusic","982",1
 "R3FORGED","982",2
 "Roggah","982",1
 "Monobrow, Protricity, AeroZ, injury (Starla)","982",1
@@ -4947,7 +4949,6 @@ elementName,score,nbOfSongs
 "The Risen Dayspring","982",1
 "Torzelan","982",1
 "Chuck Dietz","982",1
-"Rozovian, WillRock","982",1
 "halc, PROTO·DOME, WillRock","982",1
 "Fishy, Andy Jayne","982",1
 "PROTO·DOME, Level 99","982",1
@@ -4960,7 +4961,6 @@ elementName,score,nbOfSongs
 "Level 99, prophetik music, Avaris","982",1
 "Zoltan Vegvari","982",1
 "Joshua Morse, Jeff Ball, Laura Intravia","982",1
-"Edgen Animations","982",1
 "Abadoss, Brandon Strader, Rexy, Nutritious","982",1
 "Beej","982",1
 "Red Tailed Fox, Shnabubula","982",1
@@ -5158,7 +5158,6 @@ elementName,score,nbOfSongs
 "ardklaw","982",1
 "Akihiko Narita, Hiroshi Kawaguchi","982",1
 "Masato Kouda, Kenji Ito","982",1
-"Marika Suzuki, Michiko Naruke","982",1
 "Earth Kid, Jordi Storm","982",1
 "clerian","982",1
 "GOM","982",1
@@ -5188,6 +5187,7 @@ elementName,score,nbOfSongs
 "BKM, Manuel Hirner","982",1
 "JSABlixer","982",1
 "SuperiorX, timaeus222","982",1
+"SynthSage","982",1
 "sschafi1, Chelsea McBride, dannymusic, DavidRussell323, DrumUltimA, Fredrik Häthén, insaneintherainmusic, John Robert Matz, slamb0b, Wyrgan","982",1
 "Thennecan, Fredrik Häthén, Andrew Thompson, Cradius, Gamer of the Winds, JohnStacy, Leo Miyata, Matheus Manente","982",1
 "T.O. Bassett","982",1
@@ -5239,6 +5239,7 @@ elementName,score,nbOfSongs
 "Rozovian","981.1428571428571",21
 "Kengo Sakurai","981",9
 "SMILETRON","980.875",8
+"prozax","980.875",8
 "Inti Creates","980.875",8
 "Koji Kondo, Atsuko Asahi, Toru Minegishi, Sayako Doi","980.875",8
 "beek","980.7142857142857",14
@@ -5250,18 +5251,20 @@ elementName,score,nbOfSongs
 "Pablo Vega","980.3636363636364",11
 "Matti Paalanen","980.2",5
 "hally","980.2",5
+"Bit Shifter","980.2",5
 "LongBoxofChocolate","980.2",5
+"Eveline Fischer, David Wise","980",9
 "Nixdorux","979.75",4
 "Bluelighter","979.75",12
 "Mike Alsop","979.75",4
 "Akihiro Juichiya, Misaki Asada, Tomoya Tomita","979.75",4
+"Steve Henifin","979.75",4
 "Kyoya Hashimoto","979.75",4
 "Ronald Jenkees","979.75",4
-"Yukihide Takekawa","979.75",4
 "X-formZ","979.75",4
 "Seattle Jazz Composers Ensemble","979.75",4
+"Monobrow","979.75",4
 "Rob King, Paul Romero","979.75",4
-"Orkybash","979.4285714285714",7
 "Anthony Lofton, Joshua Morse","979.4285714285714",7
 "Chipocrite","979.2307692307693",13
 "James Smart","979",3
@@ -5281,7 +5284,8 @@ elementName,score,nbOfSongs
 "Mikeaudio","978.4",5
 "Rize","978.4",5
 "rebrained","978.4",5
-"Eveline Fischer, David Wise","978",9
+"Orkybash","978.1428571428571",7
+"Adam Gilmore","977.5",2
 "Yasuhiro Nakano","977.5",2
 "Shizuyoshi Okamura","977.5",2
 "Ro Panuganti, David Russell","977.5",2
@@ -5299,11 +5303,12 @@ elementName,score,nbOfSongs
 "Kaze","977.5",2
 "Mark \"Blaz\" Soto","977.5",2
 "Yasuhisa Watanabe","977.5",2
+"Yukihide Takekawa","977.5",4
 "CygnosiC","977.5",2
 "Chuck E. Myers, Lance Lenhart, Tom Hopkins, The Pinnacle Group","977.5",4
 "Moomba","977.5",2
 "WillRock, Level 99","977.5",2
-"Kaiyoti","977.5",2
+"Marius Masalar","977.5",2
 "Japanese Breakfast","977.5",4
 "Kennosuke Suemura","977.5",6
 "Joelle","977.5",2
@@ -5316,7 +5321,6 @@ elementName,score,nbOfSongs
 "Takayuki Iwai","977.5",2
 "Jiro Okada, bosque aroma","977.5",2
 "ch4rl33","977.5",2
-"Laarx","977.5",2
 "Yuji Toriyama","977.5",2
 "Tim Rosko","977.5",2
 "WillRock, DaMonz","977.5",2
@@ -5325,24 +5329,22 @@ elementName,score,nbOfSongs
 "Takeshi Isozaki","977.5",2
 "Tadashi Kinukawa","977.5",2
 "Vurez","977.304347826087",23
-"bubu","977.304347826087",23
 "Beatrix Quinn","977.0909090909091",11
-"Hiroshi Ebihara, Kennosuke Suemura","976.8571428571429",7
+"bubu","976.9130434782609",23
+"Hisayoshi Ogura","976.8571428571429",7
 "Taro Kudou","976.8571428571429",7
-"Hidenori Iwasaki","976.8076923076923",26
 "Hama, Eden","976.7058823529412",17
-"Bit Shifter","976.6",5
 "Hironori Osone","976.6",5
 "Daniel Capo","976.6",5
 "Beckett007","976.6",5
-"prozax","976.375",8
+"Hidenori Iwasaki","976.4615384615385",26
 "Michael Hudak","976.15",20
 "Aram Jean Shahbazians","976",6
 "Reuben Kee","976",6
 "Das Fokks","976",6
 "Jono Grant","976",3
-"Pl511","976",3
 "Masanori Oouchi, Seiya Murai","976",3
+"Hiroshi Ebihara, Kennosuke Suemura","975.5714285714286",7
 "Jordan B. Sanders","975.5714285714286",7
 "Calum Bowen","975.4",15
 "Slimy","975.25",4
@@ -5353,16 +5355,15 @@ elementName,score,nbOfSongs
 "Yoshitaka Hirota","975.25",4
 "Ap0c","974.9285714285714",14
 "Bjørn Arve Lagim","974.8",5
-"Nobuo Uematsu, Yoshitaka Suzuki","974.8",10
 "Nario","974.8",5
 "Red Tailed Fox","974.8",5
 "Covox","974.5",6
-"Hisayoshi Ogura","974.2857142857143",7
 "Hiroyuki Yanada, Iwao Mitsunaga","974.2857142857143",7
 "Rob Lord, Paul Weir, Mark Bandola","974.2",15
 "Tettix","974.125",16
 "Kenji Hikita","974",9
 "Brother Android","973.9",10
+"Nobuo Uematsu, Yoshitaka Suzuki","973.9",10
 "Eirik Suhrke","973",6
 "ArseAssassin","973",2
 "Shael Riley","973",6
@@ -5371,25 +5372,24 @@ elementName,score,nbOfSongs
 "Tomoyuki Hamada, Hiro Takahashi, Achilles C. Damigos","973",5
 "Torby Brand","973",3
 "Forest World","973",6
+"Christopher Stevens, Tim Clarke","973",9
 "Rugar","973",5
 "4ntler","973",3
-"Anders Svensson","973",2
 "Outset Initiative","973",4
 "Planetboom","973",2
 "TQ-Jam","973",2
-"ectogemia","973",2
+"Kaiyoti","973",2
 "shieldeater","973",2
 "Bjørn Arve Lagim, Tor Linløkken, Morten Sørlie","973",5
 "Benten-Maru, Himeko Yamamoto","973",2
 "Tomomi Teratani","973",2
-"Takeshi Miura","973",3
 "J Krafft","973",2
 "Onyx Design","973",2
 "Mitsuto Suzuki, Aska Kaneko","973",2
+"Pl511","973",3
 "Keishi Yonao","973",2
 "Grimecraft","973",2
 "Dees","973",3
-"Makoto Asai","973",1
 "Dale North, Kae","973",1
 "FlextoneJunkie","973",1
 "Kota Suzuki, Kazuki Kuriyama","973",1
@@ -5450,6 +5450,7 @@ elementName,score,nbOfSongs
 "Destiny, The Wingless","973",1
 "Rubbler, SnappleMan","973",1
 "Chernabogue, NintenJoe 64","973",1
+"Scaredsim, Wild_Cat","973",1
 "RE:NDZ","973",1
 "jnWake, Ivan Hakštok","973",1
 "Tomoko Imoto","973",1
@@ -5485,6 +5486,7 @@ elementName,score,nbOfSongs
 "Brett Garsed, Peter Fernandes, Ric Fierabracci, Richard Hallebeek, Shane Gaalaas","973",1
 "insaneintherainmusic, The Consouls","973",1
 "MasterGi","973",2
+"Laarx","973",2
 "RoBKTA, Dj CUTMAN","973",1
 "MunzadetH, Monte","973",1
 "LaurenceMcFunk","973",1
@@ -5571,7 +5573,6 @@ elementName,score,nbOfSongs
 "WillRock, PROTO·DOME","973",1
 "ZackParrish, Chromatic Apparatus, Harpsibored, Psamathes","973",1
 "Bubblegum Octopus, Gurrgle","973",1
-"ZackParrish, Pearl Pixel, Sebastian Mårtensson, Tove Petersson","973",1
 "Bluelighter, Bowlerhat, Dewey Newt, Ian Martyn","973",1
 "Chromatic Apparatus","973",1
 "Charles Ritz, Lucas Guimaraes","973",1
@@ -5597,11 +5598,11 @@ elementName,score,nbOfSongs
 "Drew Cady, Ian Rodia, Mike Yeend","971.5",6
 "SonicPicnic","971.5",6
 "Sam Marshall","971.2",5
-"Christopher Stevens, Tim Clarke","971",9
 "Stephen Millis","970.75",4
 "Just Coffee","970",3
 "John Ryan","970",3
 "Afshin Toufighian","970",6
+"Takeshi Miura","970",3
 "Sabrepulse","969.4",5
 "TmX","968.5",2
 "Codemasters","968.5",6
@@ -5609,8 +5610,9 @@ elementName,score,nbOfSongs
 "bladiator","968.5",2
 "Michael Henry","968.5",4
 "Sonic Blade","968.5",2
+"ectogemia","968.5",2
 "Daemon9623","968.5",2
-"BeanJammin","968.5",2
+"Anders Svensson","968.5",2
 "SHiNKA","968.5",2
 "THE RAIN BOOK","968.5",2
 "Kariina Gretere","968.5",2
@@ -5620,24 +5622,25 @@ elementName,score,nbOfSongs
 "Jakk","968.5",2
 "Robokabuto","968.5",2
 "Alex Culang","968.5",2
-"Zubareus","967.375",8
 "Sinobu Amayake, Soyo Oka","967.375",8
 "Mark Van Hecke, Alex DeMeo","967",3
 "Rekcahdam","967",3
 "Andy Poland","967",3
+"Zubareus","966.25",8
 "Slime Girls","966.25",4
 "JuicePouch","965.8",5
 "Thorsten Mitschele","965.8",5
-"J Damashii","964",3
 "Hirokazu Tanaka, Kazumi Totaka","964",3
 "Sachiko Oita, Yoshihiro Sakaguchi","964",4
 "CZ Tunes","964",2
 "Peter W","964",5
 "nailcliper","964",2
 "Hiroyuki Masuno","964",9
+"Ganaé","964",3
 "Thiago Adamo A.K.A PXLDJ","964",5
 "Masataka Kitaura, Atsuyoshi Isemura, Rikei Hirashima, Music Worx","964",4
 "RebeccaETripp, Gabriel Tripp","964",2
+"BeanJammin","964",2
 "Chris Lightfoot","964",2
 "Fractal Gate","964",2
 "dai","964",2
@@ -5707,7 +5710,6 @@ elementName,score,nbOfSongs
 "Jun Hayakawa with Atsuki Yoshida","964",1
 "ZANIO","964",1
 "TylerNJazz, Mark Autumn","964",1
-"Hiroki Morishita, Yuka Tsujiyoko","964",1
 "Hideki \"sha-v\" Asanaka","964",1
 "Karth, Meteo Xavier","964",1
 "Epikuro, RoboRob","964",1
@@ -5735,8 +5737,8 @@ elementName,score,nbOfSongs
 "Kiragon o Bardo, Kyana","964",1
 "Konami Kukeiha Club, KPLECRAFT","964",1
 "Artificial Eye","964",1
-"SynthSage","964",1
 "Masami Onodera","964",1
+"ZackParrish, Pearl Pixel, Sebastian Mårtensson, Tove Petersson","964",1
 "Mel Decision, VARIA, Pixels and Paradiddles, Moebius","964",1
 "Yuki Nakashima","964",1
 "Setsuo Yamamoto, Yuzo Koshiro","964",1
@@ -5749,6 +5751,7 @@ elementName,score,nbOfSongs
 "Jay Semerad","964",1
 "Inflatable Arson","964",1
 "Tony Dickinson (Prince uf Darkness), Travis Moberg","964",1
+"J Damashii","961",3
 "Saki Kaskas, Alistair Hirst, Jeff van Dyck","961",3
 "jdaster64","960.4",5
 "just64helpin","959.5",2
@@ -5759,7 +5762,7 @@ elementName,score,nbOfSongs
 "Todd Dennis, Tommy Tallarico","959.5",4
 "Firefox","959.5",2
 "urdailywater","957.25",4
-"Octapus","957.25",4
+"Michael Richard Plowman, Tommy Tallarico","956.5",6
 "K. Takemoto","955",3
 "Sebastien Skaf","955",2
 "Norio Nakagata, Takane Ohkubo","955",2
@@ -5785,7 +5788,6 @@ elementName,score,nbOfSongs
 "Brandon Strader, Lemonectric, Rexy","955",1
 "Jason Covenant, AkumajoBelmont","955",1
 "Tamimi","955",1
-"Scaredsim, Wild_Cat","955",1
 "irq7","955",1
 "Nobu44","955",1
 "Alpine Surfer Music Masters","955",1
@@ -5810,6 +5812,7 @@ elementName,score,nbOfSongs
 "Snappleman","955",1
 "LITE","955",1
 "Zarinah","955",1
+"Hiroki Morishita, Yuka Tsujiyoko","955",1
 "Lucas Guimaraes, James C. Hoffman, Ro Panuganti, Moonbike, Subversiveasset, Cyril The Wolf, Melancholy Robot, Daniel Romberger, Ken Crouch","955",1
 "Scotty Rich","955",1
 "Luke Jansen","955",1
@@ -5834,10 +5837,9 @@ elementName,score,nbOfSongs
 "kRUZe","955",1
 "Terminal Storm","955",1
 "Andy Blythe, Marten Joustra","953.5",6
-"Michael Richard Plowman, Tommy Tallarico","953.5",6
+"Octapus","952.75",4
 "Persist Music","952.75",4
 "Yousuke","952",3
-"Ganaé","950.5",2
 "Ryan Davis Music","950.5",2
 "Masahito Nakano","950.5",2
 "UV Sir J","950.5",2
@@ -5846,7 +5848,6 @@ elementName,score,nbOfSongs
 "Jon","946",1
 "Kota Suzuki","946",1
 "Salluz","946",1
-"Gammasutra","946",1
 "Metal","946",1
 "CBlockDis","946",1
 "Josh Whelchel, Rachel Denlinger, Rich Brilli","946",1
@@ -5854,7 +5855,6 @@ elementName,score,nbOfSongs
 "bill cakes, Brandon Strader","946",1
 "klm09","946",1
 "Souliarc","946",1
-"Senescence","946",1
 "MangaX","946",1
 "Yasuhiro Nakano, Akihi Motoyama, Fumio Tanabe, Luna Umegaki, Mutsumi Ishimura","946",1
 "NECOS","946",1
@@ -5877,16 +5877,16 @@ elementName,score,nbOfSongs
 "SuperiorX, Pete Lepley","946",1
 "Brandon Strader, Shea's Violin, minusworld, Development of Avoid","946",1
 "Kaoru Yuki","946",1
-"Spongemop","946",1
 "DJ ShadowZero","946",1
 "Hideki Okugawa, Noriyuki Iwadare","946",1
 "Dj CUTMAN, Coda","946",1
-"MythosLogos","941.5",2
 "DZComposer","937",2
 "Megalixir","937",2
 "Steve Barrett","937",2
+"MythosLogos","937",2
 "TheManPF","937",2
 "Hale-Bopp","937",2
+"Gammasutra","937",1
 "Dafunk","937",1
 "Phonetic Hero, Lemonectric","937",1
 "Rico Zerone","937",1
@@ -5894,6 +5894,7 @@ elementName,score,nbOfSongs
 "Jaroban","937",1
 "DrumUltimA, MomUltimA","937",1
 "ZelterXC, sci","937",1
+"Senescence","937",1
 "Mustin, Nate Cloud","937",1
 "DdM","937",1
 "Daniel Ran","937",1
@@ -5901,12 +5902,14 @@ elementName,score,nbOfSongs
 "Czyszy","937",1
 "exelotl","937",1
 "PSK","937",1
+"jmabate, Audio Mocha","937",1
 "Rockos, KezyCP","937",1
 "jmabate, Capt'n Shred","937",1
 "jmabate, Psamathes","937",1
 "Alberto José González, Franz Liszt","937",1
 "ZackParrish, E. Jesús Chic Acevedo","937",1
 "Putzi","937",1
+"Spongemop","937",1
 "Matt Howells","937",1
 "Texx Sound","937",1
 "Sambora64","937",1
@@ -5921,7 +5924,6 @@ elementName,score,nbOfSongs
 "Big Giant Circles, LuIzA, David L. Puga","928",1
 "M4PLEHOODI3","928",1
 "LemonDrop","928",1
-"jmabate, Audio Mocha","928",1
 "Parker Walker","928",1
 "Glyn R Brown","925",3
 "Josh Whelchel, Melinda Hershey, Poolside","919",1
@@ -5936,10 +5938,10 @@ elementName,score,nbOfSongs
 "Flexstyle, OceansAndrew","910",1
 "Dead Lovers' Consort, Israfel","910",1
 "FFmusic Dj, SGX","910",1
-"Jorito, Damian Nguyen, DS, Gamer of the Winds, JohnStacy, BardicKnowledge","910",1
 "SovRin","910",1
 "pot hocket","910",1
 "AYAKI, GENTLE LOVE, Norihiko Hibino","901",1
+"Jorito, Damian Nguyen, DS, Gamer of the Winds, JohnStacy, BardicKnowledge","901",1
 "Spunodi","901",1
 "Marsland Brotherhood","892",1
 "Mike Norvak, Fernito","892",1
