@@ -14,7 +14,9 @@
     "build_export_csv_monthly": "node _scripts/build_export_csv.js monthly",
     "convert_elections": "node _scripts/convert-to-per-day.js",
     "make_message": "node _scripts/make_message.js",
-    "biggest_differences_score": "node _scripts/biggest_differences_score.js"
+    "biggest_differences_score": "node _scripts/biggest_differences_score.js",
+    "average_for_album": "node _scripts/average_for.js album",
+    "average_for_artist": "node _scripts/average_for.js artist"
   },
   "scripts_archive": {
     "fetch_elections": "node _scripts/fetch_elections.js fetch_elections",
