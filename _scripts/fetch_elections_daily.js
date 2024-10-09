@@ -77,6 +77,7 @@ async function fetch_elections(){
                                     album:song.album,
                                     artist:song.artist,
                                     title:song.title,
+                                    rating:song.rating
                                 }));
                             //}
                         })

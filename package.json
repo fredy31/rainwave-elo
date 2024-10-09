@@ -12,7 +12,9 @@
     "build_export_csv_daily": "node _scripts/build_export_csv.js daily",
     "build_export_csv_weekly": "node _scripts/build_export_csv.js weekly",
     "build_export_csv_monthly": "node _scripts/build_export_csv.js monthly",
-    "convert_elections": "node _scripts/convert-to-per-day.js"
+    "convert_elections": "node _scripts/convert-to-per-day.js",
+    "make_message": "node _scripts/make_message.js",
+    "biggest_differences_score": "node _scripts/biggest_differences_score.js"
   },
   "scripts_archive": {
     "fetch_elections": "node _scripts/fetch_elections.js fetch_elections",
