@@ -32,8 +32,19 @@ Does a lap through all of the cached songs and if some songs referred in elo are
 
 With everything now setup, creates a human readable csv with the elos pushed day to day.
 
+### biggest_differences_score
+
+Do a calculation and sort to find the songs that are outliers; between their user vote score and the percentile position they are in ELO.
+
+### average_for_album and average_for_artist
+
+Calculate average score for artists/albums, and output a sorted list. (Minimum 2 songs for that artist/album)
+
+### make_message
+
+Make message for sharing in discord.
+
 ## TODO
 
-- Elo of artist/album? (or go simpler and rank via average ELO for their songs)
 - Fix weekly/monthly results
 - Figure out possibility to automatically put the results into a graph.
