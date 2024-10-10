@@ -1,25 +1,24 @@
 ### Best songs per score ###
-Main Theme of Bubble Bobble (1144)
-Stage 2 of Marble Madness (1135)
-Sepulchre Soirée of Crypt of the NecroDancer: OverClocked (1126)
-Whoa I'm In Space Cuba (BONUS CHIP MIX) of Mighty Switch Force! (1117)
-Be Kind, Rewind of Candy Corn II: The Sequeling (1117)
-### Biggest differences ###
-Big Tree of Fire 'N Ice (Vote:3.1783783; ELO:99.72871721999742%; Difference of 36.16115121999742)
-Title of Green Beret (Vote:3.2385964; ELO:99.88696550833225%; Difference of 35.11503750833225)
-bra reloCaTing of Cobra Triangle (Vote:3.3247058; ELO:98.92455755070404%; Difference of 32.430441550704046)
-Thing on a Spring of Thing on a Spring (Vote:3.3292308; ELO:98.96977134737114%; Difference of 32.38515534737114)
-Player 1 Theme of Tecmo Bowl (Vote:3.3185184; ELO:98.73401369332127%; Difference of 32.363645693321274)
-### Best Albums ###
-Rhythm Gunner (1117) [1 songs]
-Dragon Souseiki (1117) [1 songs]
-Beatmania IIDX 7th Style (1108) [1 songs]
-Imploder (1099) [1 songs]
-8 Bit of Zelda: Ocarina of Time (1099) [1 songs]
-### Best Artists ###
-Tadashi Kimijima (1144) [1 songs]
-Hal Canon, Brad Fuller, Steve Hayes, David Wise (1135) [1 songs]
-Takahiro Matsuki (1117) [1 songs]
-Xaleph, ZackParrish, Audiomint (1108) [1 songs]
-chumble spuzz (1099) [1 songs]
-
+Main Theme of Bubble Bobble (1144)
+Stage 2 of Marble Madness (1135)
+Sepulchre Soirée of Crypt of the NecroDancer: OverClocked (1126)
+Whoa I'm In Space Cuba (BONUS CHIP MIX) of Mighty Switch Force! (1117)
+Be Kind, Rewind of Candy Corn II: The Sequeling (1117)
+### Biggest differences ###
+Big Tree of Fire 'N Ice (Vote:3.178; ELO:99.722%; Difference of 36.155)
+Title of Green Beret (Vote:3.239; ELO:99.884%; Difference of 35.112)
+bra reloCaTing of Cobra Triangle (Vote:3.325; ELO:98.925%; Difference of 32.431)
+Thing on a Spring of Thing on a Spring (Vote:3.329; ELO:98.970%; Difference of 32.385)
+Player 1 Theme of Tecmo Bowl (Vote:3.319; ELO:98.738%; Difference of 32.367)
+### Best Albums ###
+Flowstone Saga (1096.000) [3 songs]
+FTL: Faster Than Light (1067.500) [4 songs]
+Balloon Fight (1063.000) [2 songs]
+Tower Of Heaven (1060.750) [4 songs]
+Sonic Spinball (1058.500) [2 songs]
+### Best Artists ###
+Akito Nakatsuka, Kenji Yamamoto, Yukio Kaneoka (1078.000) [3 songs]
+Kade Kalka (1058.500) [2 songs]
+ASAGEN (1054.000) [2 songs]
+Masaru Tajima (1054.000) [3 songs]
+Ryunocore (1051.750) [4 songs]

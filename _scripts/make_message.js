@@ -13,9 +13,9 @@ function make_message(){
         console.error(err);
     }
 
-    quickMessage += '### Best songs per score ###\n\r';
+    quickMessage += '### Best songs per score ###\n';
     for(let i=0;i<5;i++){
-        quickMessage += results[i]["title"] + ' of '+results[i]["album"] + ' ('+results[i]['Current score']+')\n\r';
+        quickMessage += results[i]["title"] + ' of '+results[i]["album"] + ' ('+results[i]['Current score']+')\n';
     }
 
     // Outliers
@@ -26,9 +26,9 @@ function make_message(){
         console.error(err);
     }
 
-    quickMessage += '### Biggest differences ###\n\r';
+    quickMessage += '### Biggest differences ###\n';
     for(let i=0;i<5;i++){
-        quickMessage += results[i]["title"] + ' of '+results[i]["album"] + ' (Vote:'+results[i]['rating']+'; ELO:'+results[i]['rankscore']+'%; Difference of '+results[i]['scoreDiff']+')\n\r';
+        quickMessage += results[i]["title"] + ' of '+results[i]["album"] + ' (Vote:'+parseFloat(results[i]['rating']).toFixed(3)+'; ELO:'+parseFloat(results[i]['rankscore']).toFixed(3)+'%; Difference of '+parseFloat(results[i]['scoreDiff']).toFixed(3)+')\n';
     }
 
     // Best Albums
@@ -39,9 +39,9 @@ function make_message(){
         console.error(err);
     }
 
-    quickMessage += '### Best Albums ###\n\r';
+    quickMessage += '### Best Albums ###\n';
     for(let i=0;i<5;i++){
-        quickMessage += results[i]["elementName"] + ' ('+results[i]['score']+') ['+results[i]['nbOfSongs']+' songs]\n\r';
+        quickMessage += results[i]["elementName"] + ' ('+parseFloat(results[i]['score']).toFixed(3)+') ['+results[i]['nbOfSongs']+' songs]\n';
     }
 
     // Best Artists
@@ -52,9 +52,9 @@ function make_message(){
         console.error(err);
     }
 
-    quickMessage += '### Best Artists ###\n\r';
+    quickMessage += '### Best Artists ###\n';
     for(let i=0;i<5;i++){
-        quickMessage += results[i]["elementName"] + ' ('+results[i]['score']+') ['+results[i]['nbOfSongs']+' songs]\n\r';
+        quickMessage += results[i]["elementName"] + ' ('+parseFloat(results[i]['score']).toFixed(3)+') ['+results[i]['nbOfSongs']+' songs]\n';
     }
 
     fs.writeFileSync(__dirname+'/../data/_results/_quickrank-message.md',quickMessage);

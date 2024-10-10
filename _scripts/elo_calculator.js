@@ -35,6 +35,7 @@ async function elo_calculator(){
     fs.readdir(directory, (err, files) => {
         if (err) throw err;
 
+        let fullCount = 0;
         let iday = 0;
         for (const file of files) {
             let i = 0;
@@ -73,11 +74,13 @@ async function elo_calculator(){
                         score:winnerScore
                     });
                     fs.writeFileSync(__dirname+'/../data/elo/'+el.winner+'.json',JSON.stringify(winnerArray));
+                    fullCount++;
                     i++;
                     console.log(Math.round(i/(elections.length)*100)+'% ('+i+"/"+elections.length + ') of day done! Day '+iday+'/'+files.length+'. ' +el.winner + ' Wins! New score is '+winnerScore+'. '+file);
                 })
             }
         }
+        fs.writeFileSync(__dirname+'/../data/_results/_election_stat.md','Tracking '+fullCount+' elections over '+iday+ ' days');
     });
 }
 

@@ -37,11 +37,13 @@ function average_for(of){
         resultArray[key].forEach(x=>{
             total+=x;
         })
-        averagesArray.push({
-            elementName:key.toString(),
-            score:(total/resultArray[key].length).toString(),
-            nbOfSongs:resultArray[key].length
-        });
+        if(resultArray[key].length>1){
+            averagesArray.push({
+                elementName:key.toString(),
+                score:(total/resultArray[key].length).toString(),
+                nbOfSongs:resultArray[key].length
+            });
+        }
     })
 
     averagesArray.sort((a,b)=>b.score-a.score);
