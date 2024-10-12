@@ -1,1 +1,1 @@
-Tracking 34266 elections over 17 days
+Tracking 38889 elections over 19 days
