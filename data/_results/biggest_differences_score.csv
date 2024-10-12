@@ -328,12 +328,12 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 5808,"Espgaluda II: Black Label","Ryu Umemoto","Stage 6",4.5698113,1090,91.39622599999998,99.75460915049563,8.35838315049564
 19112,"Final Fantasy IV: Echoes of Betrayal, Light of Redemption","audio fidelity","The Might of Baron",4.5666666,1081,91.33333199999998,99.68034613025088,8.347014130250898
 11274,"A Tribute to Nobuo Uematsu","MkVaff","Sealed Door (Chrono Trigger)",4.5114756,1054,90.229512,98.57285848051403,8.343346480514029
-18714,"Metroid","Sam Dillard","The Crimson Depths",4.556818,1072,91.13636,99.44464176164799,8.30828176164799
 29712,"Rhythm Gunner","DDRKirby(ISQ)","Rhythm Gunner",4.588,1117,91.76,99.98385586516419,8.223855865164182
 18627,"Super Mario World 2: Yoshi's Island","MkVaff","Crystalline Caverns",4.5752807,1081,91.50561400000001,99.6868037841852,8.181189784185193
 10474,"Love SQ","livetune","Outskirts of Time (livetune remix)",4.573469,1072,91.46938,99.5996254560718,8.130245456071805
 29059,"Speeding Towards Adventures: 25 Years of Sonic the Hedgehog","WillRock","Electromotive Skyforce",4.5333333,1063,90.66666599999999,98.78918988731394,8.122523887313946
 28836,"Crypt of the NecroDancer: OverClocked","Chimpazilla","Sepulchre Soirée",4.595699,1126,91.91398,99.99354234606568,8.079562346065686
+18714,"Metroid","Sam Dillard","The Crimson Depths",4.5692306,1072,91.384612,99.44464176164799,8.060029761647982
 32433,"FTL: Faster Than Light","Sir_NutS","An Open Galaxy",4.587013,1090,91.74025999999999,99.78689742016725,8.046637420167258
 31489,"Secret of Mana","RebeccaETripp, Gamer of the Winds","Colours of the Winter Sky",4.535849,1063,90.71697999999999,98.750443963708,8.033463963708002
 1133,"Shadow of the Colossus","Kow Otani","The Opened Way",4.5364704,1054,90.72940799999999,98.56640082657971,7.836992826579717
@@ -458,8 +458,8 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 34852,"The Sims","Jerry Martin, Marc Russo","Under Construction",4.45,1072,89,99.23476800878241,10.23476800878241
 29500,"Donkey Kong Country 2: Diddy's Kong Quest","DSC","Stickerbush Symphony (DSC)",4.4744186,1072,89.488372,99.27351393238837,9.78514193238837
 19745,"Deus Ex: Sonic Augmentation","Alexander Brandon, Big Giant Circles","Siren Synapse",4.482609,1072,89.65218,99.4091246650092,9.7569446650092
-20973,"Mega Man","Nutritious, WillRock","Cruise Control",4.485185,1072,89.70370000000001,99.36392108746892,9.660221087468912
 22110,"Star Road: Super Mario Reimagined","Karl Brueggemann","All's Well That Ends Well (Mario 64 Staff Roll)",4.4925375,1072,89.85075,99.33486164476446,9.484111644764454
+20973,"Mega Man","Nutritious, WillRock","Cruise Control",4.5,1072,90,99.36392108746892,9.363921087468924
 20760,"The Legend of Zelda: Four Swords Adventures","halc","The Electric Flute",4.5142856,1072,90.285712,99.37360756837042,9.087895568370413
 3092,"Final Fantasy Tactics","Hitoshi Sakimoto","Apoplexy",4.5104165,1072,90.20832999999999,99.26059862451972,9.052268624519726
 33418,"Sonic R","Richard Jacques","Living in the City",4.557377,1072,91.14753999999999,99.23799683574957,8.090456835749578
@@ -500,9 +500,9 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 17966,"Sonic & Knuckles","Malcos","Hot Stuff",3.6489797,1054,72.97959399999999,98.29517936133803,25.315585361338037
 17839,"Snake's Revenge","Takayuki Ogura","Jungle Base",3.7081082,1054,74.16216399999999,98.29840818830519,24.1362441883052
 18185,"Gun.Smoke","Gux","Spaghetti Cowboy",3.7333333,1054,74.66666599999999,98.27580639953504,23.60914039953505
-16754,"Crystal Kingdom Dizzy","Gerard Gourley","Title",3.7421052,1054,74.842104,98.36621355461561,23.524109554615606
 16323,"2007 GOTO 1986","František Fuka (Fuxoft)","Where Time Dropped Dead",3.7571428,1054,75.142856,98.38235768945142,23.23950168945143
 16457,"EvilWezil","EvilWezil","Chubby Mailman",3.7666667,1054,75.33333400000001,98.37590003551709,23.042566035517083
+16754,"Crystal Kingdom Dizzy","Gerard Gourley","Title",3.77,1054,75.4,98.36621355461561,22.966213554615607
 16923,"Track & Field II","Konami","Hang Gliding",3.7794871,1054,75.589742,98.34684059281264,22.75709859281264
 18222,"Phantasy Star IV: The End of the Millennium","djpretzel","Millennial",3.7903225,1054,75.80645,98.26934874560072,22.462898745600725
 17792,"Andorogynus","Shinobu Ogawa","In the Wake of Andorogynus",3.8058825,1054,76.11765,98.30163701527235,22.18398701527235
@@ -581,14 +581,14 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 21857,"S3XMODIT Mania Entries","Fearofdark","Extrasolar",4.0451612,1054,80.903224,98.04655968486648,17.143335684866486
 21212,"Guilty Gear X","Beatdrop","Alpha Blade",4.050633,1054,81.01266000000001,98.0723903006038,17.05973030060379
 19897,"Mega Man 3","Mustin","ProtoVaffe",4.076667,1054,81.53334,98.17248393658585,16.639143936585853
-20557,"The Legend of Zelda: Link's Awakening","Scott Peeples","Tail Cave (Beatdown Mix)",4.1016393,1054,82.03278600000002,98.11759387814408,16.084807878144062
+20557,"The Legend of Zelda: Link's Awakening","Scott Peeples","Tail Cave (Beatdown Mix)",4.0866666,1054,81.733332,98.11759387814408,16.384261878144073
 20534,"Pilotwings 64","jcd","Midnight Altitude",4.12439,1054,82.4878,98.12728035904556,15.639480359045564
 2028,"Klonoa: Door to Phantomile","Kanako Kakino","Red Heat Coronia",4.1387095,1054,82.77419,98.14019566691421,15.366005666914205
 20761,"Langrisser II","Dr. Manhattan, Scaredsim","The Prophecy of Alhazard",4.195238,1054,83.90476,98.09176326240677,14.187003262406776
 20593,"Phantasy Star Online","zircon","Ragol Weather",4.202778,1054,84.05556000000001,98.11113622420974,14.05557622420973
 21959,"The Legend of Nayuta: Boundless Trails","Hayato Sonoda, Takahiro Unisuga, Saki Momiyama","Temple of the Continent",4.2214284,1054,84.428568,98.04010203093216,13.611534030932162
 19604,"Mega Man 2","Disco Dan","Metal Man Goes Clubbing",4.2533336,1054,85.06667200000001,98.17894159052017,13.112269590520157
-21354,"Mass Effect","Psycho Crusher","Full Paragon",4.264935,1054,85.29870000000001,98.06916147363663,12.770461473636615
+21354,"Mass Effect","Psycho Crusher","Full Paragon",4.269231,1054,85.38462000000001,98.06916147363663,12.684541473636614
 20182,"Vampire Variations: A Musical Tribute to Castlevania","BONKERS","Children of the Wicked",4.297561,1054,85.95122,98.15311097478286,12.201890974782856
 21091,"Tetris","Jeremy Robson","Piano Concerto in A minor",4.33253,1054,86.6506,98.07884795453812,11.428247954538122
 20196,"Castlevania: Bloodlines","elzfernomusic","Unintentional",4.342466,1054,86.84932,98.1498821478157,11.300562147815697
@@ -1717,7 +1717,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 14744,"Castlevania II: Belmont's Revenge","Hidehiro Funauchi","The End of the Day",3.5958333,1036,71.91666599999999,94.38829873107099,22.471632731070997
 14604,"Sonic Chaos","Kojiro Mikusa, Masayuki Nagao","Sleeping Egg Zone",3.6333334,1036,72.666668,94.40767169287398,21.741003692873974
 14153,"Final Fantasy (WSC)","Nobuo Uematsu","Secret Puzzle",3.6388888,1036,72.777776,94.48516354008588,21.707387540085875
-14573,"The Faery Tale Adventure","David Joiner","Fight",3.6864865,1036,73.72973,94.41735817377547,20.687628173775465
+14573,"The Faery Tale Adventure","David Joiner","Fight",3.7179487,1036,74.358974,94.41735817377547,20.058384173775465
 14681,"Konami Hyper Soccer","Konami","Ending",3.735,1036,74.7,94.3979852119725,19.697985211972494
 14945,"The Smurfs' Nightmare","Alberto José González","Hidden Around",3.7870967,1036,75.741934,94.36569694230086,18.623762942300857
 15005,"The Legend of Zelda: Oracle of Seasons","Pure Sound Inc., Minako Adachi, Kyopi","Unknown 1",3.8,1036,76,94.34309515353073,18.343095153530726
@@ -1741,8 +1741,8 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 14884,"Final Fantasy VIII Chips","KPLECRAFT","The Extreme",4.1435294,1036,82.870588,94.37215459623519,11.501566596235193
 14755,"Castlevania","Kinuyo Yamashita","Walking On the Edge",4.152,1036,83.04,94.38184107713667,11.341841077136664
 15060,"Mother","Keiichi Suzuki, Hirokazu Tanaka","Live House Song",4.167442,1036,83.34884000000001,94.33017984566206,10.981339845662049
-14454,"Mega Man 10","Ippo Yamada","STAFF ROLL",4.2638297,1036,85.27659399999999,94.43027348164412,9.153679481644133
 14638,"Sonic the Hedgehog Pocket Adventure","Maitaro","Boss Theme",4.2777777,1036,85.555554,94.40121403893966,8.845660038939656
+14454,"Mega Man 10","Ippo Yamada","STAFF ROLL",4.2938776,1036,85.87755200000001,94.43027348164412,8.552721481644113
 14961,"VVVVVV","Magnus \"SoulEye\" Pålsson","Popular Potpourri",4.304762,1036,86.09524,94.35923928836654,8.263999288366534
 15064,"Mother","Keiichi Suzuki, Hirokazu Tanaka","Field 1",4.3121214,1036,86.24242799999999,94.3269510186949,8.08452301869491
 14413,"Mega Man III (GB)","Kouji Murata","Skull Man Stage",4.35,1036,87,94.44641761647993,7.446417616479934
@@ -1835,12 +1835,12 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 16953,"The Last Ninja 2","Matt Gray","The Mansion",3.5,1036,70,94.03635659165025,24.036356591650247
 17102,"Snatcher (MSX)","Masahiro Ikariko, Mutsuhiko Izumi","Blow Up Tricycle",3.5217392,1036,70.434784,94.01052597591296,23.575741975912962
 16864,"The NewZealand Story","Tim Follin, Geoff Follin","The NewZealand Story Theme",3.5584905,1036,71.16981,94.05895838042039,22.889148380420394
+17783,"Miracle Warriors: Seal of the Dark Lord","ASCII Entertainment","Event [PSG Version]",3.5882354,1036,71.764708,93.92980530173388,22.16509730173388
 16996,"Takahashi Meijin no Bouken Jima IV","K. Takemoto","Ending Part 2",3.607143,1036,72.14286,94.03312776468309,21.890267764683088
 17931,"Final Fantasy VIII","Orkybash","Perdition Hardcore",3.6113207,1036,72.22641399999999,93.90720351296375,21.680789512963756
 17077,"Alex Kidd in Miracle World","Tokuhiko Uwabo (Bo)","Main Theme",3.619608,1036,72.39216,94.02344128378161,21.631281283781604
 17871,"Quartet","Sega","Round 2",3.6153846,1036,72.307692,93.91366116689807,21.605969166898063
 16716,"Zoda's Revenge: StarTropics II","Takashi Kumegawa, Yoshio Hirai","Dungeon Theme #6",3.6384616,1036,72.769232,94.0847889961577,21.315556996157696
-17783,"Miracle Warriors: Seal of the Dark Lord","ASCII Entertainment","Event [PSG Version]",3.63125,1036,72.625,93.92980530173388,21.30480530173388
 16834,"Cat Astro Phi","Disasterpeace","Spaceman the Vulnerable",3.6473684,1036,72.947368,94.06864486132189,21.12127686132189
 17405,"Pokémon Puzzle Challenge","Minako Hamano","Elekid & Magby",3.65,1036,73,93.97500887927416,20.975008879274156
 17249,"Wonder Boy","James Smart","Heart Heaven",3.660465,1036,73.2093,93.9976106680443,20.788310668044303
@@ -2014,7 +2014,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 19702,"Top Gear 2","bLiNd","Dance Nation",4.2826085,1036,85.65217000000001,93.6488973555907,7.996727355590693
 19662,"Dr. Mario","Dj Redlight","Burning Up",4.33617,1036,86.7234,93.65535500952504,6.931955009525041
 19760,"Seiken Densetsu 3","Destiny","Within the Fable",4.390625,1036,87.8125,93.62629556682057,5.813795566820573
-19734,"Zelda II: The Adventure of Link","MC","Thelonius Temple",4.52459,1036,90.4918,93.63598204772207,3.1441820477220688
+19734,"Zelda II: The Adventure of Link","MC","Thelonius Temple",4.551613,1036,91.03226,93.63598204772207,2.603722047722073
 19751,"Seiken Densetsu 3","zykO","At First Innocence",,1036,null,93.6327532207549,null
 19788,"Sonic the Hedgehog 3","Platonist","Thinking Cap",,1036,null,93.6166090859191,null
 19818,"NiGHTS: Lucid Dreaming","Fishy","She Can Has Long Ears",,1036,null,93.61338025895193,null
@@ -2684,13 +2684,13 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 35891,"Fall Guys","Jukio Kallio, Daniel Hagström","Didn't Fall! (You Win)",4.427586,1036,88.55171999999999,91.37257434374092,2.8208543437409332
 34616,"Paper Mario: The Origami King","Yoshito Sekigawa, Shoh Murakami, Yoshiaki Kimura, Hiroki Morishita, Fumihiro Isobe","Red Streamer Battle",4.5157895,1036,90.31579,91.5307868651319,1.2149968651318943
 35078,"The Lone Ranger","Kozo Nakamura, Tomoya Tomita, Kenichi Matsubara, Yoshinori Sasaki, Satoko Minami, Kenichiro Fukui","Opening [The William Tell Overture]",,1036,null,91.47912563365729,null
-35825,"Jazz Jackrabbit 3","Alexander Brandon","Title",4.4162164,1036,88.324328,91.3919473055439,3.0676193055439
+362,"Suikoden II","Miki Higashino","Beautiful Morning",4.4031744,1036,88.063488,91.34028607406928,3.2767980740692764
 3557,"Halo 3","Martin O'Donnell, Michael Salvatori","This is the Hour",4.4310346,1036,88.620692,91.41454909431404,2.793857094314035
 35098,"Backwards Compatible","The 8-Bit Big Band, Buttonmasher","Metaknights Revenge (Kirby Super Star)",4.5235295,1036,90.47059000000002,91.47589680669013,1.0053068066901147
 35112,"Stritch's Brew","Super Soul Bros.","Living On The Deck",,1036,null,91.46621032578864,null
+35825,"Jazz Jackrabbit 3","Alexander Brandon","Title",4.4421053,1036,88.842106,91.3919473055439,2.549841305543893
 35353,"Ys IX: Monstrum Nox","Falcom Sound Team jdk","Glessing Way!",4.6684213,1036,93.368426,91.44683736398567,1.9215886360143344
 35399,"Catch This! Vol. 2: Goldenrod FM","Kain White","Ecruteak City, Cianwood City",,1036,null,91.43715088308417,null
-362,"Suikoden II","Miki Higashino","Beautiful Morning",4.4031744,1036,88.063488,91.34028607406928,3.2767980740692764
 35465,"Super Smash Bros. Ultimate","Keiki Kobayashi, Kazumi Totaka","Nintendo & Friends -- Title Theme - Wii Sports",4.642424,1036,92.84848,91.43069322914985,1.4177867708501424
 35415,"Final Fantasy VII","Ivan Hakštok, Juan Medrano","Let the Decisive Battle on the Big Bridge Begin!",4.605882,1036,92.11764000000001,91.43392205611701,0.6837179438829963
 35771,"Hyrule Warriors","Masato Koike, Yuki Matsumura","Kakariko Village",,1036,null,91.39840495947821,null
@@ -3448,7 +3448,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 14644,"Sonic the Hedgehog 2 (GG)","Tomozou Endo, Naofumi Hataya, Masafumi Ogata, Tomonori Sawada","Sky High Zone",3.9027028,1027,78.054056,88.9412676374673,10.887211637467303
 14690,"Mission: Impossible","Jun Funahashi, Yoshiyuki Hagiwara","Persian Mountains / Prison Camp",3.9076922,1027,78.153844,88.91220819476284,10.758364194762834
 14922,"Gimmick!","Masashi Kageyama","Good Night",3.935,1027,78.7,88.84117400148526,10.141174001485254
-14705,"Darkwing Duck","Yasuaki Fujita","The Tower (Moliarty's Stage)",4,1027,80,88.90252171386135,8.902521713861347
+14705,"Darkwing Duck","Yasuaki Fujita","The Tower (Moliarty's Stage)",3.9904761,1027,79.809522,88.90252171386135,9.092999713861346
 14676,"Kisou Ryouhei Gunhound Pocket","Hyakutaro Tsukumo","Boss",4.0162163,1027,80.324326,88.9251235026315,8.600797502631494
 14960,"The Smurfs (NES)","Alberto José González","Act 3 : The Swamps / Act 10 : Gargamel's Manor",4.023256,1027,80.46512,88.83148752058378,8.366367520583779
 14703,"Darkwing Duck","Yasuaki Fujita","F.O.W.L. Headquarters (Steelbeak's Stage)",4.0666666,1027,81.33333199999998,88.90575054082852,7.5724185408285365
@@ -3497,7 +3497,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 15538,"Beneath The Skin","Heosphoros","Tough And Cool (T&C Surf Design - Theme)",3.711111,1027,74.22222,88.6894191340286,14.467199134028604
 16040,"of Atoms and Stardust [ Remixes ]","Auxcide","Ellipse [ Auxcide's back to using everything Mix ]",3.75,1027,75,88.58609667107939,13.586096671079389
 15924,"Muse: An 8 Bit Tribute","RushJet1","Sing For Absolution",3.7733333,1027,75.466666,88.61838494075103,13.151718940751024
-16026,"Pixel","Auxcide","Creation",3.816,1027,76.32,88.59255432501372,12.27255432501373
+16026,"Pixel","Auxcide","Creation",3.8137932,1027,76.275864,88.59255432501372,12.316690325013724
 16057,"Triptunes","Blitz Lunar","Hidden Heaven",3.8344827,1027,76.689654,88.57963901714507,11.889985017145065
 15232,"Pokey Love","505","3886 days",3.8466666,1027,76.933332,88.76368215427335,11.830350154273361
 15234,"hYMns","505","Blue Period",3.889655,1027,77.7931,88.7604533273062,10.9673533273062
@@ -3521,8 +3521,8 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 15577,"Daniel White (Singles)","Daniel White (danooct1)","Mega Man 7 - Ending",4.2148147,1027,84.29629399999999,88.6732749991928,4.37698099919281
 15395,"coatlesscarl's 8-bit Covers","coatlesscarl","Mega Man X2 - Crystal Snail Stage (Sinister Gleam)",4.2266665,1027,84.53333,88.71847857673308,4.18514857673307
 15551,"Sonic 3 & Knuckles: 8-bit Arrange OST","Daniel White (danooct1)","Lava Reef Zone Act I",4.227778,1027,84.55556,88.68296148009428,4.127401480094278
-15722,"Radical D","MicroD","Radical D",4.252174,1027,85.04348,88.6635885182913,3.6201085182913033
 15561,"Sonic 3 & Knuckles: 8-bit Arrange OST","Daniel White (danooct1)","Special Stage",4.6051283,1027,92.102566,88.67650382615996,3.4260621738400374
+15722,"Radical D","MicroD","Radical D",4.2833333,1027,85.66666599999999,88.6635885182913,2.9969225182913135
 15273,"Atari-Ska L'Attack","Dubmood","Monkey Island",4.2906666,1027,85.813332,88.75722450033902,2.943892500339018
 15469,"Weekly Treats: 2013","Musho","0xDWARF",4.294737,1027,85.89473999999998,88.70879209583158,2.814052095831599
 15205,"Mega Man 11 Soundtrack Project","Xavier Dang (mv)","SUBMERGED BASEMENT (DR. WILY STAGE 3)",4.383333,1027,87.66666000000001,88.76691098124051,1.1002509812405066
@@ -3665,7 +3665,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 21368,"BadAss: Boss Themes","Arcana","To Slay a Butcher",3.1190476,1027,62.380952,87.75951696748572,25.378564967485723
 18733,"Mega Man 9: Back in Blue","Cyril the Wolf","Ninth Fight",3.2133334,1027,64.266668,88.09854379903781,23.831875799037817
 19793,"Super Thunder Blade","Joe Redifer","Blue Chopper",3.2510638,1027,65.021276,87.97907720125279,22.957801201252792
-22072,"Starfields and Cityscapes","Space Town Savior","We Are Not Enough (But We're All That's Left)",3.2413793,1027,64.827586,87.63682154273353,22.809235542733532
+22072,"Starfields and Cityscapes","Space Town Savior","We Are Not Enough (But We're All That's Left)",3.2666667,1027,65.33333400000001,87.63682154273353,22.30348754273352
 20879,"Mega Man X4","DJ MetaZero","Stage Select",3.3054545,1027,66.10909000000001,87.83055116076329,21.721461160763283
 21589,"Tails' Skypatrol","Chikayo Fukuda","Ruin Wood (First Half)",3.3333333,1027,66.666666,87.73045752478124,21.063791524781237
 19092,"Dance Dance Revolution 4thMix","MC, SGX","4F73R M3",3.3652174,1027,67.304348,88.05979787543185,20.75544987543185
@@ -4177,8 +4177,8 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 29717,"The Blue Marlin","Michiya Hirasawa","Marlin Fight",4.0342855,1027,80.68571,86.58099512447129,5.895285124471286
 30702,"Mamorukun Curse!","Yousuke Yasui","Blossom Shower (Ice Village World - First Half)",4.6,1027,92,86.4389267379161,5.5610732620838945
 29662,"Persona Q","Atsushi Kitajoh, Lotus Juice, Yumi Kawamura","Light the Fire Up in the Night -Dark Hour-",4.071233,1027,81.42466,86.59068160537277,5.166021605372762
-3078,"Final Fantasy VII: Crisis Core","Takeharu Ishimoto","A Closed Off Village",4.572043,1027,91.44086,86.42924025701463,5.011619742985374
 30156,"The Legend of Zelda: Breath of the Wild","RoeTaKa","The Champion of Hyrule",4.5666666,1027,91.33333199999998,86.5099609311937,4.823371068806281
+3078,"Final Fantasy VII: Crisis Core","Takeharu Ishimoto","A Closed Off Village",4.56,1027,91.19999999999999,86.42924025701463,4.770759742985362
 30863,"Thunder Force V","Hyakutaro Tsukumo","(Stage 5) Steel of Destiny",4.5581393,1027,91.162786,86.41632494914597,4.746461050854023
 30378,"near death experience, SHADOW HEARTS Arrangetracks","Yasunori Mitsuda","Twilight Street - Ambient Remix",4.088889,1027,81.77778,86.48090148848924,4.703121488489231
 30635,"Battle Kid 2: Mountain of Torment","Sivak","Aquatic Base",4.1181817,1027,82.363634,86.44215556488328,4.078521564883275
@@ -4801,17 +4801,17 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 7957,"La-Mulana","Takumi Naramura, Houryu Samejima","Interstice of the Dimension / Tiamat",4.152941,1027,83.05882,84.46934228794679,1.4105222879467902
 7989,"Top Gear 2","Patrick Phelan, Ashley Bennett, Paul Hiley","Ayers Rock",4.152941,1027,83.05882,84.46288463401245,1.4040646340124567
 6764,"Touhou Sangetsusei: Fairy Wars","ZUN","The Great Fairy Wars",4.3,1027,86,84.62755480933777,1.3724451906622335
-68,"Puzzlejuice","Big Giant Circles","Sipping Juice",4.292308,1027,85.84616,84.6243259823706,1.2218340176293907
 7688,"Romancing SaGa 3","Kenji Ito","Battle 2",4.2844443,1027,85.688886,84.50485938458559,1.1840266154144103
 755,"Disgaea 4: A Promise Unforgotten","Tenpei Sato","Piano Sonata D No. 4",4.26,1027,85.19999999999999,84.53069000032288,0.669309999677111
 7439,"Outlaws","Clint Bajakian","Outlaws",4.2,1027,84,84.54360530819154,0.5436053081915446
+7569,"Front Mission 4","Hidenori Iwasaki","Pride and Honor",4.2,1027,84,84.52746117335572,0.527461173355718
+68,"Puzzlejuice","Big Giant Circles","Sipping Juice",4.2515154,1027,85.03030799999999,84.6243259823706,0.405982017629384
 7068,"Wangan Midnight Maximum Tune","Yuzo Koshiro","Maximum Acceleration",4.247619,1027,84.95238,84.59203771269898,0.36034228730102313
 6811,"Pokémon Diamond/Pearl/Platinum","Junichi Masuda","Battle! Trainer",4.22,1027,84.39999999999999,84.62109715540345,0.22109715540345576
 6733,"Touhou Youyoumu: Perfect Cherry Blossom","ZUN","The Capital City of Flowers in the Sky",4.230303,1027,84.60606,84.63724129023925,0.031181290239246096
 7276,"Radiata Stories","Noriyuki Iwadare","Scarlet Wind",,1027,null,84.56620709696168,null
 7316,"Apollo Justice: Ace Attorney","Toshihiko Horiyama","Apollo Justice ~ A New Trial is in Session!",,1027,null,84.55974944302734,null
 7336,"Phoenix Wright 5: Dual Destinies","Noriyuki Iwadare","Phoenix Wright ~ Objection! 2013",,1027,null,84.55329178909302,null
-7569,"Front Mission 4","Hidenori Iwasaki","Pride and Honor",4.2,1027,84,84.52746117335572,0.527461173355718
 7341,"Miles Edgeworth Investigations 2","Noriyuki Iwadare","Pursuit ~ Wanting to Find the Truth",4.238806,1027,84.77612,84.55006296212586,0.226057037874142
 7619,"Deus Ex","Michiel Van Den Bos","UNATCO",,1027,null,84.5113170385199,null
 8763,"Kid Chameleon","Manuel Mora","Fantasy Area",3.3567567,1027,67.135134,84.34341803622743,17.20828403622744
@@ -5114,13 +5114,13 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 11344,"Heavy Troopa is Ready to Launch!","Videogame Orchestra","Mario & Yoshi Medley",4.2875,1018,85.75,83.49746537083078,2.2525346291692188
 11299,"Chrono Trigger Original Sound Version Live","Dylan Wiest","The Hidden Truth",4.1476192,1018,82.95238400000001,83.51360950566658,0.5612255056665703
 11325,"The American Album Special Edition","Mazedude","Funkiscope (Sketch)",,1018,null,83.50715185173226,null
-1137,"Shadow of the Colossus","Kow Otani","Final Battle",4.1,1018,82,83.47809240902781,1.4780924090278091
-11342,"Obligatory Ice Level Day 2010","Select Start","Yo'Ster Island",4.224,1018,84.48,83.50069419779794,0.9793058022020631
+11342,"Obligatory Ice Level Day 2010","Select Start","Yo'Ster Island",4.3,1018,86,83.50069419779794,2.499305802202059
 11362,"Heavy Troopa is Ready to Launch!","Mazedude","Flubber Mountain",,1018,null,83.48777888992929,null
 11368,"Heavy Troopa is Ready to Launch!","LET'S GET INVISIBLE!","Fight Against Monsters",,1018,null,83.48132123599497,null
+11378,"Essence of Lime","just64helpin","Moon Shift",3.75625,1018,75.125,83.46840592812632,8.343405928126316
+1137,"Shadow of the Colossus","Kow Otani","Final Battle",4.1,1018,82,83.47809240902781,1.4780924090278091
 11370,"Heavy Troopa is Ready to Launch!","Girlz Melon","Conversation with Culex (no synth)",,1018,null,83.47486358206064,null
 11377,"Essence of Lime","Dj Mokram","Veiled in Secrecy",,1018,null,83.47163475509348,null
-11378,"Essence of Lime","just64helpin","Moon Shift",3.75625,1018,75.125,83.46840592812632,8.343405928126316
 11383,"Essence of Lime","Dj Mokram, NintenJoe 64","Enter the Ganon",,1018,null,83.46194827419198,null
 11392,"The Legend of Zelda: Oracle of Ages","Lemonectric","Essence of Lime",,1018,null,83.45871944722482,null
 11394,"Essence of Lime","TheKrow","Ballad of Ages",,1018,null,83.45549062025765,null
@@ -5338,9 +5338,9 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 13049,"Contra","Hidenori Maezawa, Kiyohiro Sada","Jungle / Hangar",4.5076923,1018,90.15384600000002,82.72577572567886,7.428070274321158
 12852,"Turok: Battle of the Bionosaurs","Alberto José González","World 8",3.7785714,1018,75.571428,82.80649639985793,7.235068399857937
 12902,"Captain America and the Avengers","Takafumi Miura, Seiji Momoi","Houston",3.7860465,1018,75.72093,82.78712343805495,7.0661934380549525
-12919,"The G.G. Shinobi","Yuzo Koshiro","Rush",3.8117647,1018,76.235294,82.78389461108779,6.548600611087792
 12990,"Wario Blast: Featuring Bomberman!","Yasuhiko Fukuda","Forest Zone",3.8108108,1018,76.216216,82.748377514449,6.532161514449001
 12759,"Treasure Master","Tim Follin","Mushroom Land",3.8173914,1018,76.34782799999999,82.84524232346388,6.497414323463886
+12919,"The G.G. Shinobi","Yuzo Koshiro","Rush",3.817143,1018,76.34286,82.78389461108779,6.441034611087787
 12789,"Turbo OutRun","Jeroen Tel","Who Are You?",3.8206897,1018,76.413794,82.82909818862807,6.41530418862807
 13058,"Super C","Hidenori Maezawa, Motoaki Furukawa","In a Tight Squeeze",3.8564103,1018,77.12820599999999,82.71608924477736,5.587883244777373
 12795,"OutRun","Hiroshi Kawaguchi","MAGICAL SOUND SHOWER",4.3839083,1018,87.678166,82.8258693616609,4.852296638339098
@@ -5883,8 +5883,9 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 17687,"G.I. Joe: The Atlantis Factor","Hama, Eden","Peace Once More (Ending)",3.7941177,1018,75.882354,81.01449743308257,5.132143433082561
 17549,"M.C. Kids","Charles Deenen","Level Theme 3",3.864,1018,77.28,81.05324335668853,3.773243356688525
 17925,"Ys","Joe Redifer","Feena Flow",3.8875,1018,77.75,80.93377675890349,3.183776758903491
-17514,"Ninja Gaiden III: The Ancient Ship of Doom","Hiroshi Miyazaki, Kaori Nakabai, Rika Shigeno","Act 2 (part 1)",3.9411764,1018,78.823528,81.0726163184915,2.249088318491502
+17949,"Final Fantasy VIII","Ziwtra","Rain in Chicago",3.938983,1018,78.77965999999999,80.9144037971005,2.134743797100512
 17987,"Sonic the Hedgehog 2: Hedgehog Heaven","Sir_NutS","High Above the Sky",3.9482758,1018,78.965516,80.90471731619903,1.939201316199032
+17514,"Ninja Gaiden III: The Ancient Ship of Doom","Hiroshi Miyazaki, Kaori Nakabai, Rika Shigeno","Act 2 (part 1)",3.9714286,1018,79.428572,81.0726163184915,1.6440443184914955
 17517,"Ninja Gaiden III: The Ancient Ship of Doom","Hiroshi Miyazaki, Kaori Nakabai, Rika Shigeno","Act 4 (part 2)",4.0439024,1018,80.878048,81.06938749152432,0.1913394915243174
 17530,"The Guardian Legend","Masatomo Miyamoto, Takeshi Santoh","Aqua Sector",,1018,null,81.06615866455716,null
 17539,"Robocop 3","Jeroen Tel","Victory Theme",3.437037,1018,68.74074,81.05647218365569,12.315732183655683
@@ -5911,7 +5912,6 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 17922,"Xenogears","katethegreat19","Hymn of Aveh",,1018,null,80.93700558587066,null
 17929,"Bubble Bobble","Cuddly Battleship Kattywampus","West Side Homies",,1018,null,80.93054793193633,null
 17934,"Final Fantasy VIII","Bladiator","Moontang",,1018,null,80.92731910496916,null
-17949,"Final Fantasy VIII","Ziwtra","Rain in Chicago",3.938983,1018,78.77965999999999,80.9144037971005,2.134743797100512
 1794,"Legaia 2: Duel Saga","Hitoshi Sakimoto","Peaceful Days",4.0473685,1018,80.94737,80.92086145103484,0.026508548965168188
 17968,"Sonic & Knuckles","Devastus","Airborne",,1018,null,80.91117497013335,null
 "18000","Invalid song","Invalid song","Invalid song",,1018,null,80.90148848923187,null
@@ -6482,8 +6482,8 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 22933,"Brandish 3: Spirit of Balcan","Falcom Sound Team jdk","Tears of God",3.624,1018,72.48,79.07720125278487,6.5972012527848705
 22959,"Brandish 3: Spirit of Balcan","Falcom Sound Team jdk","Maison",4.193333,1018,83.86666,79.06105711794905,4.805602882050948
 23074,"Year 2 Complete Collection","FamilyJules7x","Castle Crashers",3.8421052,1018,76.842104,79.01585354040877,2.173749540408764
-22911,"Veneer","Petriform","Excellent!!",4.048276,1018,80.96552000000001,79.08688773368635,1.8786322663136588
 22919,"The Scheme","Yuzo Koshiro","The Legend of Hero",3.8625,1018,77.25,79.08043007975203,1.830430079752034
+22911,"Veneer","Petriform","Excellent!!",4.0387096,1018,80.774192,79.08688773368635,1.687304266313646
 22960,"Brandish 3: Spirit of Balcan","Falcom Sound Team jdk","Fortress",4.007407,1018,80.14814,79.05782829098189,1.0903117090181098
 22905,"V-Chipular Bandslaughter","SAVESTATES","Yo Ho Ho and a Neck Full of Blood",3.976,1018,79.52,79.09011656065351,0.429883439346483
 22913,"Veneer","Petriform","Spelunker's Resolve",3.96875,1018,79.375,79.0836589067192,0.29134109328080626
@@ -7138,27 +7138,27 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 2786,"Final Fantasy VI","Nobuo Uematsu","Mt. Koltz",,1018,null,76.9623195892932,null
 2787,"Final Fantasy VI","Nobuo Uematsu","Opening Theme (Orchestral)",4.807207,1018,96.14414,76.95586193535888,19.18827806464111
 27874,"Chaos Rings Ω","Noriyasu Agematsu","A World Without Tears (Instrumental)",,1018,null,76.95263310839172,null
-28167,"Candy Corn","YoshiBlade","Marowak's Revenge",2.5019608,1018,50.039215999999996,76.80410706790222,26.764891067902226
 2793,"Final Fantasy VI","Nobuo Uematsu","Tina",5,1018,100,76.92357366568726,23.076426334312742
 2821,"Final Fantasy VI","Nobuo Uematsu","Battle Theme",4.8444443,1018,96.888886,76.77504762519777,20.113838374802228
 27982,"Super Smash Bros. for 3DS / Wii U","Hideki Sakamoto","Zelda - Main Theme / Underworld Theme",4.822222,1018,96.44444,76.89451422298279,19.549925777017208
 2801,"Final Fantasy VI","Nobuo Uematsu","The Day After",4.55,1018,91,76.87837008814698,14.12162991185302
-28187,"Chiptunes = WIN: Volume 4","Jamphibious","Anura Jam",4.4105263,1018,88.210526,76.79119176003358,11.419334239966417
 27969,"Super Smash Bros. for 3DS / Wii U","Junichi Nakatsuru","Smash Bros. - Final Destination Ver. 2",4.3942857,1018,87.88571400000001,76.89774304994995,10.987970950050055
 2819,"Final Fantasy VI","Nobuo Uematsu","Lock",4.380392,1018,87.60784,76.78796293306641,10.819877066933586
-28218,"Chiptunes = WIN: Volume 5","Please Lose Battle","Bitter",3.32,1018,66.39999999999999,76.76536114429628,10.365361144296287
 280,"Breath of Fire III","Akari Kaida, Yoshino Aoki","Vindictive",3.4166667,1018,68.333334,76.8848277420813,8.551493742081306
 28181,"Chiptunes = WIN: Volume 4","JKLOL","F*** Glenn Dubois",4.258333,1018,85.16666000000001,76.7976494139679,8.369010586032104
 28063,"Sonic Colors","Faseeh","Misty Night",4.233898,1018,84.67796,76.858997126344,7.818962873656005
-28086,"Zoids Densetsu","Kenichi Tomizawa","BGM #07",3.4695652,1018,69.39130399999999,76.84931064544251,7.458006645442524
 28053,"Trials Fusion","Petri Alanko","Whispering Sirens",4.20625,1018,84.125,76.86222595331115,7.262774046688847
 27881,"F1 2012","Ian Livingstone","Control Yourself",4.182857,1018,83.65714,76.94940428142456,6.707735718575435
 27888,"KRUNCH","Dirk Rugged","ESCAPE",3.976923,1018,79.53846,76.9461754544574,2.592284545542597
 27890,"KRUNCH","Disasterpeace","Serpents",,1018,null,76.94294662749023,null
 27899,"Chronology: A Jazz Tribute to Chrono Trigger","Nostalvania, The OC Jazz Collective","Time's Seal",4.147541,1018,82.95082000000001,76.93971780052307,6.011102199476937
 2790,"Final Fantasy VI","Nobuo Uematsu","Last Dungeon",,1018,null,76.93648897355591,null
+28167,"Candy Corn","YoshiBlade","Marowak's Revenge",2.5019608,1018,50.039215999999996,76.80410706790222,26.764891067902226
 27923,"Super Smash Bros. for 3DS / Wii U","Atsuko Asahi","Mario - Cloudtop Cruise",4.694737,1018,93.89474,76.93003131962158,16.964708680378422
+28187,"Chiptunes = WIN: Volume 4","Jamphibious","Anura Jam",4.4105263,1018,88.210526,76.79119176003358,11.419334239966417
+28218,"Chiptunes = WIN: Volume 5","Please Lose Battle","Bitter",3.32,1018,66.39999999999999,76.76536114429628,10.365361144296287
 27924,"Super Smash Bros. for 3DS / Wii U","Tetsuya Shibata","Mario - Ground Theme / Underground Theme",4.1714287,1018,83.428574,76.92680249265442,6.50177150734558
+28086,"Zoids Densetsu","Kenichi Tomizawa","BGM #07",3.5769231,1018,71.53846200000001,76.84931064544251,5.310848645442505
 27904,"Chronology: A Jazz Tribute to Chrono Trigger","Fratto, Wiesty, The OC Jazz Collective","Driftwood",4.081818,1018,81.63636,76.93326014658875,4.703099853411246
 "27934","Invalid song","Invalid song","Invalid song",,1018,null,76.92034483872008,null
 2794,"Final Fantasy VI","Nobuo Uematsu","Blackjack",,1018,null,76.91711601175292,null
@@ -7326,7 +7326,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 29650,"Sonic Mania","Tee Lopes","Chemical Plant Zone, Act 2",4.6085105,1018,92.17021000000001,76.17125698233832,15.998953017661691
 29609,"Persona 5","Shoji Meguro, Lyn","Tokyo Daylight",4.56,1018,91.19999999999999,76.19708759807563,15.002912401924362
 29613,"Persona 5","Shoji Meguro","Will Power",4.5111113,1018,90.22222599999999,76.19062994414129,14.0315960558587
-29610,"Persona 5","Shoji Meguro, Lyn","Last Surprise",4.498901,1018,89.97802,76.19385877110845,13.784161228891548
+29610,"Persona 5","Shoji Meguro, Lyn","Last Surprise",4.496774,1018,89.93548000000001,76.19385877110845,13.74162122889156
 2920,"Final Fantasy IV","Nobuo Uematsu","Kingdom Baron",4.4653845,1018,89.30769,76.34884246553227,12.958847534467722
 2958,"Final Fantasy XII","Hitoshi Sakimoto","The Dalmasca Estersand",4.43125,1018,88.625,76.21968938684576,12.405310613154242
 29543,"The Legend of Zelda: Ocarina of Time","DSC","Zora's Domain (DSC)",4.385714,1018,87.71428,76.22937586774725,11.484904132252751
@@ -8497,7 +8497,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 37445,"Final Fantasy VII - Radiant Melodies","Yu Manabe","Tifa's Theme - Radiant Melodies ver.",,1018,null,72.57111491395176,null
 37565,"Final Fantasy VIII: SeeDs of Pandora","Mel Decision, metamoogle, Cyril the Wolf","Lost in Time",2.3142858,1018,46.285716,72.52914016337864,26.24342416337864
 37569,"Final Fantasy VIII: SeeDs of Pandora","Treyt, Shea's Violin","You Got Me Dancing",2.58,1018,51.6,72.52591133641148,20.92591133641148
-37455,"Stray","TheManPF, Katajun, newmajoe, Zach Chapman","W3 4RE TH3 ROB0TS",3.628,1018,72.56,72.5678860869846,0.00788608698459825
+37455,"Stray","TheManPF, Katajun, newmajoe, Zach Chapman","W3 4RE TH3 ROB0TS",3.6470587,1018,72.941174,72.5678860869846,0.3732879130154032
 37481,"Outer Wilds","Andrew Prahlow","End Times",,1018,null,72.56142843305027,null
 37489,"Yu-Gi-Oh! Forbidden Memories","Naoko Ishii, Waichiro Ozaki, Hiroshi Tanabe","Priest Seto Theme",,1018,null,72.55819960608311,null
 37501,"Horizon Chase Turbo","Barry Leitch","Race 5 The Finale",,1018,null,72.55497077911595,null
@@ -9247,13 +9247,13 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 741,"Disgaea: Hour of Darkness","Tenpei Sato","Hell's Whisper",,1018,null,70.16240999644829,null
 7425,"Secret of Mana","Hiroki Kikuta","Tell A Strange Tale",4.646875,1018,92.9375,70.13980820767816,22.797691792321842
 7428,"Secret of Mana","Hiroki Kikuta","Rose And Ghost",4.637288,1018,92.74575999999999,70.13657938071098,22.609180619289006
+7489,"Fire Emblem: Radiant Dawn","Yuka Tsujiyoko, Yoshito Hirano","Eternal Bond",4.3925924,1018,87.85184799999999,70.10429111103936,17.74755688896063
 7417,"Secret of Mana","Hiroki Kikuta","Wish",4.3931036,1018,87.862072,70.1527235155468,17.7093484844532
 742,"Disgaea: Hour of Darkness","Tenpei Sato","A Dark Race Becomes Magnificent",4.2029853,1018,84.059706,70.14949468857964,13.910211311420369
 7423,"Secret of Mana","Hiroki Kikuta","The Boy Aims For Wild Fields",,1018,null,70.14303703464532,null
 7429,"Secret of Mana","Hiroki Kikuta","Danger",,1018,null,70.13335055374382,null
 7433,"Secret of Mana","Hiroki Kikuta","Legend",,1018,null,70.13012172677666,null
 7435,"Secret of Mana","Hiroki Kikuta","What The Forest Taught Me",,1018,null,70.1268928998095,null
-7489,"Fire Emblem: Radiant Dawn","Yuka Tsujiyoko, Yoshito Hirano","Eternal Bond",4.353846,1018,87.07692,70.10429111103936,16.972628888960642
 7551,"Front Mission 5","Norihito Sumitomo","Scars of the War",4.115556,1018,82.31111999999999,70.07200284136773,12.239117158632254
 753,"Disgaea 2: Cursed Memories","Tenpei Sato","Brother & Sister",4.0439024,1018,80.878048,70.08168932226923,10.79635867773078
 7516,"Fire Emblem: Shadow Dragon","Yuka Tsujiyoko, Saki Kasuga","Preparations for Battle",4,1018,80,70.08814697620355,9.911853023796453
@@ -10389,13 +10389,13 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 17412,"Pokémon Red/Blue/Yellow","Junichi Masuda","Pewter City",4.071795,1009,81.4359,66.37499596396628,15.060904036033719
 17146,"Super Meat Boy","Danny Baranowsky","Betus Blues RETRO (Ch 2 Warp Zone)",4.0518517,1009,81.037034,66.45571663814536,14.581317361854644
 172,"Perfect Dark","Grant Kirkhope","Pelagic 2: Exploration",4,1009,80,66.43634367634237,13.563656323657625
+17094,"Jamestown","Francisco Cerda","Chyptune",3.9944444,1009,79.888888,66.48477608084983,13.404111919150168
 17328,"Touhou Kaikidan: Mystic Square","ZUN","Musou Jikuu",3.9714286,1009,79.428572,66.39436892576927,13.034203074230732
 17343,"Touhou Gensoukyou: Lotus Land Story","ZUN","Alice Maestra",3.9291666,1009,78.583332,66.3911400988021,12.192191901197901
 17366,"Rune Worth","Shigeru Tomita, Kazunori Hasegawa","Lawless City",3.9266667,1009,78.533334,66.38791127183494,12.145422728165059
 17098,"Snatcher (MSX)","Masahiro Ikariko, Mutsuhiko Izumi","Faded Memories",3.9266667,1009,78.533334,66.48154725388267,12.05178674611733
 17492,"Ninja Gaiden (SMS)","Takashi Horiguchi","End Credits",3.9135134,1009,78.270268,66.33302121339317,11.937246786606835
 17156,"Mighty Final Fight","Setsuo Yamamoto, Yuko Takehara","Slum",3.9105263,1009,78.210526,66.4524878111782,11.7580381888218
-17094,"Jamestown","Francisco Cerda","Chyptune",3.9074626,1009,78.149252,66.48477608084983,11.664475919150178
 17457,"Pokémon Gold/Silver/Crystal","Junichi Masuda","Battle! (Wild Pokémon—Johto Version)",3.893617,1009,77.87234,66.35562300216331,11.516716997836681
 17370,"Rune Worth","Shigeru Tomita, Kazunori Hasegawa","Nagging Spirit",3.8266666,1009,76.533332,66.38468244486778,10.148649555132224
 17113,"SD Snatcher","Masahiro Ikariko, Mutsuhiko Izumi, Motoaki Furukawa, Michiru Yamane, Yuji Takenouchi, Harumi Ueko, Yuko Kurahashi, Tomoya Tomita, Tsuyoshi Sekito, Kazuhiko Uehara","The Gates of Hell",3.7757576,1009,75.515152,66.46863194601401,9.046520053985986
@@ -10404,7 +10404,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 17135,"Tiny Barbarian DX","Jeff Ball","Bat Navigator",3.7371428,1009,74.742856,66.4621742920797,8.280681707920309
 17106,"SD Snatcher","Masahiro Ikariko, Mutsuhiko Izumi, Motoaki Furukawa, Michiru Yamane, Yuji Takenouchi, Harumi Ueko, Yuko Kurahashi, Tomoya Tomita, Tsuyoshi Sekito, Kazuhiko Uehara","Strange Overture",3.6545455,1009,73.09091,66.47831842691551,6.612591573084487
 17189,"Donkey Kong Land III","Eveline Fischer, David Wise","Crazy Calypso",3.6285715,1009,72.57143,66.43957250330955,6.131857496690458
-17204,"Donkey Kong Land 2","David Wise, Grant Kirkhope","Target Terror",3.565,1009,71.3,66.43311484937522,4.866885150624782
+17204,"Donkey Kong Land 2","David Wise, Grant Kirkhope","Target Terror",3.5902438,1009,71.80487600000001,66.43311484937522,5.371761150624792
 17229,"The Flash","Jeroen Tel","Trickster for Mayor",3.562963,1009,71.25926,66.42019954150658,4.839060458493421
 17070,"Space Harrier (SMS)","Tokuhiko Uwabo (Bo)","Gordani",3.0833333,1009,61.666666,66.49769138871848,4.83102538871848
 17059,"Kirby's Block Ball","Sukezo Ouyama, Ryoue Takagi","Title Theme",3.5333333,1009,70.66666599999999,66.5041490426528,4.162516957347194
@@ -10645,17 +10645,17 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 1997,"TimeSplitters","Graeme Norgate","Castle (Multiplayer)",3.9317074,1009,78.634148,65.5484162603726,13.085731739627391
 1958,"Shin Megami Tensei III: Nocturne","Shoji Meguro","Normal Battle - Deep World Amala",3.9375,1009,78.75,65.70017112782925,13.04982887217075
 19548,"Ecco: The Tides of Time","SGX","Drift",3.9137254,1009,78.274508,65.71631526266508,12.55819273733492
+19992,"Donkey Kong Country: Kong in Concert","analoq","dolilip do wop",3.8823528,1009,77.647056,65.53550095250395,12.111555047496054
+19797,"Final Fantasy","Tim Sheehy (Kaijin)","A Temple of Chaos",3.7890909,1009,75.781818,65.61299279971587,10.168825200284132
 19545,"Eye of the Beholder II: The Legend of Darkmoon","Archangel","The Myth of Darkmoon",3.7728813,1009,75.457626,65.71954408963224,9.738081910367768
 19495,"Pokémon: The Missingno Tracks","The Orichalcon","Argent Vexemon",3.4977777,1009,69.95555399999999,65.72923057053373,4.226323429466262
 19530,"Final Fantasy: Random Encounter","M-H","The Caerulean Ruins",,1009,null,65.72277291659941,null
 19553,"Ecco: The Tides of Time","Mattias Häggström Gerdt","The World's Smallest Giant",,1009,null,65.7130864356979,null
 19756,"Seiken Densetsu 3","FIDGAF, The Orichalcon","Electrion (Guitar Mix)",3.9183674,1009,78.367348,65.63882341545316,12.728524584546847
-19992,"Donkey Kong Country: Kong in Concert","analoq","dolilip do wop",3.8823528,1009,77.647056,65.53550095250395,12.111555047496054
 19957,"Final Fantasy IV","DarkCecil13","Leap into the Darkness",3.8576922,1009,77.15384399999999,65.5581027412741,11.595741258725894
 19611,"Mega Man 2","Nilvah","Tekno Wily",3.8307693,1009,76.615386,65.69371347389493,10.92167252610507
 19755,"Seiken Densetsu 3","OverCoat","Path-ology",3.7843137,1009,75.686274,65.64205224242032,10.044221757579678
 19726,"Mega Man: The Robot Museum","Joshua Morse","Slash Claw",3.768,1009,75.36,65.6614252042233,9.698574795776693
-19797,"Final Fantasy","Tim Sheehy (Kaijin)","A Temple of Chaos",3.7576923,1009,75.153846,65.61299279971587,9.540853200284133
 19778,"Sonic the Hedgehog 3","SkyHigh","Snow Motion",3.7568626,1009,75.13725199999999,65.62913693455168,9.508115065448308
 19872,"Final Fantasy XI Online","Tweex","Battling Despair at Dawn",3.752,1009,75.03999999999999,65.58070453004423,9.459295469955762
 1985,"Worms 3D","Bjørn Lynne","Coconuts Instrumental",3.6963856,1009,73.927712,65.58716218397856,8.340549816021436
@@ -10864,8 +10864,8 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 2208,"Total Annihilation","Jeremy Soule","Recovering",4.279412,1009,85.58824,64.85744728939976,20.73079271060024
 21951,"Cloudbuilt","Jacob Lincke","Initial Entry",4.2222223,1009,84.444446,64.90910852087437,19.53533747912563
 2210,"Total Annihilation","Jeremy Soule","Technology Knights",4.207059,1009,84.14118,64.8445319815311,19.2966480184689
+22109,"Star Road: Super Mario Reimagined","Karl Brueggemann","Dancing on Air (Starman)",4.1789474,1009,83.578948,64.83807432759679,18.74087367240321
 22521,"Meltylancer: The 3rd Planet","Kenichi Okuma","Winter ~MELTYLANCER The 3rd PLANET MAIN THEME~",4.173913,1009,83.47825999999999,64.77349778825354,18.704762211746456
-22109,"Star Road: Super Mario Reimagined","Karl Brueggemann","Dancing on Air (Starman)",4.1526318,1009,83.052636,64.83807432759679,18.21456167240322
 2220,"Street Fighter IV","Hideyuki Fukasawa","Drive-in at Night Stage -USA-",4.1137257,1009,82.274514,64.81870136579381,17.455812634206183
 219,"Dynasty Warriors: Gundam 3","Shinichiro Nakamura, Masato Koike, Miki Fujii","Fresh Nature (Type 1)",4.112,1009,82.24000000000001,64.93816796357883,17.301832036421175
 22597,"Fantasia Sango 2 Super Arrange Version","Yukihiro Jindo","Memories are Beyond the Eternity",4.0928574,1009,81.857148,64.76381130735204,17.093336692647952
@@ -11619,7 +11619,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 28465,"Time's End II: Majora's Mask Remixed","Theophany","Woods of Mystery",4.54026,1009,90.8052,62.426140583126156,28.379059416873844
 28470,"Castlevania: Aria of Sorrow","Michiru Yamane","Clock Tower",4.4454546,1009,88.90909199999999,62.41968292919182,26.489409070808165
 2834,"Final Fantasy XI Online","Kumi Tanioka, Hidenori Iwasaki","Gustaberg",4.329412,1009,86.58823999999998,62.47780181460075,24.110438185399232
-28420,"Mega Man 3","Nostalvania","Rock My Socket",4.0695653,1009,81.391306,62.4390558909948,18.9522501090052
+28420,"Mega Man 3","Nostalvania","Rock My Socket",4.0978723,1009,81.95744599999999,62.4390558909948,19.51839010900519
 28500,"Shantae: Half-Genie Hero","Jake Kaufman (virt)","Risky's Song",3.9729729,1009,79.459458,62.39708114042168,17.062376859578315
 28353,"Gunstar Heroes (GEN)","Norio Hanzawa","Last Party on the Moon",3.8565218,1009,77.130436,62.468115333699274,14.66232066630073
 28382,"Final Fantasy Explorers","Tsuyoshi Sekito","Awakening of the Phoenix",3.8444445,1009,76.88889,62.46488650673211,14.424003493267897
@@ -12767,21 +12767,21 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 37488,"Yu-Gi-Oh! Forbidden Memories","Naoko Ishii, Waichiro Ozaki, Hiroshi Tanabe","Free Duel",4.2486486,1009,84.972972,58.75819314842917,26.214778851570827
 37460,"Disco Elysium","British Sea Power","Ecstatic Vibrations, Totally Transcendant",4.233333,1009,84.66666000000001,58.77756611023215,25.889093889767857
 37480,"Shantae and the Seven Sirens","Gavin Allen","Mountain Travel East",4.225,1009,84.5,58.767879629330665,25.732120370669335
-37791,"Tropical Paradise - Sound of The Sonic Stadium '15","Laffe the Fox","Tropical Drowning",4.16,1009,83.2,58.64195537761131,24.558044622388692
 37362,"Square Enix - Mellow Minstrel Mix Vol.2","RYO FUTOJIMA","Under The Stars (Mellow Minstrel Mix Version)",4.048,1009,80.96000000000001,58.829227341706755,22.130772658293253
-37757,"The Sonic Stadium Music Album 2011","VizardJeffhog","Checkered Emerald Path [Green Hill]",4.0333333,1009,80.66666599999999,58.66132833941429,22.005337660585703
 37457,"Disco Elysium","British Sea Power","Krenel, Downwell, Somatosensor",4.0114284,1009,80.228568,58.78079493719932,21.447773062800678
 37365,"Square Enix - Mellow Minstrel Mix Vol.2","colspan","Protagonist's Theme (Mellow Minstrel Mix Version)",4.008,1009,80.16,58.825998514739595,21.3340014852604
 3737,"Soma Bringer","Yasunori Mitsuda","Alertia",3.9954545,1009,79.90909,58.822769687772436,21.08632031222757
 37385,"Final Fantasy XIV Chill Arrangement Album: Sanctuary's Heart","DJ UPPERCUT","Ink Long Dry",,1009,null,58.819540860805276,null
 37392,"Super Mario World 2: Yoshi's Island","Neon X","Back to the Island",,1009,null,58.8163120338381,null
-37614,"Elemental Master","Toshiharu Yamanishi","Setting Out (Staff Roll)",4.387097,1009,87.74194,58.72267605179039,29.019263948209613
 37610,"Lemmings (2006)","Tim Follin","Nostalgia 3",4.3714285,1009,87.42857000000001,58.73236253269187,28.696207467308135
+37614,"Elemental Master","Toshiharu Yamanishi","Setting Out (Staff Roll)",4.3030305,1009,86.06061,58.72267605179039,27.33793394820961
 3765,"Otomedius","Hiroki Koga","Big Boss Battle",4.2893615,1009,85.78723,58.709760743921734,27.07746925607826
+37791,"Tropical Paradise - Sound of The Sonic Stadium '15","Laffe the Fox","Tropical Drowning",4.16,1009,83.2,58.64195537761131,24.558044622388692
 37612,"Elemental Master","Toshiharu Yamanishi","Cursed Destiny (Visual Scene 1)",4.1,1009,82,58.725904878757554,23.274095121242446
+37450,"Sonic Heroes","LemonheadVGM, Clément Panchout, Joshua Taipale, mklachu, Scott Semanski, Tyler Mire","Hang Castle (Team Sonic Racing Mix)",4.0444446,1009,80.888892,58.787252591133644,22.101639408866355
+37757,"The Sonic Stadium Music Album 2011","VizardJeffhog","Checkered Emerald Path [Green Hill]",4.0333333,1009,80.66666599999999,58.66132833941429,22.005337660585703
 37699,"Crusader: No Remorse","Andrew Sega","Buy Me",4.026087,1009,80.52174000000001,58.690387782118755,21.831352217881253
 37439,"Final Fantasy VII - Radiant Melodies","Yu Manabe","Let the Battles Begin! - Radiant Melodies ver.",3.9928572,1009,79.857144,58.7904814181008,21.0666625818992
-37450,"Sonic Heroes","LemonheadVGM, Clément Panchout, Joshua Taipale, mklachu, Scott Semanski, Tyler Mire","Hang Castle (Team Sonic Racing Mix)",3.964706,1009,79.29412,58.787252591133644,20.506867408866363
 37611,"Lemmings (2006)","Tim Follin","Earth Tunnels 3",3.96,1009,79.2,58.72913370572471,20.47086629427529
 37517,"Rayman Raving Rabbids","Mark Griskey","(Shooter) The Rabbid Graveyard 4",3.9555554,1009,79.111108,58.75173549449485,20.35937250550515
 37469,"Rayman Origins","Christophe Héral, Billy Martin","World Map ~Sea of Serendipity~",3.9241378,1009,78.482756,58.771108456297824,19.71164754370217
@@ -13120,7 +13120,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 4706,"The Legend of Zelda: Skyward Sword","Hajime Wakai, Shibo Fujii, Mahito Yokota, Takeshi Hama, Koji Kondo, Hyrule Symphony Orchestra","Exploring the Skies",4.484058,1009,89.68116,57.58290013238191,32.0982598676181
 4613,"Tales of the World: Radiant Mythology 2","Takuya Yasuda","The Arrow Was Shot",4.444,1009,88.88,57.628103709922186,31.25189629007781
 4916,"Valkyrie Profile","Motoi Sakuraba","One Line of Dark, One Line of Light",4.3964286,1009,87.928572,57.492492977301346,30.436079022698657
-4795,"Mother 3","Shogo Sakai","Funky Monkey Dance",4.3474746,1009,86.94949199999999,57.534467727874464,29.415024272125528
+4795,"Mother 3","Shogo Sakai","Funky Monkey Dance",4.385586,1009,87.71172,57.534467727874464,30.177252272125536
 4787,"EarthBound","Hirokazu Tanaka, Keiichi Suzuki","Riding the Bus",4.3174605,1009,86.34921,57.537696554841624,28.811513445158376
 4763,"Rusty Hearts","Perfect World Entertainment","Canals",4.2954545,1009,85.90908999999999,57.55061186271028,28.358478137289715
 4773,"Rusty Hearts","Perfect World Entertainment","Cafeteria",4.292308,1009,85.84616,57.54092538180879,28.305234618191207
@@ -14402,7 +14402,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 17032,"Kirby's Adventure","Hirokazu Ando, Jun Ishikawa","Legend of the Dream Spring",4.476923,1000,89.53846,53.4047980368732,36.1336619631268
 17031,"Kirby's Adventure","Hirokazu Ando, Jun Ishikawa","Time in the Clouds",4.4755554,1000,89.51110800000001,53.40802686384036,36.103081136159645
 17026,"Kirby's Adventure","Hirokazu Ando, Jun Ishikawa","The Airborne Fleet",4.4619045,1000,89.23809,53.414484517774696,35.823605482225304
-1713,"Marvel vs. Capcom 3","Hideyuki Fukasawa","Iron Fist",4.3608694,1000,87.217388,53.38542507507022,33.831962924929776
+1713,"Marvel vs. Capcom 3","Hideyuki Fukasawa","Iron Fist",4.331915,1000,86.63830000000002,53.38542507507022,33.25287492492979
 17017,"Kirby's Dream Land 2","Hirokazu Ando, Tadashi Ikegami","Ripple Field",4.257143,1000,85.14286,53.417713344741856,31.725146655258143
 17275,"Teenage Mutant Ninja Turtles III: The Manhattan Project","Yuichi Sakakura, Tomoya Tomita, Kozo Nakamura","Mechanical Walkin'",4.1575756,1000,83.15151200000001,53.33053501662845,29.82097698337156
 1672,"Forza Motorsport 3","Lance Hayes","X Track",4.147222,1000,82.94444,53.495205191953765,29.449234808046235
@@ -14584,7 +14584,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 1897,"eXceed 3rd","Saitama Saisyu Heiki","Capital Punishment Place",4.3151517,1000,86.30303400000001,52.88495689515999,33.41807710484002
 18914,"Sonic the Hedgehog 2","halc","Atmosphere",4.269091,1000,85.38182,52.89787220302864,32.483947796971364
 18740,"Pilotwings","Palpable","Fly",4.2615385,1000,85.23077,52.907558683930134,32.32321131606987
-18662,"Kirby's Dream Land 2","Tepid","Breakbeat Forest",4.207692,1000,84.15384,52.92370281876594,31.230137181234063
+18662,"Kirby's Dream Land 2","Tepid","Breakbeat Forest",4.2181816,1000,84.36363200000001,52.92370281876594,31.43992918123407
 19022,"The Binding of Isaac","Big Giant Circles","The Clubbing of Isaac",4.2032,1000,84.064,52.87849924122566,31.18550075877433
 19566,"Mega Man X","Chikusho Sound Team","Airbased",4.17,1000,83.4,52.74934616253915,30.650653837460858
 1952,"Shin Megami Tensei III: Nocturne","Kenichi Tsuchiya","Normal Battle - Amala Network",4.1660376,1000,83.320752,52.76549029737496,30.55526170262504
@@ -14691,9 +14691,9 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 20161,"Kaleidoscope","Mattias Häggström Gerdt","Troublesome Travels",3.507317,1000,70.14634,52.64602369958994,17.500316300410056
 20490,"Contra III: The Alien Wars","dannyshock","Dystopian Future",3.463768,1000,69.27536,52.61050660295115,16.66485339704886
 19772,"Sonic the Hedgehog 3","Rayza","Sonik Elektronik",3.4555554,1000,69.111108,52.70414258499887,16.40696541500113
-20659,"Breath of Fire","Ghetto Lee Lewis","Save Your Game (Club Mix 2002)",3.449123,1000,68.98246,52.58144716024668,16.40101283975332
 20817,"Sonic CD: Temporal Duality","Tuberz McGee","Corruption",3.4372094,1000,68.744188,52.55561654450938,16.188571455490617
 20821,"Sonic CD: Temporal Duality","Kruai","Schizophrenic",3.4297872,1000,68.595744,52.55238771754222,16.04335628245778
+20659,"Breath of Fire","Ghetto Lee Lewis","Save Your Game (Club Mix 2002)",3.4,1000,68,52.58144716024668,15.418552839753318
 20846,"The Legend of Zelda: The Wind Waker","Kunal Majmudar (ktriton)","Hyrule Wimbledon",3.312,1000,66.24,52.54593006360789,13.694069936392104
 20448,"Sonic 3 & Knuckles: Project Chaos","Danny Baranowsky","Caution: Echidnas May Eat Your Brain",3.297561,1000,65.95122,52.62019308385264,13.331026916147366
 19985,"Hitman: Codename 47","Rayagon","Chained to a Barcode",3.180328,1000,63.606559999999995,52.66539666139292,10.941163338607076
@@ -16111,8 +16111,8 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 37743,"Tekken Tag Tournament 2","Keiichi Okabe, Keigo Hoashi","Fantastic Theater (Odeum of Illusions)",4.46,1000,89.2,47.8544444803203,41.3455555196797
 37291,"Tales of Crestoria","Sakai Naoe, Yutaka Hayashi, Takao Ogi","Godly Games",4.4333334,1000,88.66666800000002,47.94808046236802,40.718587537632
 37685,"Kirby & the Amazing Mirror","Atsuyoshi Isemura, Hironobu Inagaki","Ending",4.4083333,1000,88.16666599999999,47.8802750960576,40.28639090394239
+37863,"Hardspace: Shipbreaker","Jono Grant","Labour of Love",4.387097,1000,87.74194,47.828613864583,39.913326135417
 37274,"Ragnarok Odyssey","Kumi Tanioka","Take Your Determination to Heart",4.390909,1000,87.81818,47.96099577023668,39.85718422976332
-37863,"Hardspace: Shipbreaker","Jono Grant","Labour of Love",4.38,1000,87.6,47.828613864583,39.771386135416996
 37272,"Ragnarok Odyssey","Kumi Tanioka","Astride the Flying Steed",4.3777776,1000,87.555552,47.96422459720384,39.59132740279617
 37201,"Final Fantasy VII Remake","Nobuo Uematsu, Tsuyoshi Sekito, Ayumu Murai, Mitsuto Suzuk","A Certain Gaudiness",4.37931,1000,87.5862,48.00297052080979,39.583229479190216
 37879,"Trails in the Sky the 3rd","Hayato Sonoda, Takahiro Unisuga, Ryo Takeshita, Yukihiro Jindo","Illusionary Blue Flower",4.3555555,1000,87.11111000000001,47.81246972974718,39.29864027025283
@@ -16897,9 +16897,9 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 10662,"Bomber Blue / Gallant Green","Rare Candy","Kirby's Dreamland - Sand Canyon 2, Green Greens",4.5333333,991,90.66666599999999,45.365018888637756,45.301647111362236
 10585,"Super Metroid ~Reserve Tank VARIAtions~","Bren","The Planet's Call",4.525,991,90.5,45.4134512931452,45.0865487068548
 10578,"Super Metroid ~Reserve Tank VARIAtions~","Nario","bLiNd's Snowy Brinstar",4.5056605,991,90.11321000000001,45.41668012011236,44.69652987988765
+10592,"Super Metroid ~Reserve Tank VARIAtions~","The Wingless","Edenal",4.4557376,991,89.114752,45.410222466178034,43.70452953382196
 10605,"Music System 2","Zebes System","The Legend of Zelda Theme (The Legend of Zelda)",4.4085107,991,88.170214,45.40053598527655,42.76967801472345
 10539,"3D Pinball: Space Cadet","Danimal Cannon","Apparently This Game Has Music",4.406383,991,88.12765999999999,45.442510735849666,42.685149264150326
-10592,"Super Metroid ~Reserve Tank VARIAtions~","The Wingless","Edenal",4.4038463,991,88.07692599999999,45.410222466178034,42.66670353382195
 10558,"The Legend of Zelda","Mustin","No Way Out",4.383333,991,87.66666000000001,45.43282425494818,42.23383574505183
 10690,"Spectrum of Mana","Lobos, Travis Morgan","On the Wings of Dragons",4.3692307,991,87.384614,45.345645926834784,42.038968073165215
 10671,"Spectrum of Mana","Descendants of Erdrick, Jameson Sutton","Star of Darkness",4.2114286,991,84.22857199999999,45.35533240773627,38.873239592263715
@@ -16962,13 +16962,12 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 10921,"Sonic the Hedgehog","Manuel Mora","Green Hill Zone (Manuel Mora 2009)",4.064516,991,81.29032000000001,45.23586580995124,36.054454190048766
 10937,"Brass","minibosses","Kid Icarus",,991,null,45.23263698298408,null
 11031,"The Legend of Zelda: Oracle of Ages","ZREO","Title Theme",4.4487805,991,88.97560999999999,45.17128927060799,43.804320729391996
-11198,"Animal Crossing","Diggi Dis","Camrade",4.2108107,991,84.216214,45.07765328856026,39.13856071143973
 11090,"Mystic Awakening: Music of Final Fantasy VI","Daniel Brown","Kefka",4.018182,991,80.36364,45.14222982790352,35.22141017209648
 11152,"Twilight Symphony","ZREO","Snowboarding",3.9925926,991,79.85185200000001,45.10671273126473,34.74513926873528
 11163,"Twilight Symphony","ZREO","Twilit Fossil Stallord",3.9866667,991,79.733334,45.1002550773304,34.6330789226696
+10950,"Final Fantasy XII - Piano OST","Delldongo","Chocobo (Final Fantasy XII Version)",3.8108108,991,76.216216,45.22617932904976,30.990036670950246
 11133,"Twilight Symphony","ZREO","End Credits, Part II",3.8,991,76,45.113170385199055,30.886829614800945
 10946,"Final Fantasy XII - Piano OST","Delldongo","Time for a Rest",3.8,991,76,45.22940815601692,30.770591843983077
-10950,"Final Fantasy XII - Piano OST","Delldongo","Chocobo (Final Fantasy XII Version)",3.7333333,991,74.66666599999999,45.22617932904976,29.440486670950236
 10953,"Final Fantasy XII - Piano OST","Delldongo","The Royal City of Rabanastre",,991,null,45.22295050208259,null
 10955,"Final Fantasy XII - Piano OST","Delldongo","The Salikawood",,991,null,45.21972167511543,null
 10958,"Final Fantasy XII - Piano OST","Delldongo","Loop Demo",,991,null,45.21649284814826,null
@@ -16976,12 +16975,12 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 11092,"Gamer Symphony Orchestra Fall 2010","University of Maryland Gamer Symphony Orchestra","Castles",4,991,80,45.13900100093636,34.86099899906364
 11088,"Mystic Awakening: Music of Final Fantasy VI","Daniel Brown","Phantom Train",3.9756098,991,79.512196,45.14545865487069,34.366737345129316
 11003,"Metroid Prime 3: Corruption","Pyro Paper Planes","Melting Sun",3.921875,991,78.4375,45.19711988634529,33.24038011365471
+110,"Banjo-Kazooie","Grant Kirkhope","Nabunut's House",3.8851852,991,77.703704,45.20034871331246,32.503355286687544
 10964,"Final Fantasy XII - Piano OST","Delldongo","Clan Headquarters",3.748387,991,74.96774,45.213264021181104,29.754475978818903
 11165,"Twilight Symphony","ZREO","Colin's Kidnapping and the Battle of Eldin Bridge",3.7166667,991,74.33333400000001,45.09702625036324,29.236307749636765
 10976,"Fury","Machinae Supremacy","Loot Burn Rape Kill Repeat",3.4782608,991,69.565216,45.210035194213944,24.355180805786063
 10980,"Fury","Machinae Supremacy","Bouff",3.4258065,991,68.51613,45.20680636724678,23.309323632753227
 10984,"Harmony of a Hunter","Theophany","Bonus - What's Past is Prologue",,991,null,45.20357754027962,null
-110,"Banjo-Kazooie","Grant Kirkhope","Nabunut's House",3.8851852,991,77.703704,45.20034871331246,32.503355286687544
 11004,"Harmony of a Hunter","Pyro Paper Planes","Lone Star",,991,null,45.193891059378124,null
 11010,"Harmony of a Hunter","DoctorM64","Danger in Old Tourian",,991,null,45.190662232410965,null
 11012,"Harmony of a Hunter","Mesmonium","Frozen Utopia",,991,null,45.1874334054438,null
@@ -16991,6 +16990,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 11020,"Super Dodge Ball - No Balls, No Glory","Bladiator","I'm Taking My Ball and Going Home",,991,null,45.17451809757515,null
 11249,"Rock n' Roll Cereal","Entertainment System","Gerudo Valley",4.536508,991,90.73016000000001,45.06150915372445,45.66865084627556
 1126,"Shadow of the Colossus","Kow Otani","The Sunlit Earth",4.2784314,991,85.56862799999999,45.05182267282296,40.51680532717703
+11198,"Animal Crossing","Diggi Dis","Camrade",4.2108107,991,84.216214,45.07765328856026,39.13856071143973
 11044,"Donkey Kong Country","actionbob","Icing",3.5945945,991,71.89189,45.16483161667366,26.727058383326344
 11063,"The Best Of Video Game Remix - Level 1","Strike911","Metal Gear Solid - Trance Remix",3.5906978,991,71.813956,45.15837396273933,26.65558203726067
 11049,"The Best Of Video Game Remix - Level 1","Dimitris Athanasiou","Metal Gear Solid 4 - Old Snake Techno Remix",3.5055556,991,70.111112,45.1616027897065,24.949509210293506
@@ -17137,7 +17137,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 11910,"Bound Together: ReBound","Dhsu","Bound Together",,991,null,44.699880533402215,null
 1193,"Mega Man X8","Yuko Komiyama, Naoto Tanaka","Gateway",,991,null,44.69342287946789,null
 11949,"Intergalactic Continuum","The OneUps","I Do It For the Faeries [The Legend of Zelda]",,991,null,44.683736398566396,null
-11981,"Fly on a Dog","The Megas","Just Another Machine",3.4551723,991,69.103446,44.67082109069775,24.432624909302255
+11981,"Fly on a Dog","The Megas","Just Another Machine",3.4674158,991,69.348316,44.67082109069775,24.677494909302247
 12018,"LOADING READY RUN","PRESS PLAY ON TAPE","Wizardry",,991,null,44.6579057828291,null
 12424,"The Legend of Zelda: A Link to the Past","ZREO","Lost Woods",4.645,991,92.89999999999999,44.464176164799326,48.435823835200665
 12338,"Retro Remix Revue Vol. 1","Retro Remix Revue","Super Mario 64 - Dire, Dire Docks",4.6156864,991,92.31372800000001,44.502922088405285,47.81080591159473
@@ -17462,8 +17462,8 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 14903,"SQ Chips","Another Infinity","Final Fantasy VIII \"Eyes On Me\"",4.244898,991,84.89796,43.55364696005941,41.34431303994059
 1494,"Shining the Holy Ark","Motoi Sakuraba","East Shrine",3.825641,991,76.51282,43.543960479157924,32.96885952084208
 14813,"Retro City Rampage","Freaky DNA","Half Steppin'",3.8235295,991,76.47059,43.585935229731035,32.884654770268966
+14796,"Jim Power in Mutant Planet","Chris Hülsbeck","Level 1",3.8210526,991,76.421052,43.59239288366537,32.828659116334634
 14951,"The Smurfs' Nightmare","Alberto José González","Another World",3.8170214,991,76.340428,43.5375028252236,32.802925174776405
-14796,"Jim Power in Mutant Planet","Chris Hülsbeck","Level 1",3.8162162,991,76.324324,43.59239288366537,32.731931116334636
 14720,"8bit Killer","RushJet1","Aerial Assault",3.808,991,76.16,43.60853701850118,32.551462981498815
 14859,"Double Dragon II: The Revenge","Kazunaka Yamane, M. Hirasawa","Staff Roll",3.8,991,76,43.56656226792806,32.43343773207194
 14831,"Super Spike V'Ball","Kazunaka Yamane","U.S.S.R.",3.7833333,991,75.66666599999999,43.57624874882955,32.09041725117044
@@ -17721,8 +17721,8 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 16602,"Cuttlefish (Re-Edit)","Cuttlefish","Three Faced",3.61,991,72.2,42.86913564302089,29.330864356979113
 16894,"Shantae","Jake Kaufman (virt)","Terror of the Tinkertank! (Tintertank Battle)",3.5764706,991,71.529412,42.759355526137355,28.77005647386264
 16604,"Cuttlefish (Re-Edit)","Cuttlefish","Showdown",3.5615385,991,71.23077,42.86590681605373,28.364863183946277
+16871,"Erik the Viking","Neil Baldwin","Spirit Of Adventure",3.5263157,991,70.526314,42.772270834006,27.754043165994
 16679,"Asterix & Obelix","Alberto José González","England Act 3",3.511111,991,70.22222000000001,42.84653385425075,27.375686145749256
-16871,"Erik the Viking","Neil Baldwin","Spirit Of Adventure",3.4857142,991,69.71428399999999,42.772270834006,26.94201316599399
 16992,"Adventure Island 2","Miyoshi Okuyama","Fern Island 1",3.48125,991,69.625,42.71738077556424,26.907619224435763
 16855,"Raging Fighter","Akihiro Juichiya","Battle Theme 2",3.476923,991,69.53846,42.778728487940334,26.759731512059666
 16645,"Famison 8BIT☆iDOLM@STER","KPLECRAFT","Mahou o Kakete (Original 8BIT Instrumental)",3.464,991,69.28,42.85622033515224,26.423779664847764
@@ -18487,7 +18487,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 23042,"Year 1 Complete Collection","FamilyJules7x","Kirby",4.5589743,991,91.179486,40.131090374866815,51.04839562513318
 23045,"Video Game Guitar Covers, Vol. 1","FamilyJules7x","Hyrule Field (From \"The Legend of Zelda: Ocarina of Time\")",4.5333333,991,90.66666599999999,40.12786154789965,50.538804452100344
 2279,"Super Mario World","Koji Kondo","Title",4.5119047,991,90.23809399999999,40.273158761421975,49.964935238578015
-22882,"NieR Gestalt & Replicant 15 Nightmares & Arrange Tracks","Keigo Hoashi","Song of the Ancients / Piano Ver.",4.4466667,991,88.933334,40.23764166478318,48.69569233521682
+22882,"NieR Gestalt & Replicant 15 Nightmares & Arrange Tracks","Keigo Hoashi","Song of the Ancients / Piano Ver.",4.464516,991,89.29032,40.23764166478318,49.05267833521681
 22912,"Veneer","Petriform","Coastal",4.213333,991,84.26666,40.215039876013044,44.05162012398696
 22720,"Boot Hill Heroes","Jake Kaufman (virt)","Traveling Theme",4.213333,991,84.26666,40.31513351199509,43.95152648800491
 22733,"Child of Light","Béatrice Martin (Coeur de Pirate)","Path of the Eclipse",4.20625,991,84.125,40.30544703109361,43.81955296890639
@@ -18872,7 +18872,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 25308,"FINAL FANTASY TRIBUTE ～THANKS～","mudy on the Sakuban","Battle Medley (Fight 2 ~ The Final Battle ~ Battle 1 ~ This is the Last Battle ~ The Decisive Battle)",3.9814816,991,79.629632,38.981627974556844,40.64800402544316
 25195,"Super VG Christmas Party","Ailsean, Nikolai","“Winter in Iwatodai” (Shin Megami Tensei: Persona 3)",3.9578948,991,79.157896,39.0462045139001,40.11169148609989
 25144,"Cheetah in the Dark","Ayumi Nomiya, Kyoya Hashimoto","Cheetah in the Dark [Cheetahmen Alternative MIX]",3.956923,991,79.13846000000001,39.08172161053889,40.05673838946112
-25374,"Axelay","Taro Kudou","Burning",3.9333334,991,78.666668,38.95256853185238,39.71409946814762
+25374,"Axelay","Taro Kudou","Burning",3.942857,991,78.85714,38.95256853185238,39.90457146814762
 2524,"Yakuza 3","Hidenori Shoji","Illtreatment",3.908108,991,78.16216,39.020373898162795,39.141786101837205
 25375,"Axelay","Taro Kudou","Mother",3.904348,991,78.08696,38.94933970488522,39.137620295114786
 25385,"Kyuuyaku Megami Tensei","Tsukasa Masuko, Hitoshi Sakimoto","Shop 2",3.8580644,991,77.161288,38.94611087791805,38.21517712208195
@@ -19131,7 +19131,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 26716,"Super Cartography Bros.","Jewbei","Herculean",,991,null,38.30357431145265,null
 2672,"Socket","Yasuyuki Hamada, Shigenori Masuko, Youko Suzuki, Fumito Tamayama","Stone Age",,991,null,38.30034548448549,null
 2673,"Socket","Yasuyuki Hamada, Shigenori Masuko, Youko Suzuki, Fumito Tamayama","Special Zone 1 (Lights)",3.539394,991,70.78788,38.29711665751832,32.49076334248168
-26738,"Okami Piano Arrange","Mika Matsuura","Kaguya's Departure",3.3357143,991,66.714286,38.29388783055116,28.420398169448845
+26738,"Okami Piano Arrange","Mika Matsuura","Kaguya's Departure",3.3586206,991,67.17241200000001,38.29388783055116,28.878524169448852
 26746,"Heart of a Gamer: A Tribute to Satoru Iwata","Chernabogue, Kroasta, Tuberz McGee","Cuban Vacation",3.2481482,991,64.962964,38.28743017661683,26.67553382338317
 26778,"Alcahest","Jun Ishikawa","Destini Again",,991,null,38.277743695715344,null
 26787,"Lunar Knights","Masanori Akita, Akihiro Honda, Shuichi Kobori, Nobuko Toda, Yuichi Tsuchiya","Hunting Mansion - Forecourt",,991,null,38.274514868748184,null
@@ -19717,9 +19717,9 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 30714,"Rivals of Aether","flashygoodness","Sylvan Radiance",4.40625,991,88.125,36.198379128862484,51.926620871137516
 30677,"Shovel Knight","Jorito","Shovel Power",4.3768115,991,87.53622999999999,36.22420974459979,51.3120202554002
 30601,"Tiny Barbarian DX","Jeff Ball","Walls of Judgment",4.2761903,991,85.523806,36.26941332214007,49.254392677859926
+30595,"Tiny Barbarian DX","Jeff Ball","Killer Parkour",4.258333,991,85.16666000000001,36.275870976074394,48.89078902392561
 30577,"Super Castlevania IV","Mighty Bear 7, Austin DiPietro, Martin Schiller, Stu Kennedy, Theodore Hogan","Tema de Simón",4.2222223,991,84.444446,36.28878628394304,48.15565971605696
 30670,"Versus Video Games 4","Daniel Tidwell","Overworld 2 / Athletic Theme (Super Mario Bros. 3)",4.2137933,991,84.275866,36.237125052468436,48.03874094753156
-30595,"Tiny Barbarian DX","Jeff Ball","Killer Parkour",4.2090907,991,84.181814,36.275870976074394,47.90594302392561
 30512,"Final Fantasy VI - World's Requiem","Mordra","Battle Theme",4.1764708,991,83.529416,36.34044751541765,47.18896848458235
 30689,"Fire Emblem Awakening","Hiroki Morishita","Monstrosity",4.167742,991,83.35484,36.21775209066546,47.13708790933453
 30586,"Tiny Barbarian DX","Jeff Ball","Gorilla Got My Girlfriend",4.1615386,991,83.230772,36.28232863000872,46.94844336999128
@@ -20669,6 +20669,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 35675,"Shin Megami Tensei ONLINELIVE2021 ~Ongaku no Kotowari~","LaiD Back Devil","Title Loop 2",3.7181818,991,74.363636,33.31180782021892,41.05182817978108
 35557,"FINAL FANTASY EXVIUS UNIVERSE x Chillhop Music LoFi Remix","Psalm Trees","Forgiveness, Call of the Crystal Remixed by Psalm Trees",3.6777778,991,73.555556,33.35378257079203,40.20177342920797
 35666,"Shin Megami Tensei ONLINELIVE2021 ~Ongaku no Kotowari~","LaiD Back Devil","Amala Temple",3.418182,991,68.36364,33.3214943011204,35.0421456988796
+35697,"Piano Collections FINAL FANTASY CRYSTAL CHRONICLES","Kumi Tanioka","The Midst of Sorrow's Gloom",3.4,991,68,33.29243485841594,34.70756514158406
 35674,"Shin Megami Tensei ONLINELIVE2021 ~Ongaku no Kotowari~","LaiD Back Devil","Normal Battle",3.347826,991,66.95652,33.315036647186076,33.64148335281392
 35558,"FINAL FANTASY EXVIUS UNIVERSE x Chillhop Music LoFi Remix","Toonorth","Call of the Crystal, Cold Fingertips Remixed by Toonorth",3.3181818,991,66.363636,33.35055374382487,33.01308225617513
 35559,"FINAL FANTASY EXVIUS UNIVERSE x Chillhop Music LoFi Remix","Toonorth","No Sorrow Remixed by Toonorth",,991,null,33.34732491685771,null
@@ -20679,7 +20680,6 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 35682,"Shin Megami Tensei ONLINELIVE2021 ~Ongaku no Kotowari~","LaiD Back Devil","Large Map",,991,null,33.302121339317424,null
 35688,"Shin Megami Tensei ONLINELIVE2021 ~Ongaku no Kotowari~","LaiD Back Devil","Boss Battle",,991,null,33.298892512350264,null
 35694,"Piano Collections FINAL FANTASY CRYSTAL CHRONICLES","Kumi Tanioka","Woebgone Creature - United, Manifested",3.362963,991,67.25926,33.2956636853831,33.9635963146169
-35697,"Piano Collections FINAL FANTASY CRYSTAL CHRONICLES","Kumi Tanioka","The Midst of Sorrow's Gloom",3.3304348,991,66.608696,33.29243485841594,33.31626114158406
 35711,"Our Cerulean Skies","Sam Griffin","Reminisce -Enduring Thoughts-",,991,null,33.28597720448161,null
 35719,"Our Cerulean Skies","Sam Griffin","Dragon God",,991,null,33.279519550547285,null
 35750,"School of Sorcery","DDRKirby(ISQ)","Fated Struggle (Tower)",,991,null,33.27306189661296,null
@@ -20812,6 +20812,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 36559,"shapez.io","Peppsen","Square",4.026087,991,80.52174000000001,32.83717025604598,47.68456974395403
 36588,"Off","Alias Conrad Coldwood","Soft Breeze",3.9916666,991,79.833332,32.817797294243,47.015534705757
 36605,"X-Men: Mutant Apocalypse","Setsuo Yamamoto","Magneto's Space Fortress",3.9538462,991,79.076924,32.804881986374355,46.27204201362565
+36793,"The Legend of Heroes: Trails from Zero Super Arrange Version","Yukihiro Jindo","To be continued!",3.94,991,78.8,32.64666946498337,46.15333053501663
 36755,"The Legend of Heroes: Trails in the Sky FC & SC Super Arrange Version","Yukihiro Jindo","Musical Suite \"White Flower Madrigal\" - 1st Movement",3.918182,991,78.36364,32.70155952342514,45.662080476574864
 36745,"Final Fantasy XIII Piano Collections","Aki Kuroda","FINAL FANTASY XIII - The Promise ~ The Sunleth Waterscape",3.912,991,78.24,32.7047883503923,45.535211649607696
 36638,"Harmony of a Hunter Returns","ZackParrish","The Pursuit",3.89,991,77.8,32.77905137063705,45.02094862936295
@@ -20829,7 +20830,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 36644,"Harmony of a Hunter Returns","LV-380","Neon Norfair",,991,null,32.77582254366989,null
 36650,"Harmony of a Hunter Returns","PirateCrab","Kraidosaurus",,991,null,32.77259371670272,null
 36723,"Hollow Knight: Voidheart","Andy-Ru, TeraCMusic, Daniel Capo, Hannah","City of Tears",4.1307693,991,82.615386,32.71770365826095,49.89768234173905
-36738,"Octave Theory","Earthbound Papas","Advent One-Winged Angel (From Final Fantasy VII Advent Children)",4.0125,991,80.25,32.714474831293785,47.535525168706215
+36738,"Octave Theory","Earthbound Papas","Advent One-Winged Angel (From Final Fantasy VII Advent Children)",3.9333334,991,78.666668,32.714474831293785,45.952193168706216
 36699,"The Legend of Zelda: Skyward Sword","Audio Mocha","The Groose Is Loose",3.925926,991,78.51852,32.727390139162445,45.79112986083755
 36757,"The Legend of Heroes: Trails in the Sky FC & SC Super Arrange Version","Yukihiro Jindo","Place of a promise ~Sora no Kiseki~",3.856,991,77.12,32.69833069645798,44.421669303542025
 36698,"Sonic 30th Anniversary Symphony","Crush 40","Sonic Boom",3.75,991,75,32.730618966129605,42.269381033870395
@@ -20848,7 +20849,6 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 36758,"The Legend of Heroes: Trails in the Sky FC & SC Super Arrange Version","Yukihiro Jindo","Guardians of the Treasure",,991,null,32.69510186949081,null
 3676,"Mega Man 4 (PS)","Minae Fujii, Yasuaki Fujita","Drill Man Stage",,991,null,32.69187304252365,null
 36779,"The Witch and the Hundred Knight Arrange Sound Track","Tenpei Sato","Maguillage",3.98,991,79.6,32.65958477285202,46.94041522714797
-36793,"The Legend of Heroes: Trails from Zero Super Arrange Version","Yukihiro Jindo","To be continued!",3.94,991,78.8,32.64666946498337,46.15333053501663
 36773,"The Legend of Heroes: Trails in the Sky FC & SC Super Arrange Version","Yukihiro Jindo","Kohaku no Ai Piano Full Ver.",3.7166667,991,74.33333400000001,32.669271253753514,41.66406274624649
 36761,"The Legend of Heroes: Trails in the Sky FC & SC Super Arrange Version","Yukihiro Jindo","The Enforcers",3.4916666,991,69.833332,32.68864421555649,37.14468778444351
 "36762","Invalid song","Invalid song","Invalid song",,991,null,32.68541538858932,null
@@ -21023,23 +21023,23 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 37648,"Landstalker: The Treasures of King Nole","Motoaki Takenouchi","Pink Book",,991,null,32.123599496302994,null
 37653,"Landstalker: The Treasures of King Nole","Motoaki Takenouchi","The King's Chamber",,991,null,32.12037066933583,null
 37738,"Tekken Tag Tournament 2","Keiichi Okabe, Keigo Hoashi","Mystic Force (Extravagant Underground)",4.4,991,88,32.09454005359853,55.90545994640147
+3775,"Otomedius G","Konami Kukeiha Club, Kenichiro Fukui","Happy Daymare (From XEXEX)",4.3302326,991,86.60465200000002,32.078395918762716,54.5262560812373
 37709,"The Binding of Isaac: Antibirth","mudeth","Machine in the Walls",4.3285713,991,86.571426,32.09776888056569,54.473657119434314
 37694,"Cosmic Star Heroine","HyperDuck SoundWorks","Welcome To Nuluup City",4.1454544,991,82.909088,32.100997707532855,50.80809029246714
-37769,"The Sonic Stadium Music Album 2011","foreversonic","Star Light Unplugged",4.0444446,991,80.888892,32.0622517839269,48.8266402160731
 37773,"The Sonic Stadium Music Album 2011","Revision One","Competition Redux [Sonic 3]",3.87,991,77.4,32.05579412999258,45.34420587000743
-37681,"Landstalker: The Treasures of King Nole","Motoaki Takenouchi","Premonition of Trouble",3.7764707,991,75.529414,32.11068418843434,43.41872981156566
-37670,"Landstalker: The Treasures of King Nole","Motoaki Takenouchi","Seeking Treasure",3.7636364,991,75.272728,32.11714184236867,43.15558615763133
+37670,"Landstalker: The Treasures of King Nole","Motoaki Takenouchi","Seeking Treasure",3.832,991,76.64,32.11714184236867,44.52285815763133
 37671,"Landstalker: The Treasures of King Nole","Motoaki Takenouchi","Light of the Setting Sun",,991,null,32.11391301540151,null
-37687,"Cosmic Star Heroine","HyperDuck SoundWorks","Spy-Fi",,991,null,32.10745536146718,null
 37692,"Cosmic Star Heroine","HyperDuck SoundWorks","The Resolution",4.5615387,991,91.230774,32.10422653450002,59.126547465499975
+37681,"Landstalker: The Treasures of King Nole","Motoaki Takenouchi","Premonition of Trouble",3.7764707,991,75.529414,32.11068418843434,43.41872981156566
+37687,"Cosmic Star Heroine","HyperDuck SoundWorks","Spy-Fi",,991,null,32.10745536146718,null
 37740,"Tekken Tag Tournament 2","Keiichi Okabe, Keigo Hoashi","Sadistic Xmas (Arctic Dream)",4.142857,991,82.85714,32.09131122663136,50.76582877336864
 37741,"Tekken Tag Tournament 2","Taku Inoue","Night Falls (Ending)",,991,null,32.0880823996642,null
 37744,"The Sonic Stadium Music Album 2011","Freen in Green","Back 2 Back [Generations Classic Style]",,991,null,32.08485357269704,null
 "37749","Invalid song","Invalid song","Invalid song",,991,null,32.081624745729876,null
-3775,"Otomedius G","Konami Kukeiha Club, Kenichiro Fukui","Happy Daymare (From XEXEX)",4.3302326,991,86.60465200000002,32.078395918762716,54.5262560812373
 37754,"The Sonic Stadium Music Album 2011","BlitzChris","Melting Ivory [Ice Cap]",,991,null,32.07516709179556,null
 "37755","Invalid song","Invalid song","Invalid song",,991,null,32.07193826482839,null
 3776,"Otomedius G","Konami Kukeiha Club, Takahiro Izutani","Crystal Labyrinth (From Gradius III)",,991,null,32.06870943786122,null
+37769,"The Sonic Stadium Music Album 2011","foreversonic","Star Light Unplugged",4.0444446,991,80.888892,32.0622517839269,48.8266402160731
 37766,"The Sonic Stadium Music Album 2011","Plumegeist","Ark Annihilator [For True Story]",3.988889,991,79.77777999999999,32.06548061089406,47.71229938910593
 "37770","Invalid song","Invalid song","Invalid song",,991,null,32.05902295695974,null
 37775,"The Sonic Stadium Music Album 2011","StereoPixel","Sunshine Hill ~ Sonic 4: Episode 2 Fan Original",3.66,991,73.2,32.05256530302541,41.14743469697459
@@ -21168,7 +21168,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 38523,"Skeleton Boomerang","+TEK","Calcium Deficiency (True Final Boss)",,991,null,31.655419586064383,null
 "38524","Invalid song","Invalid song","Invalid song",,991,null,31.65219075909722,null
 38790,"Kirby and the Forgotten Land","Yuuta Ogasawara","Sword of the Surviving Guardian",4.470588,991,89.41176,31.497207064673404,57.9145529353266
-38708,"Rhythm Thief & the Emperor's Treasure","Tomoya Ohtani","Theme of Phantom R",4.4235296,991,88.47059200000001,31.552097123115175,56.918494876884836
+38708,"Rhythm Thief & the Emperor's Treasure","Tomoya Ohtani","Theme of Phantom R",4.33,991,86.6,31.552097123115175,55.04790287688482
 38528,"Final Fantasy VII","jnWake, Jabo","This Boss Are Sick",3.5870967,991,71.741934,31.64896193213006,40.09297206786994
 38530,"Final Fantasy VIII","Emunator, ZackParrish, Lucas Guimaraes, Gamer of the Winds, Mel Decision","Net Fish and Chill",,991,null,31.645733105162893,null
 38764,"Super Mega Zero","DDRKirby(ISQ)","Tritonal Tribulations",4.306667,991,86.13334,31.510122372542053,54.62321762745795
@@ -23003,6 +23003,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 18742,"Heroes of Might and Magic II: The Succession Wars","Orkybash","The Meadows",3.9443038,982,78.886076,25.55939427206096,53.32668172793905
 18153,"Terranigma","OceansAndrew","Afternoon Tea with SnappleMan's Mom",3.9446154,982,78.892308,25.74020858222208,53.15209941777792
 18260,"Humans + Gears: Xenogears ReMixed","Ziwtra","New Day",3.918182,982,78.36364,25.72729327435343,52.636346725646575
+18747,"Chrono Trigger: Chrono Symphonic","ellywu2, Jillian Aversa","Schala and the Queen",3.9,982,78,25.556165445093797,52.4438345549062
 18702,"Metroid","Select Start","Kraid's Hideout",3.8906667,982,77.813334,25.581996060831102,52.231337939168895
 18143,"25YEARLEGEND: A Legend of Zelda Indie Game Composer Tribute","Rekcahdam","Gimme My Sword!",3.8775,982,77.55,25.74343740918924,51.806562590810756
 18279,"Star Fox","bLiNd","Space Cowboys",3.8666666,982,77.333332,25.72406444738626,51.60926755261374
@@ -23011,7 +23012,6 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 18578,"Touhou Kaeidzuka: Phantasmagoria of Flower View","Kidd Cabbage","Naito Obu [br00tl]",3.8372092,982,76.744184,25.630428465338547,51.11375553466146
 18521,"Summoning of Spirits: An Arrangement of Music from Tales of Phantasia and Tales of Symphonia","Red Tailed Fox","Adventure Is All About Gold & Chicks",3.825641,982,76.51282,25.649801427141522,50.86301857285848
 1834,"Ace Combat Zero","Tetsukazu Nakanishi","Merlon",3.826087,982,76.52174,25.701462658616126,50.82027734138387
-18747,"Chrono Trigger: Chrono Symphonic","ellywu2, Jillian Aversa","Schala and the Queen",3.8027778,982,76.055556,25.556165445093797,50.4993905549062
 1867,"Ace Combat 04","Tetsukazu Nakanishi","Farbanti",3.8,982,76,25.598140195666915,50.401859804333085
 18157,"Soukaigi","Ziwtra","Aftershock",3.8029852,982,76.05970400000001,25.736979755254918,50.32272424474509
 18484,"Summoning of Spirits: An Arrangement of Music from Tales of Phantasia and Tales of Symphonia","Andy Jayne","Raising a Curtain",3.789189,982,75.78378,25.66271673501017,50.12106326498982
@@ -23062,7 +23062,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 19279,"Phoenix Wright: Ace Attorney","OceansAndrew","Holiday with Mia Fey",4.172727,982,83.45454000000001,25.372122307965515,58.0824176920345
 1898,"eXceed 3rd","Saitama Saisyu Heiki","White Beelzebub",4.15082,982,83.0164,25.49158890575054,57.524811094249465
 19080,"Chaos Field","Mattias Häggström Gerdt","Knowing Heart, Distant Noise",4.1464787,982,82.929574,25.449614155177425,57.479959844822574
-18890,"Mega Man 10","Sir_NutS","Totally Rad Winter",4.109375,982,82.1875,25.517419521487845,56.670080478512155
+18890,"Mega Man 10","Sir_NutS","Totally Rad Winter",4.130303,982,82.60605999999999,25.517419521487845,57.08864047851214
 19038,"Pokémon: The Eevee EP","halc","Photosynthesis",4.0877194,982,81.754388,25.4689871169804,56.285400883019605
 1925,"Zone of the Enders: The 2nd Runner","Maki Kirioka","Air Fight",4.0819674,982,81.639348,25.38826644280133,56.25108155719867
 18889,"Lemmings 3D","Palpable","The Fog of War",4.033803,982,80.67605999999999,25.52387717542217,55.15218282457782
@@ -23190,8 +23190,8 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 20211,"Super Castlevania IV","NoppZ","Curse Curse Revolution",3.9901235,982,79.80247,25.094443188789512,54.70802681121049
 2016,"The Revenge of Shinobi","Yuzo Koshiro","Make Me Dance",3.9365854,982,78.731708,25.107358496658165,53.62434950334183
 20279,"The Legend of Zelda: A Link to the Past","halc","This Triforce Has Too Many Pieces",3.919149,982,78.38298,25.075070226986533,53.30790977301347
+19975,"NiGHTS into Dreams...","Skrypnyk","Escape into the Twilight",3.8969698,982,77.939396,25.14610442026412,52.79329157973588
 20319,"Final Fantasy VII: Voices of the Lifestream","Red Tailed Fox, Shnabubula","Midnight at Club Corel",3.8846154,982,77.692308,25.065383746085047,52.62692425391495
-19975,"NiGHTS into Dreams...","Skrypnyk","Escape into the Twilight",3.878788,982,77.57576,25.14610442026412,52.42965557973588
 20243,"Be Aggressive!: A Gunstar Heroes Tribute Album","Jakesnke17","Lunar Ecstasy",3.838889,982,76.77778,25.081527880920863,51.69625211907915
 20359,"THE ANSWER - Armored Core Tribute Album -","Mattias Häggström Gerdt","Twisted on the Surface",3.7769232,982,75.538464,25.052468438216398,50.48599556178361
 19936,"Bayonetta","Dj Mystix","Lady in Black",3.7561643,982,75.12328600000001,25.149333247231283,49.973952752768724
@@ -24935,6 +24935,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 3602,"Mega Man 8","Shusaku Uchiyama","Bass Battle",3.6782608,982,73.56521599999999,19.60220851764554,53.963007482354456
 36202,"Yooka-Laylee and the Impossible Lair: Retro Remix Soundtrack","Tater-Tot Tunes","Scareship Scroll - Docked (8-Bit Version)",3.590909,982,71.81818,19.54408963223661,52.27409036776339
 36230,"Lee Trevino's Fighting Golf","Aran Lee Shige","Course Tips 7",3.581818,982,71.63636,19.537631978302283,52.09872802169771
+36178,"Kira Kira Star Night DX","Takeshi Yokemura","STAR SWING",3.5333333,982,70.66666599999999,19.553776113138095,51.11288988686189
 36130,"Super Time Force","6955","Heaven Candidate",3.45,982,69,19.56992024797391,49.43007975202609
 36065,"Final Fantasy Remix","Ante","Prelude",3.4,982,68,19.589293209776887,48.41070679022312
 36106,"Octopath Traveler: Echoes of Eight","Danilo Ciaffi, Chromatic Apparatus, Gamer of the Winds, KestrelGirl, Psamathes, RichGC","The One They Call the Witch",3.392,982,67.84,19.579606728875397,48.260393271124606
@@ -24942,7 +24943,6 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 36089,"The Legend of Zelda: Twilight Princess","RebeccaETripp","Whispers in the Dark",,982,null,19.586064382809727,null
 36137,"Super Time Force","6955","Resort",3.152381,982,63.04762,19.566691421006748,43.48092857899326
 36161,"Hyper Princess Pitch","Salkinitzor","Results Theme",,982,null,19.560233767072422,null
-36178,"Kira Kira Star Night DX","Takeshi Yokemura","STAR SWING",3.3666666,982,67.333332,19.553776113138095,47.7795558868619
 36214,"Yooka-Laylee and the Impossible Lair: Retro Remix Soundtrack","Tater-Tot Tunes","Pumping Plant - Powered (8-Bit Version)",,982,null,19.540860805269446,null
 36246,"20XX","Cityfires","Pseudocode",,982,null,19.52471667043363,null
 "3629","Invalid song","Invalid song","Invalid song",,982,null,19.515030189532144,null
@@ -25026,10 +25026,10 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 37072,"King's Quest VI: Heir Today, Gone Tomorrow","MusicallyInspired","Sailing on the Vaporwaves",4.104762,982,82.09524,19.14694391527558,62.948296084724426
 37,"Xenogears","Yasunori Mitsuda","June Mermaid",4.0941176,982,81.882352,19.176003357980047,62.70634864201995
 37116,"SQUARE ENIX JAZZ -CHRONO TRIGGER-","Eijiro Nakagawa","Far Off Promise Jazz Arrangement",4.0882354,982,81.76470800000001,19.127570953472603,62.637137046527414
+37068,"Space Quest III: The Pirates of Pestulon","faRk","Verdensrommet",4.0054054,982,80.108108,19.150172742242745,60.957935257757256
 36893,"Akai Katana Shin Arrange Album","Ryu Umemoto","Scabbard Knob (stage3)",3.98,982,79.6,19.205062800684512,60.39493719931548
 36844,"Monster Hunter 10th Anniversary Compilation Album [Tribute]","Akihiko Narita, Hiroshi Kawaguchi","Red Afterglow Running In The Darkness / Nargacuga [MONSTER HUNTER PORTABLE 2nd G]",3.976,982,79.52,19.22766458945465,60.29233541054535
 3720,"Soma Bringer","Yasunori Mitsuda","Seeking the Road That Sinks in Illusion",3.95,982,79,19.088825029866648,59.91117497013335
-37068,"Space Quest III: The Pirates of Pestulon","faRk","Verdensrommet",3.9485714,982,78.971428,19.150172742242745,59.82125525775726
 37049,"NieR: ReArranged","HappyTurtle","Temple of Drifting Sands",3.9142857,982,78.285714,19.156630396177068,59.129083603822934
 37172,"Final Fantasy VII Remake Acoustic Arrangements","Yuya Mori","One-Winged Angel - Rebirth",3.9037037,982,78.074074,19.1017403377353,58.972333662264695
 37034,"Sakuna: Of Rice and Ruin Musical Arrangements -Play-","Kyoband","High Summer",3.8782609,982,77.565218,19.16954570404572,58.395672295954284
@@ -25095,9 +25095,9 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 3785,"Otomedius G","Konami Kukeiha Club, Naoki Maeda","Silvery Wings Again (From Salamander 2)",4.2,982,84,18.85957831519809,65.14042168480191
 37735,"Tekken Tag Tournament 2","Go Shiina","Dead person-devil jin",4.163636,982,83.27272,18.888637757902554,64.38408224209745
 3741,"Soma Bringer","Yasunori Mitsuda","Ring Tower",4.151111,982,83.02222,19.004875528720415,64.01734447127959
-3743,"Soma Bringer","Yasunori Mitsuda","Temple of the Sand Coffin",4.1476192,982,82.95238400000001,18.991960220851762,63.96042377914824
 37609,"Lemmings (2006)","Tim Follin","Main Theme",4.1384616,982,82.769232,18.940298989377162,63.82893301062284
 37845,"Final Fantasy Series Acoustic Arrangements","Atsuki Yoshida","The Final Day",4.1238093,982,82.47618599999998,18.862807142165252,63.61337885783473
+3743,"Soma Bringer","Yasunori Mitsuda","Temple of the Sand Coffin",4.123404,982,82.46808,18.991960220851762,63.476119779148235
 37405,"Square Enix Jazz - SaGa","Ryu Kawamura","Horrible Shadow",4.1181817,982,82.363634,19.00810435568758,63.355529644312426
 37812,"Skipp and Friends","Ken Snyder","Intro",4.0695653,982,81.391306,18.866035969132415,62.52527003086759
 37710,"The Binding of Isaac: Antibirth","mudeth","Misericorde (Isaac Fight)",4.037037,982,80.74073999999999,18.914468373639856,61.82627162636013
@@ -25258,10 +25258,10 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 4387,"Perfect Selection: Dracula Battle","Naoto Shibata","Reincarnated Soul",4.609231,982,92.18462000000001,18.197668786929707,73.9869512130703
 4146,"Super Smash Bros. Brawl","Yuka Tsujiyoko, Shogo Sakai","Fire Emblem Theme",4.5742855,982,91.48571000000001,18.291304768977433,73.19440523102259
 4631,"Tales of Graces","Motoi Sakuraba, Hibiki Aoyama","Impatient Sword",4.5086956,982,90.173912,18.097575150947662,72.07633684905234
-4620,"Tales of the World: Radiant Mythology 2","Takuya Yasuda","The Edge Of A Decision",4.4958334,982,89.91666800000002,18.107261631849152,71.80940636815086
 4350,"Castlevania: Lament of Innocence","Michiru Yamane","Garden Forgotten by Time",4.495122,982,89.90244000000001,18.207355267831197,71.69508473216882
 4684,"The Legend of Zelda: Majora's Mask","Koji Kondo","Clock Town, Second Day",4.4857144,982,89.714288,18.07497336217752,71.63931463782248
 3933,"Sonic Lost World","Tomoya Ohtani, Takahito Eguchi","Sea Bottom Segue",4.4955554,982,89.911108,18.33650834651771,71.5745996534823
+4620,"Tales of the World: Radiant Mythology 2","Takuya Yasuda","The Edge Of A Decision",4.4693875,982,89.38775,18.107261631849152,71.28048836815084
 38923,"Harvestella","Go Shiina","To Eternity!",4.475,982,89.5,18.397856058893804,71.10214394110619
 4171,"Super Smash Bros. Melee","Hirokazu Ando","Mother (Other Side)",4.4651685,982,89.30337,18.288075942010266,71.01529405798973
 4343,"Castlevania: Harmony of Despair","Tomoaki Hirono","Crimson Blood",4.390909,982,87.81818,18.21058409479836,69.60759590520163
@@ -25407,7 +25407,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 5654,"Xenoblade Chronicles","CHiCO, Tomori Kudo, Kenji Hiramatsu","Tragic Decision",3.8755555,982,77.51111,17.700429433986635,59.81068056601337
 4752,"Dragon's Dogma","Tadayoshi Makino, Aubrey Ashburn","Eternal Return ~Dragon's Dogma Main Theme~",3.8911765,982,77.82352999999999,18.065286881276034,59.758243118723954
 4753,"Hanjuku Hero 4","Kenji Ito","A Blooming Rose Which Sings",,982,null,18.062058054308867,null
-4828,"Jets 'n' Guns","Machinae Supremacy","Shopmusic",4.468421,982,89.36842,18.020083303735753,71.34833669626425
+4828,"Jets 'n' Guns","Machinae Supremacy","Shopmusic",4.5384617,982,90.769234,18.020083303735753,72.74915069626425
 4791,"EarthBound","Keiichi Suzuki","Winters",4.4435897,982,88.87179400000001,18.04268509250589,70.82910890749412
 4769,"Rusty Hearts","Perfect World Entertainment","Lower Plant",4.4367347,982,88.73469399999999,18.055600400374544,70.67909359962545
 5054,"Paper Mario: The Thousand-Year Door","Yoshito Hirano, Yuka Tsujiyoko","Bowser's Quest: World 1-1",4.3013334,982,86.026668,17.923218494720867,68.10344950527913
@@ -25505,11 +25505,11 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 5739,"BloodRayne: Betrayal","Jake Kaufman (virt)","Kagan",4.1813955,982,83.62791,17.66491233734784,65.96299766265216
 5927,"Hard Corps: Uprising","Daisuke Ishiwatari","Stage 01: Active",4.111111,982,82.22222000000001,17.57127635530012,64.65094364469988
 6065,"Kirby's Epic Yarn","Tomoya Tomita","Rainbow Falls",4.081081,982,81.62162000000001,17.519615123825513,64.10200487617449
+5793,"Mega Turrican","Chris Hülsbeck","Stage 1-2",4.076316,982,81.52632,17.632624067676215,63.89369593232378
 6133,"Legend of Heroes V","Falcom Sound Team jdk","The Limits of Strength",4.055814,982,81.11627999999999,17.49378450808821,63.62249549191178
 5964,"Grandia","Noriyuki Iwadare","Victory",4.025,982,80.5,17.56158987439863,62.938410125601365
 5931,"Hard Corps: Uprising","Daisuke Ishiwatari","Stage 02: Boss",4.0227275,982,80.45455000000001,17.568047528332954,62.88650247166706
 5864,"Phantasy Star Zero","Hideaki Kobayashi","Phantasy Star Zero",4.010714,982,80.21428,17.600335798004586,62.613944201995416
-5793,"Mega Turrican","Chris Hülsbeck","Stage 1-2",4.0111113,982,80.22222599999999,17.632624067676215,62.589601932323774
 6029,"Battle Fantasia","Kennosuke Suemura","Royal Astronomical Observatory Platenes",4,982,80,17.542216912595656,62.457783087404344
 5868,"Phantasy Star Zero","Hideaki Kobayashi","Desolate Scape",3.961702,982,79.23404,17.59387814407026,61.64016185592973
 577,"Rudra no Hihou","Ryuji Sasai","Battle for the Fields",3.96,982,79.2,17.639081721610538,61.560918278389465
@@ -25525,12 +25525,12 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 6021,"Wave Race 64","Kazumi Totaka","Sandy Beach",4,982,80,17.54544573956282,62.45455426043718
 5977,"Grandia III","Noriyuki Iwadare","A Hot Crash!",3.990909,982,79.81818,17.551903393497142,62.266276606502856
 6162,"Legend of Heroes IV","Falcom Sound Team jdk","Riding the Ocean on the Wind",3.9636364,982,79.272728,17.48409802718672,61.78862997281328
+6030,"Battle Fantasia","Kennosuke Suemura","La Concorde",3.95,982,79,17.53898808562849,61.46101191437151
 6147,"Legend of Heroes III","Falcom Sound Team jdk","Badatt",3.94,982,78.8,17.490555681121048,61.309444318878946
 5934,"Odin Sphere","Hitoshi Sakimoto","Valkyrie March",3.9384615,982,78.76923,17.564818701365795,61.2044112986342
 6013,"ActRaiser Symphonic","Yuzo Koshiro","The Beast Appears",3.916,982,78.32,17.54867456652998,60.77132543347001
 5895,"Xenosaga Episode III: Also sprach Zarathustra","Yuki Kajiura","A Prelude to the Tragedy",3.9135134,982,78.270268,17.580962836201607,60.689305163798394
 6124,"Cthulhu Saves the World","Gordon McNeil","Showdown in Funky Town",3.862857,982,77.25713999999999,17.500242162022538,59.756897837977455
-6030,"Battle Fantasia","Kennosuke Suemura","La Concorde",3.8647058,982,77.294116,17.53898808562849,59.75512791437151
 5869,"Phantasy Star Zero","Hideaki Kobayashi","Snowstorm",3.848,982,76.96,17.590649317103097,59.36935068289689
 6161,"Legend of Heroes IV","Falcom Sound Team jdk","Stepping Lightly",3.8054054,982,76.108108,17.48732685415389,58.62078114584611
 5902,"Pocky & Rocky","Hiroyuki Iwatsuki","Enchanted Forest",3.7773585,982,75.54717,17.577734009234444,57.96943599076555
@@ -25995,7 +25995,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 9992,"No Phoenix Down Can Save You Now","The World Is Square","Terra's Theme",,982,null,16.08924477737238,null
 10140,"The Final Fantasy Legend","analoq","final fanta legend",4.1813955,973,83.62791,16.056956507700754,67.57095349229925
 10061,"Kingdom Hearts Destiny","Bak.R","Another Side (Orchestral)",4.0842104,973,81.684208,16.073100642536566,65.61110735746342
-10494,"Atelier Iris ETERNAL MANA Arranged Tracks DECEITFUL WINGS","Saitama Saisyu Heiki","Phantom Wings",4.078788,973,81.57576,15.992379968357495,65.5833800316425
+10494,"Atelier Iris ETERNAL MANA Arranged Tracks DECEITFUL WINGS","Saitama Saisyu Heiki","Phantom Wings",4.0545454,973,81.09090800000001,15.992379968357495,65.09852803164252
 10351,"Pokémon Gold/Silver/Crystal","Pokémon Reorchestrated","The Champion (Battle VS Lance and Red)",4.0545454,973,81.09090800000001,16.024668238029125,65.06623976197089
 1073,"Resident Evil 2","Masami Ueda, Shusaku Uchiyama, Shun Nishigaki","Ada's Theme",4.046154,973,80.92308,15.953634044751542,64.96944595524846
 10613,"Time & Space ~ A Tribute to Yasunori Mitsuda","Dale North, Kae","Star of Hope",4.027027,973,80.54054000000001,15.969778179587358,64.57076182041266
@@ -26190,10 +26190,10 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 13661,"Ys","Mieko Ishikawa","Fly with Me",3.8827586,973,77.655172,15.398275806399536,62.256896193600454
 13854,"Magical Chase","Hitoshi Sakimoto, Masaharu Iwata","Ripple no Theme 2",3.83125,973,76.625,15.35630105582642,61.26869894417358
 13248,"Arcus II -Silent Symphony-","Motoi Sakuraba","Devil Errand",3.837037,973,76.74074,15.501598269348746,61.239141730651255
-13541,"Memories Off 8bit Arrange","Takeshi Abo, Chiyomaru Shikura, Toshimichi Isoe, Kanji Saito","Eternity",3.832,973,76.64,15.420877595169674,61.21912240483033
 13733,"After Burner (SMS)","Hiroshi Kawaguchi","Final Take Off",3.8153846,973,76.307692,15.385360498530884,60.92233150146912
 13800,"Megami Tensei","Tsukasa Masuko, Project SATAN","Recollections ~ Recollections",3.80625,973,76.125,15.362758709760744,60.76224129023926
 13358,"Rockman EXE N1 Battle","Inti Creates","Battle Chip Champion",3.8,973,76,15.469309999677117,60.530690000322885
+13541,"Memories Off 8bit Arrange","Takeshi Abo, Chiyomaru Shikura, Toshimichi Isoe, Kanji Saito","Eternity",3.7870967,973,75.741934,15.420877595169674,60.32105640483033
 13518,"Tetris","Hirokazu Tanaka","Type C",3.784,973,75.67999999999999,15.427335249104,60.25266475089599
 13512,"Tetris Blast","Niwaka-Zu, Bunbunmaru, Lah++, Gocky-7 Alives","Contest",3.7833333,973,75.66666599999999,15.433792903038327,60.23287309696167
 13451,"The Dark Spire","Kenichi Arakawa","????",3.76,973,75.19999999999999,15.446708210906978,59.75329178909301
@@ -26716,8 +26716,8 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 21842,"Megami Tensei Gaiden: Last Bible","Hiroyuki Yanada, Iwao Mitsunaga","Boss Battle",,973,null,13.761260534047981,null
 21883,"S.S.T.BAND -30th Anniversary Box-","S.S.T. Band","Main Theme (Space Harrier)",,973,null,13.751574053146493,null
 21906,"Monster Hunter Swing ~Big Band Jazz Arrange~","Zac Zinger","Searching for the Secret Hot Spring",,973,null,13.748345226179328,null
-22816,"coatlesscarl's 8-bit Covers","coatlesscarl","Castlevania: Bloodlines - Reincarnated Soul Part 2 (Stage 1)",4.661905,973,93.2381,13.586903877821188,79.65119612217882
 22105,"Star Road: Super Mario Reimagined","Karl Brueggemann","Out of a Clear Blue Sky (Mario 2 Overworld)",4.582456,973,91.64912,13.696683994704722,77.95243600529527
+22816,"coatlesscarl's 8-bit Covers","coatlesscarl","Castlevania: Bloodlines - Reincarnated Soul Part 2 (Stage 1)",4.5636363,973,91.27272599999999,13.586903877821188,77.6858221221788
 22683,"Donkey Kong Country: Tropical Freeze","David Wise","Scorch 'n' Torch",4.44,973,88.80000000000001,13.63533628232863,75.16466371767137
 21963,"The Legend of Nayuta: Boundless Trails","Hayato Sonoda, Takahiro Unisuga, Saki Momiyama","Snowbound Sacred Mountain",4.2702703,973,85.405406,13.728972264376353,71.67643373562365
 2203,"Golden Sun: The Lost Age","Motoi Sakuraba","Battle! Jenna",4.2509093,973,85.018186,13.722514610442026,71.29567138955798
@@ -26811,7 +26811,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 23672,"RefleX","Jirurun","Crazy Goddess Virgo (Type Human)",3.7263157,973,74.526314,13.406089567660068,61.12022443233993
 23185,"Wants To Battle","Little V","Iris",3.7071428,973,74.14285600000001,13.525556165445094,60.61729983455491
 23249,"Super Ubie Land","Calum Bowen","Scorching Salsa",3.6388888,973,72.777776,13.50941203060928,59.26836396939072
-23204,"Where Good Marbles Go to Die","Stemage, housethegrate","Blackballed",3.5948718,973,71.897436,13.51909851151077,58.37833748848923
+23204,"Where Good Marbles Go to Die","Stemage, housethegrate","Blackballed",3.595,973,71.9,13.51909851151077,58.380901488489236
 23165,"Strike the Earth! Shovel Knight Arranged","Jake Kaufman (virt)","Hyper Camelot (Guest Director Boss Battle)",3.583871,973,71.67742,13.528784992412257,58.14863500758774
 23211,"Mario Kart 8","Shiho Fujii","Toad Harbor",,973,null,13.515869684543604,null
 23263,"Year 3 Complete Collection","FamilyJules7x","Mega Man X",,973,null,13.499725549707792,null
@@ -27042,8 +27042,8 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 26895,"Arcana","Jun Ishikawa, Hirokazu Ando","Darwin's Theme",3.9619048,973,79.238096,12.731264731523037,66.50683126847696
 27639,"Apex 2016: I Got Next","DjjD","Incognito",3.9423077,973,78.846154,12.553679248329082,66.29247475167091
 26430,"Prehistorik Man","Thorsten Mitschele","Title",3.95,973,79,12.847502502340898,66.1524974976591
-26601,"FZ: Side F","coda","The Clock Master (Sync/Majesty)",3.945,973,78.89999999999999,12.79261244389913,66.10738755610086
 2752,"The Last Story","Nobuo Uematsu, Yoshitaka Suzuki","Hearts Bounce Loudly",3.9333334,973,78.666668,12.579509864066384,66.08715813593362
+26601,"FZ: Side F","coda","The Clock Master (Sync/Majesty)",3.9380953,973,78.761906,12.79261244389913,65.96929355610087
 27589,"Boss Beats","ABSRDST","Robot Stunt Club",3.9257143,973,78.514286,12.563365729230572,65.95092027076943
 26903,"Dust: An Elysian Tail","Alexander Brandon","Falana",3.925926,973,78.51852,12.728035904555876,65.79048409544411
 27242,"MONSTER HUNTER THE JAZZ","The Zac Zinger Group","Our Felyne Farm in Yukumo",3.91875,973,78.375,12.660230538245457,65.71476946175454
@@ -27210,11 +27210,11 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 29891,"Blue Reflection","Hayato Asano","OVERDOSE",4.3773584,973,87.547168,12.153304704400892,75.3938632955991
 30146,"Persona 5","Shoji Meguro, Ryota Kozuka ","Sunset Bridge (Very Comfortable Mix For AKG)",4.336842,973,86.73684,12.085499338090472,74.65134066190953
 29959,"Pokémon Omega Ruby & Alpha Sapphire","Shota Kageyama","Battle! (Deoxys)",4.3,973,86,12.133931742597914,73.86606825740209
+30016,"Solatorobo","Chikayo Fukuda","Cloud Puncher",4.2444444,973,84.888888,12.10810112686061,72.78078687313939
 30287,"SUGARBURGER","LONELYROLLINGSTARS","Find Him and Kill Him [Super Mario Bros. 2 and Too Many Cooks]",4.2222223,973,84.444446,12.046753414484519,72.39769258551549
 30705,"Gradius IV","Atsuki Watanabe","Athena (9st. Final Stronghold Stage)",4.2137933,973,84.275866,11.988634529075586,72.28723147092441
 30013,"Solatorobo","Chikayo Fukuda","Evening Scrap",4.21875,973,84.375,12.111329953827775,72.26367004617222
 30076,"Final Fantasy XV","Shota Nakama","Bros on the Road",4.2,973,84,12.098414645959123,71.90158535404088
-30016,"Solatorobo","Chikayo Fukuda","Cloud Puncher",4.2,973,84,12.10810112686061,71.89189887313938
 29983,"Hot Shots Golf 6","Hidehiro Kawai","Maple Leaf Golf Club",4.16,973,83.2,12.124245261696426,71.07575473830357
 30267,"What's Pink and Sucks?","Xoc","Grape Garden",4.0666666,973,81.33333199999998,12.04998224145168,69.2833497585483
 29869,"Danganronpa 2","Masafumi Takada","Ikoroshia",4.061111,973,81.22222000000001,12.156533531368053,69.06568646863195
@@ -28198,25 +28198,24 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 9338,"The Legend of Xanadu Arrange Album KLEENE","mobius","Beginning of the Legend",3.8967743,973,77.935486,9.108520874366342,68.82696512563365
 9385,"R3BORN","ThePlasmas","Zero's Fury Unleashed",3.8941176,973,77.882352,9.10529204739918,68.77705995260082
 9890,"Minibosses EP","Minibosses","Megaman 2 - Bubbleman",3.863158,973,77.26316,9.008427238384295,68.2547327616157
+9185,"KK and Friends","Ben Briggs, ectogemia","Quittin' Time [ 5 PM ]",3.8681817,973,77.363634,9.131122663136484,68.23251133686352
 8918,"Distant Memories Once Lost (Dark Reflections)","Repliforce","Innocent Gear",3.8451612,973,76.90322400000001,9.156953278873784,67.74627072112622
 9162,"The Briggs Effect","Ben Briggs","Damn Nature, You Scary! (Mega Man X Series)",3.817647,973,76.35294,9.137580317070809,67.21535968292919
 9753,"Origin","Machinae Supremacy","Hybrid",3.7771428,973,75.542856,9.031029027154434,66.51182697284557
-953,"Chaos Rings","Noriyasu Agematsu","Entwined Destinies",3.7681818,973,75.363636,9.069774950760388,66.29386104923961
 9672,"Daniel Brown's Castlevania","Daniel Brown","Walking on the Edge",3.7548387,973,75.096774,9.040715508055923,66.05605849194407
 8872,"Turrican","XxDUSTYxX","Turrican 2009 (MetalMedley)",3.755,973,75.1,9.16341093280811,65.93658906719189
 9806,"Music System I","Zebes System","Main Theme (Halo)",3.6434782,973,72.869564,9.018113719285784,63.85145028071421
 966,"Ehrgeiz","Takayuki Nakamura","Magic Store",3.6142857,973,72.285714,9.04717316199025,63.23854083800975
 927,"Armored Core 4","Kota Hoshino","Grid Room",3.554717,973,71.09434,9.111749701333506,61.982590298666494
-9246,"Pixel Glass","Careless Juja","Castlevania: Act II",3.5454545,973,70.90908999999999,9.121436182234994,61.787653817765
 8765,"Ghost Battle","Floaf","The Haunted",3.48125,973,69.625,9.202156856414065,60.422843143585936
 8804,"Beat the 8 Super Robots With 8 Bit Instrumental","8 Bit Instrumental","Welcome to Wily's Happy Party (Opening / Title Theme)",3.254054,973,65.08108,9.195699202479739,55.88538079752026
 8821,"We Are Error","Year 200X","Contra",,973,null,9.18601272157825,null
 8831,"We Are Error","Year 200X","Ghosts 'N' Goblins",,973,null,9.179555067643925,null
 884,"Panzer Dragoon","Yoshitaka Azuma","Raid",,973,null,9.176326240676762,null
 909,"Another Bound Neo","millstones","Castle of Disaster",3.8390243,973,76.780486,9.144037971005133,67.63644802899486
+953,"Chaos Rings","Noriyasu Agematsu","Entwined Destinies",3.7681818,973,75.363636,9.069774950760388,66.29386104923961
 9658,"The Legend of Zelda: The Minish Cap","ZREO","Miniboss",3.6820512,973,73.641024,9.050401988957411,64.5906220110426
 9797,"MetalHog","MegaDriver","Emerald Hill (Sonic 2)",3.6736841,973,73.473682,9.024571373220109,64.44911062677988
-9185,"KK and Friends","Ben Briggs, ectogemia","Quittin' Time [ 5 PM ]",3.6780488,973,73.560976,9.131122663136484,64.42985333686352
 9474,"/sing","PXL8","Phazon Corruption (Metroid)",3.644776,973,72.89551999999999,9.082690258629041,63.81282974137095
 9610,"A Cursed Legacy","Vernian Process","Tower of Mist",3.6411765,973,72.82352999999999,9.053630815924576,63.76989918407541
 8897,"Castlevania: Symphony of the Night - Resurrection","Anthony Lofton, Joshua Morse","Illusional Hop",3.632558,973,72.65116,9.16018210584095,63.49097789415906
@@ -28224,6 +28223,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 9172,"Ridge Racer Arrange","Joshua Morse","Gear Shifter",3.6060605,973,72.12120999999999,9.134351490103645,62.986858509896344
 9574,"PAX 07 Live","The OneUps","Bomberman - Bomberman",3.5885713,973,71.77142599999999,9.0600884698589,62.711337530141094
 9552,"PPPPPPowerup!","Mattias Häggström Gerdt","Purpose",3.557143,973,71.14286,9.063317296826064,62.079542703173935
+9246,"Pixel Glass","Careless Juja","Castlevania: Act II",3.5454545,973,70.90908999999999,9.121436182234994,61.787653817765
 9764,"Golden Axe II","Manuel Mora","Level 1",3.5333333,973,70.66666599999999,9.027800200187272,61.63886579981272
 9449,"Random Encounter","Random Encounter","Cornelia",3.5290322,973,70.580644,9.089147912563366,61.491496087436644
 921,"Lost Eden","Stephane Picq","The Magnificents",3.4777777,973,69.555554,9.127893836169319,60.42766016383068
@@ -28310,10 +28310,10 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 12454,"Cave Story Remix Project II","LEAF XCEED Music Division","Cave Story War",4.0731707,964,81.463414,8.753349907978432,72.71006409202157
 1273,"Die Hard Trilogy","Stephen Root, Neil Palmer","DH1 - Garage",4,964,80,8.737205773142618,71.26279422685738
 12318,"Entertainment System 64","Entertainment System","Heavy Artillery (1943, Metal Gear, Bionic Commando)",3.9414635,964,78.82927,8.77272286978141,70.05654713021859
+12050,"Autoscroll","autoscroll","Intro - Shadow of the Beast [Amiga]",3.9166667,964,78.333334,8.795324658551548,69.53800934144844
 12802,"Guxt","Daisuke Amaya (Pixel)","Stage 5",3.8944445,964,77.88889,8.724290465273967,69.16459953472604
 12865,"Turok 2: Seeds of Evil","Alberto José González","Cemetery Stage",3.8634145,964,77.26829000000001,8.708146330438153,68.56014366956185
 12656,"The Last V8","Dees","The Last V8 (Airline Remix)",3.8512821,964,77.025642,8.74043460010978,68.28520739989023
-12050,"Autoscroll","autoscroll","Intro - Shadow of the Beast [Amiga]",3.80625,964,76.125,8.795324658551548,67.32967534144845
 135,"Tetris Attack","Masaya Kuzume","Sea Stage - Critical",3.7675676,964,75.351352,8.624196829291918,66.72715517070809
 13262,"Trip World","Tsutomu Ishida, Masayuki Iwata, Atsushi Mihiro","Credits",3.7517242,964,75.03448399999999,8.65002744502922,66.38445655497077
 13475,"Grounseed","Masahiro Kajihara","Battle ~OutBreakers~",3.747826,964,74.95652,8.630654483226245,66.32586551677375
@@ -28468,6 +28468,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 17191,"Donkey Kong Land III","Eveline Fischer, David Wise","Hot Pursuit",3.5727272,964,71.454544,8.065609763972748,63.388934236027254
 16498,"Trey Frey II","Trey Frey","Critical",3.5615385,964,71.23077,8.175389880856285,63.05538011914372
 16382,"Cetait Mieux en RDA","Dubmood","Sector 2F",3.5586207,964,71.172414,8.191534015692099,62.980879984307904
+1688,"Perfect World International","Perfect World Entertainment","Rebirth Gamma",3.49375,964,69.875,8.114042168480191,61.76095783151981
 1659,"Lord of Vermilion","Nobuo Uematsu","Wiara Volcano",3.4941177,964,69.88235399999999,8.152788092086146,61.729565907913845
 16386,"Cetait Mieux en RDA","Dubmood","Sector 1C",3.495238,964,69.90476,8.188305188724936,61.71645481127506
 17202,"Donkey Kong Land 2","David Wise, Grant Kirkhope","Dungeon Danger",3.4875,964,69.75,8.059152110038422,61.690847889961574
@@ -28476,7 +28477,6 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 17151,"Final Fight One","Toshio Kajino, Yoshihiro Sakaguchi, Yoko Shimomura","Slum Alleyway",3.442857,964,68.85714,8.072067417907075,60.78507258209292
 16846,"Star Ocean: Blue Sphere","Motoi Sakuraba","STAR OCEAN FOREVER",3.4176471,964,68.352942,8.126957476348842,60.22598452365116
 16556,"Pretty Eight Machine","Inverse Phase","Kinda I Want 2A03",3.4190476,964,68.380952,8.156016919053307,60.224935080946686
-1688,"Perfect World International","Perfect World Entertainment","Rebirth Gamma",3.4153845,964,68.30769000000001,8.114042168480191,60.19364783151982
 16501,"Trey Frey II","Trey Frey","Recover",3.418182,964,68.36364,8.172161053889122,60.191478946110884
 17247,"Wonder Boy","James Smart","Boss governing the Clouds",3.4074075,964,68.14815,8.05592328307126,60.09222671692874
 16518,"Extracted From Abstract","Zelkedo","Sun Crusher",3.4,964,68,8.165703399954797,59.83429660004521
@@ -28510,7 +28510,6 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 17701,"Lucky Luke","Alberto José González","Unknown 2",3.8193548,964,76.387096,7.9622873010235375,68.42480869897646
 17993,"Sonic the Hedgehog 2: Hedgehog Heaven","FFmusic Dj","Hidden Palace Future",3.8076923,964,76.153846,7.933227858319072,68.22061814168093
 19057,"Super Mario World","spacepony","Super Mariocean",3.785185,964,75.7037,7.836363049304188,67.86733695069582
-18093,"Descent II","Redg","Eternal Descent",3.788406,964,75.76812000000001,7.92999903135191,67.8381209686481
 18582,"Marathon","Nick Singer","The Forerunner Mix (Gamma)",3.7849057,964,75.698114,7.868651318975816,67.82946268102418
 18156,"Terranigma","Ziwtra","Reviving Zue",3.7773585,964,75.54717,7.913854896516096,67.6333151034839
 18977,"Virtua Fighter 2","WillRock","Juunen Hayaindayou",3.7739131,964,75.478262,7.846049530205676,67.63221246979433
@@ -28521,6 +28520,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 18228,"The Addams Family","Random Hero","Nightmare on Cemetery Lane",3.7193549,964,74.387098,7.904168415614607,66.48292958438539
 18380,"Final Fantasy X","Sal","Guardian's Sending",3.7136364,964,74.272728,7.88479545381163,66.38793254618837
 17569,"Reset Generation","8 Bit Weapon","Bubble Twin Bonanza",3.7071428,964,74.14285600000001,8.001033224629492,66.14182277537051
+18093,"Descent II","Redg","Eternal Descent",3.7,964,74,7.92999903135191,66.07000096864809
 17779,"Guilty Gear Petit","Daisuke Ishiwatari, Yasuharu Takanashi","Ending",3.69375,964,73.875,7.95260082012205,65.92239917987796
 17811,"Metal Gear 2: Solid Snake","Masahiro Ikariko, Mutsuhiko Izumi, Yuko Kurahashi, Tsuyoshi Sekito, Yuji Takenouchi, Tomoya Tomita, Kazuhiko Uehara","Swing, Swing ~\"A\" Jam Blues (Radio Mode BGM ~ Radio Mode BGM 2)",3.6875,964,73.75,7.946143166187724,65.80385683381228
 17449,"Pokémon Pinball","Go Ichinose","Diglett Stage ~ Whack the Digletts",3.6390245,964,72.78049,8.010719705530981,64.76977029446903
@@ -28553,7 +28553,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 19822,"NiGHTS: Lucid Dreaming","PROTO·DOME","The NiGHT Has Just Begun... (10\" Karaoke Edit)",4.16,964,83.2,7.75887120209228,75.44112879790772
 20862,"Super Dodge Ball: Around the World","WillRock, Level 99","Friendly Fire",4.079167,964,81.58333999999999,7.639404604307256,73.94393539569273
 20400,"Castlevania: Sonata of the Damned","Joshua Morse","Vampire Snap",4.078261,964,81.56522000000001,7.703981143650513,73.8612388563495
-19278,"Phoenix Wright: Ace Attorney","OceansAndrew","This Feeling",4.072222,964,81.44444,7.807303606599722,73.63713639340028
+19278,"Phoenix Wright: Ace Attorney","OceansAndrew","This Feeling",4.077922,964,81.55844,7.807303606599722,73.75113639340029
 20577,"Neverwinter Nights","Ceracryst","Kara-Turian Nights",4.0642858,964,81.28571600000001,7.67815052791321,73.6075654720868
 20220,"Be Aggressive!: A Gunstar Heroes Tribute Album","Flexstyle","Irresolution",4.0533333,964,81.066666,7.729811759387814,73.33685424061218
 19878,"Ninja Gaiden","SFLaValle","Devil's Mask",4.0490565,964,80.98113,7.749184721190791,73.2319452788092
@@ -28827,6 +28827,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 27390,"Power Stone","Tetsuya Shibata","Dullstown Stage",3.8102565,964,76.20513,6.938749152432921,69.26638084756708
 27687,"Esther's Dreams","timaeus222","Thy Everlasting Winter Wind Blows",3.805263,964,76.10526,6.887087920958315,69.2181720790417
 27225,"Mother Sounds e.p. 2","Yousuke","Eight Melodies reprise for you",3.8086956,964,76.173912,6.964579768170223,69.20933223182978
+27014,"Bomberman Max","Hudson Soft","World 4: City Star",3.8055556,964,76.11111199999999,7.000096864809015,69.11101513519098
 27844,"Wario's Woods","Sinobu Amayake, Soyo Oka","Round Game - Bomb Time",3.7870967,964,75.741934,6.85802847825385,68.88390552174616
 2693,"The Incredible Machine","Christopher Stevens, Tim Clarke","Unplugged",3.7896552,964,75.793104,7.006554518743341,68.78654948125666
 27789,"Yatagarasu: Attack on Cataclysm","Raito","melancholia",3.7642858,964,75.28571600000001,6.867714959155339,68.41800104084467
@@ -28835,7 +28836,6 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 27750,"Global Gladiators","Mazedude","More Than MoN",3.7375,964,74.75,6.874172613089664,67.87582738691033
 27217,"MOTHER +LOVE 2","no.5","Happy Happy",3.7405405,964,74.81081,6.9710374221045495,67.83977257789546
 28060,"Axiom Verge","Thomas Happ","Vital Tide",3.7209303,964,74.418606,6.8418843434180365,67.57672165658197
-27014,"Bomberman Max","Hudson Soft","World 4: City Star",3.7125,964,74.25,7.000096864809015,67.24990313519099
 27477,"Dragon Quest VI Symphonic","London Philharmonic Orchestra","Brave Fight (VI)",3.6848485,964,73.69697000000001,6.9193761906299445,66.77759380937006
 27480,"Dragon Quest II Symphonic","London Philharmonic Orchestra","Only Lonely Boy (II)",3.6137931,964,72.275862,6.91614736366278,65.35971463633723
 27688,"Esther's Dreams","Chernabogue","Merry Dreams",3.579487,964,71.58973999999999,6.883859093991153,64.70588090600884
@@ -29534,9 +29534,9 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 15218,"Technology Crisis","Tettix","Earth's Assault on the Central AI",4.029412,955,80.58824,4.681799102386104,75.90644089761389
 14146,"Final Fantasy II","Nobuo Uematsu","Sorcerer's Tower",3.9421053,955,78.842106,4.781892738368151,74.06021326163184
 13983,"Medarot","Kinuyo Yamashita","Title Screen",3.892857,955,77.85714,4.794808046236803,73.06233195376319
+14687,"Mission: Impossible","Jun Funahashi, Yoshiyuki Hagiwara","Venice",3.881081,955,77.62162000000001,4.739917987795034,72.88170201220497
 14581,"Flying Warriors","Culture Brain","Stage Theme 3",3.88,955,77.6,4.74637564172936,72.85362435827064
 15107,"Looney Tunes Collector: Alert!","Alberto José González","Exploration",3.8682926,955,77.365852,4.70117206418908,72.66467993581092
-14687,"Mission: Impossible","Jun Funahashi, Yoshiyuki Hagiwara","Venice",3.8457143,955,76.914286,4.739917987795034,72.17436801220497
 13707,"Darwinia","Dma-Sc","Visitors From Dreams",3.8459017,955,76.918034,4.823867488941268,72.09416651105875
 13523,"Valis: The Fantasm Soldier","Shinobu Ogawa","Lonely Soldier",3.8137932,955,76.275864,4.84969810467857,71.42616589532143
 15213,"Technology Crisis II","Tettix","Infiltration At Dusk",3.7923076,955,75.846152,4.685027929353266,71.16112407064674
@@ -30392,12 +30392,12 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 15706,"Prime (MicroD)","MicroD","Niner",3.835294,937,76.70588000000001,1.5240063285008556,75.18187367149915
 3798,"Myst IV: Revelation","Jack Wall","Main Theme",3.850909,946,77.01818,1.8888637757902553,75.12931622420975
 9302,"Sounds From 20XX","Dj CUTMAN, Coda","Cherry Drive",3.837037,946,76.74074,1.6919053307933227,75.04883466920668
+12835,"3D Dot Game Heroes","Shinji Hosoe, Ayako Saso, Shoichiro Sakamoto, Teruo Taniguchi, Takahiro Eguchi, Norihiro Hurukawa","Editing Theme",3.8333333,937,76.666666,1.6273287914500663,75.03933720854994
 13803,"Megami Tensei","Tsukasa Masuko, Project SATAN","MICOM ~ Departure (Journey)",3.8193548,937,76.387096,1.5950405217784378,74.79205547822156
 15383,"Certainty","Tuberz McGee","Epistemology",3.8166666,937,76.333332,1.5433792903038326,74.78995270969617
 12028,"Vincent","Gammasutra","Vincent (Bloody Orange remix)",3.8205128,937,76.410256,1.6467017532530432,74.76355424674696
 37854,"Celeste","RebeccaETripp","Courage in the Dark",3.8294117,946,76.588234,1.8985502566917438,74.68968374330825
 946,"Chaos Rings","Noriyasu Agematsu","Almighty Symphony",3.8055556,946,76.11111199999999,1.685447676858997,74.42566432314099
-12835,"3D Dot Game Heroes","Shinji Hosoe, Ayako Saso, Shoichiro Sakamoto, Teruo Taniguchi, Takahiro Eguchi, Norihiro Hurukawa","Editing Theme",3.8,937,76,1.6273287914500663,74.37267120854993
 14906,"SQ Chips","Mitsuto Suzuki","Final Fantasy XII \"Near the Water\"",3.7767441,937,75.53488200000001,1.556294598172484,73.97858740182753
 6657,"ZanZarah: The Hidden Portal","Kariina Gretere","Endeva",3.7722223,946,75.444446,1.7726260049723934,73.6718199950276
 12774,"Shin Onigashima","Koji Kondo","Fifth Chapter ~Gate Watcher Demon~",3.7583334,937,75.166668,1.6337864453843918,73.53288155461561
@@ -30734,6 +30734,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 25525,"Viewtiful Joe","Ivan Hakštok","Not Your Above-Average Joe",3.8625,928,77.25,0.7361725485131252,76.51382745148688
 29382,"Final Fantasy Tactics","bladiator","Dawn Over Ivalice",3.85625,928,77.125,0.6812824900713571,76.44371750992865
 18681,"Ragnarök Online","Joshua Morse","Hamadatan",3.83125,901,76.625,0.20018727196409544,76.4248127280359
+11439,"Bad Dudes","just64helpin","My Way Or... (Night Version)",3.8277779,901,76.555558,0.21956023376707243,76.33599776623294
 977,"Ehrgeiz","Takayuki Nakamura","11th",3.8533332,937,77.066664,0.9492751283458719,76.11738887165413
 8762,"Silent Hill 2","pot hocket","New Promises",3.8102565,910,76.20513,0.22601788770139808,75.9791121122986
 33678,"Zombies Ate My Neighbors","Mike Norvak, Fernito","Eighties Ate My Zombies",3.8,892,76,0.10978011688353621,75.89021988311646
@@ -30771,7 +30772,6 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 8522,"Nemesis the Warlock","Matt Howells","Nemesis the Warlock (Orchestral)",3.7529411,937,75.058822,0.9654192631816861,74.09340273681832
 30898,"Dodge Club Party","Tommy Pedrini","Double Down Dot",3.716129,910,74.32258,0.25507733040586356,74.06750266959413
 15109,"B-Wings","Data East","Stage Theme",3.7222223,919,74.444446,0.5456717574505182,73.89877424254948
-11439,"Bad Dudes","just64helpin","My Way Or... (Night Version)",3.7028573,901,74.05714599999999,0.21956023376707243,73.83758576623292
 29126,"Comix Zone","Mazedude","Comix Bubbles",3.7207546,928,74.415092,0.6845113170385199,73.73058068296149
 34598,"World of Warcraft","PSK","Legends of Warcraft",3.739394,937,74.78788,1.081657033999548,73.70622296600045
 37491,"Yu-Gi-Oh! Duel Links","timaeus222","The Arc That Spans the Heavens",3.735135,937,74.70270000000001,1.0493687643279197,73.65333123567208
@@ -30810,18 +30810,18 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 15654,"FZ: Side Z","Chipocrite","Adventure (DMGmix)",3.608,901,72.16,0.2163314067999096,71.94366859320009
 23623,"Dirge of Cerberus: Final Fantasy VII","Masashi Hamauzu","Counteroffensive",3.6342857,928,72.685714,0.7684608181847535,71.91725318181525
 20824,"Live A Live","Joren de Bruin (Tensei-San)","Giant Robot Bonanza",3.631579,928,72.63158,0.8007490878563818,71.83083091214361
-34687,"Firelord","Glyn R Brown","Galaheart's Journey",3.5906978,874,71.813956,0.051661231474605274,71.7622947685254
 32330,"Fairune","Y. Kimura","Secret File",3.642857,937,72.85714,1.1074876497368507,71.74965235026315
-13300,"Firefly","Fred Grey","Firefly",3.626087,928,72.52174,0.9169868586742437,71.60475314132574
 19740,"Knuckles' Chaotix","Joe Redifer","Door into Summer",3.5933332,910,71.866664,0.29705208097898034,71.56961191902101
 23983,"PiA-COM II / PIA-COMS","Hiroyuki Nakayama","Stage 1 BGM / from Ganbare Goemon! Karakuri Douchuu",3.6,919,72,0.48432404507442445,71.51567595492557
 22073,"Starfields and Cityscapes","Space Town Savior","Artifice (On Your Lack Thereof)",3.5894737,910,71.789474,0.27445029220884054,71.51502370779116
 30622,"Battle Kid: Fortress of Peril","Sivak","Subterranean Sea",3.6090908,928,72.181816,0.6780536631041942,71.5037623368958
+13300,"Firefly","Fred Grey","Firefly",3.620408,928,72.40816,0.9169868586742437,71.49117314132575
 25869,"Titanfall","DusK","M-COR Rising",3.5877552,910,71.755104,0.2712214652416777,71.48388253475832
 18436,"Tetris Attack","halc","Sound of the Dogfish",3.6,919,72,0.5166123147460527,71.48338768525394
 28566,"Pokémon Super Mystery Dungeon","timaeus222","CONNECTED!",3.5961537,919,71.923074,0.44234929450130767,71.48072470549869
 24131,"Diddy Kong Racing: Bootleg Christmas","Ben Briggs","Chilly Checkpoint (Snowflake Mountain)",3.6088889,928,72.177778,0.758774337283265,71.41900366271673
 22177,"Futebol Arte: World Cup Tribute EP","Brandon Strader","Legendary",3.6078432,928,72.156864,0.7716896451519163,71.38517435484808
+34687,"Firelord","Glyn R Brown","Galaheart's Journey",3.5666666,874,71.333332,0.051661231474605274,71.28167076852539
 37522,"Paper Mario: Color Splash","TheManPF","Paint It Black",3.5783784,919,71.567568,0.38423040909237677,71.18333759090761
 20470,"Professor Layton and the Curious Village","PROTO·DOME","Luke, a True Gentleman Prefers a Touch of Light Jazz",3.59661,928,71.9322,0.8072067417907074,71.12499325820929
 16203,"Shelf EP","Rush Coil","Inflatable Dress",3.5925925,928,71.85185,0.871783281133964,70.98006671886604
@@ -30917,6 +30917,7 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 31916,"Dark Souls","Ophanin","Fire Fade with Me",3.345,937,66.9,1.1107164767040134,65.78928352329599
 15209,"Crossing","Feryl","Crossing",3.3333333,928,66.666666,0.8814697620354525,65.78519623796456
 37107,"Pac-Man","Bortcle","You Had Me at Yellow",3.3069768,919,66.139536,0.4036033708953537,65.73593262910465
+17732,"Wizardry Gaiden 1","Ikuro Fujiwara","Dungeon 2",3.3272727,928,66.545454,0.8556391462981499,65.68981485370186
 15523,"Cosmic Space EP","bubu","Lost in Space",3.3,910,66,0.3164250427819573,65.68357495721804
 13636,"Toki Tori","beek","Forest Falls",3.3153846,928,66.307692,0.9073003777727552,65.40039162222725
 34755,"Glover","Rob Lord, Paul Weir, Mark Bandola","Out Of This World Realm - Level 2",3.2848485,919,65.69697,0.4100610248296794,65.28690897517032
@@ -30935,10 +30936,10 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 19853,"Legendary Wings","Rize","Legendary Strings",3.2444444,928,64.888888,0.8265797035936844,64.06230829640631
 7548,"Front Mission 5","Kenichiro Fukui","Whiteout",3.2294118,928,64.588236,0.5941041619579607,63.99413183804204
 20569,"Star Ocean","Hale-Bopp","Summertime",3.2230089,928,64.460178,0.8039779148235446,63.65620008517645
-17732,"Wizardry Gaiden 1","Ikuro Fujiwara","Dungeon 2",3.2214286,928,64.428572,0.8556391462981499,63.57293285370185
 12749,"Super Meat Boy","Josh Whelchel, Melinda Hershey, Poolside","Power of the Meat",3.182069,919,63.64138,0.5682735462206581,63.07310645377934
 34960,"Conker's Bad Fur Day","Michael Hudak","Xerrox Salad/Memories of Memories",3.1466668,865,62.933336000000004,0.03551709663879113,62.89781890336121
 26431,"Prehistorik Man","Thorsten Mitschele","Level Intro",3.173913,928,63.478260000000006,0.7200284136773111,62.758231586322694
+22821,"Forward","SMILETRON","Drifter",3.1384616,892,62.769231999999995,0.12592425171935034,62.64330774828065
 20235,"Be Aggressive!: A Gunstar Heroes Tribute Album","Malcos","Rolling Gun Changer",3.17,928,63.4,0.8168932226921959,62.583106777307805
 18982,"Kabuki Quantum Fighter","ArseAssassin","Take the Red Pill",3.14375,910,62.875,0.30673856188046883,62.56826143811953
 7215,"Machinarium","Tomáš Dvořák","Game In The Brain",3.176923,937,63.53846,0.9751057440831746,62.56335425591683
@@ -30948,7 +30949,6 @@ id,album,artist,title,rating,Current score,votescore,rankscore,scoreDiff
 30969,"Breath of Fire II","ilp0","Whale of September",3.1210527,910,62.421054,0.2518485034387007,62.1692054965613
 37096,"Sword of Vermilion","jmabate, Capt'n Shred","Fight for Excalabria",3.1588235,937,63.17647,1.062284072196571,62.11418592780343
 21647,"Pxl-Win","Monotron","Far From Home",3.1157894,919,62.315788000000005,0.4972393529430758,61.81854864705693
-22821,"Forward","SMILETRON","Drifter",3.090909,892,61.81818,0.12592425171935034,61.69225574828065
 33144,"Tracked ✕ ChipWIN • #007","LemonDrop","Orlando",3.1142857,928,62.285714,0.6425365664654031,61.643177433534596
 35407,"2064: Read Only Memories","MET∆TRON","Saturated Media",3.085,883,61.7,0.07426302024474508,61.62573697975526
 13027,"The Secret of Monkey Island (Amiga)","Michael Land","Love Theme",3.0914285,910,61.82857,0.3454844854864228,61.483085514513576
