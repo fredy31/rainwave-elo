@@ -13,8 +13,12 @@ function biggest_differences_score(){
     let differencesArray = [];
     var i=results.length;
     results.forEach(el=>{
-        let votescore = el["rating"]*20;
+        console.log(el)
+        let votescore = el.rating_percentile;
         let rankscore = i/results.length*100;
+        if(!votescore){
+            votescore = rankscore;
+        }
         let scoreDiff = {
             votescore: votescore,
             rankscore: rankscore,

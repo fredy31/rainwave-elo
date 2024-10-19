@@ -28,7 +28,7 @@ function make_message(){
 
     quickMessage += '### Biggest differences ###\n';
     for(let i=0;i<5;i++){
-        quickMessage += results[i]["title"] + ' of '+results[i]["album"] + ' (Vote:'+parseFloat(results[i]['rating']).toFixed(3)+'; ELO:'+parseFloat(results[i]['rankscore']).toFixed(3)+'%; Difference of '+parseFloat(results[i]['scoreDiff']).toFixed(3)+')\n';
+        quickMessage += results[i]["title"] + ' of '+results[i]["album"] + ' (Vote [percentile]:'+parseFloat(results[i]['rating']).toFixed(3)+'; ELO:'+parseFloat(results[i]['rankscore']).toFixed(3)+'%; Difference of '+parseFloat(results[i]['scoreDiff']).toFixed(3)+')\n';
     }
 
     // Best Albums

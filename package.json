@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "full_beans": "npm run fetch_elections_day && npm run calculate_elo && npm run check_missing_songs && npm run build_export_csv && npm run biggest_differences_score && npm run average_for_album && npm run average_for_artist && npm run make_message",
+    "full_beans": "npm run fetch_elections_day && npm run calculate_elo && npm run check_missing_songs && npm run build_export_csv && npm run create_rating_percentile && npm run biggest_differences_score && npm run average_for_album && npm run average_for_artist && npm run make_message",
     "fetch_elections_day": "node _scripts/fetch_elections_daily.js fetch_elections",
     "calculate_elo": "node _scripts/elo_calculator.js",
     "check_missing_songs": "node _scripts/check_missing_songs.js",
@@ -13,6 +13,7 @@
     "build_export_csv_weekly": "node _scripts/build_export_csv.js weekly",
     "build_export_csv_monthly": "node _scripts/build_export_csv.js monthly",
     "convert_elections": "node _scripts/convert-to-per-day.js",
+    "create_rating_percentile": "node _scripts/create_rating_percentile.js",
     "biggest_differences_score": "node _scripts/biggest_differences_score.js",
     "average_for_album": "node _scripts/average_for.js album",
     "average_for_artist": "node _scripts/average_for.js artist",
