@@ -12,7 +12,9 @@ function create_rating_percentile(){
             if(file != '.gitignore'){
                 let filecontents = fs.readFileSync(directory+file);
                 filecontents = JSON.parse(filecontents);
-                songsArray.push(filecontents);
+                if(filecontents.rating){
+                    songsArray.push(filecontents);
+                }
                 //console.log(songsArray);
                 console.log('Working: '+i+'/'+files.length);
             }

@@ -11,6 +11,7 @@ function check_missing_songs(){
     // in the song folder, fetch its information.
     fs.readdir(directory, (err, files) => {
         if (err) throw err;
+        files.sort((a,b)=>Math.random()-Math.random());
         for (const file of files) {
             if(file != '.gitignore'){
                 if(!fs.existsSync(directory+'../songs/'+file)){
@@ -46,22 +47,27 @@ async function fetchInfoOfSong(songID){
     const song = await response.json();
     let filename = __dirname+'/../data/songs/'+songID+'.json'
     let trackinfo = '';
-    if(song.id){
+    //console.log(song);
+    if(song.song.id){
         trackinfo = {
             id:song.song.id,
             album:song.song.albums[0].name,
             artist:song.song.artists[0].name,
             title:song.song.title,
+            rating:song.song.rating
         };
+        if (!fs.existsSync(filename)) {
+            fs.writeFileSync(filename,JSON.stringify(trackinfo));
+        }
     }else{
-        trackinfo = {
+        console.log(songID + ': API returns an error.')
+        /*trackinfo = {
             id:songID,
             album:'Invalid song',
             artist:'Invalid song',
             title:'Invalid song',
-        };
+            rating:0
+        };*/
     }
-    if (!fs.existsSync(filename)) {
-        fs.writeFileSync(filename,JSON.stringify(trackinfo));
-    }
+    
 }
