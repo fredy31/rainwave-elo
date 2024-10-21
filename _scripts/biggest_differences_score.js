@@ -10,15 +10,30 @@ function biggest_differences_score(){
         console.error(err);
     }
 
+    let newArray = [];
+    var i=results.length;
+
+    results.sort((a,b)=>b.rating-a.rating);
+    results.forEach(el=>{
+        if(el.rating){
+            let votescore = i/results.length*100;
+            let voteArray = {
+                vote_percentile:votescore
+            };
+            newArray.push({...el, ...voteArray});
+        }
+        i--;
+    })
+    console.log(newArray);
+
+    newArray.sort((a,b)=>b['Current score']-a['Current score']);
     let differencesArray = [];
     var i=results.length;
-    results.forEach(el=>{
-        console.log(el)
-        let votescore = el.rating_percentile;
+
+    newArray.forEach(el=>{
+        //console.log(el)
+        let votescore = el.vote_percentile;
         let rankscore = i/results.length*100;
-        if(!votescore){
-            votescore = rankscore;
-        }
         let scoreDiff = {
             votescore: votescore,
             rankscore: rankscore,

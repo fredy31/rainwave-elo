@@ -1,6 +1,6 @@
 const fs = require('node:fs');
 
-create_rating_percentile();
+/*create_rating_percentile();
 function create_rating_percentile(){
     let songsArray = [];
     let directory = __dirname+'/../data/songs/';
@@ -9,7 +9,7 @@ function create_rating_percentile(){
         let i=1;
         for (const file of files) {
             i++;
-            if(file != '.gitignore'){
+            if(file != '.gitignore' && file.includes(".json")){
                 let filecontents = fs.readFileSync(directory+file);
                 filecontents = JSON.parse(filecontents);
                 if(filecontents.rating){
@@ -45,4 +45,4 @@ function create_rating_percentile(){
             console.log('Writing: '+inew+'/'+files.length);
         })
     })    
-}
+}*/

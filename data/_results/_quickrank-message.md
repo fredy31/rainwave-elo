@@ -4,12 +4,18 @@ Kick Your A of Beatmania IIDX 7th Style (1189)
 Sepulchre Soirée of Crypt of the NecroDancer: OverClocked (1189)
 Main Theme of Bubble Bobble (1180)
 Kakkoi! of Edge (1180)
+### Smallest differences ###
+Power of the Meat of Super Meat Boy (Rating [actual]: 3.2333333; Rating [percentile]:0.069%; ELO:29.457%; Difference of 29.388)
+Chrome Gadget of Act 1 (Rating [actual]: 3.2190475; Rating [percentile]:0.066%; ELO:29.454%; Difference of 29.388)
+Grand Ambience of X3: Reunion (Rating [actual]: 3.3125; Rating [percentile]:0.078%; ELO:29.460%; Difference of 29.382)
+Stay in Formation of Star Fox (Rating [actual]: 3.4709678; Rating [percentile]:0.093%; ELO:29.469%; Difference of 29.376)
+Super Mario Bros. 3 of Classic Video Game Music (Rating [actual]: 3.4689655; Rating [percentile]:0.090%; ELO:29.466%; Difference of 29.376)
 ### Biggest differences ###
-Whoa I'm In Space Cuba (BONUS CHIP MIX) of Mighty Switch Force! (Vote [percentile]:4.753; ELO:100.000%; Difference of 0.000)
-Kick Your A of Beatmania IIDX 7th Style (Vote [percentile]:4.394; ELO:99.997%; Difference of 0.000)
-Sepulchre Soirée of Crypt of the NecroDancer: OverClocked (Vote [percentile]:4.673; ELO:99.994%; Difference of 0.000)
-Main Theme of Bubble Bobble (Vote [percentile]:4.318; ELO:99.991%; Difference of 0.000)
-Kakkoi! of Edge (Vote [percentile]:4.578; ELO:99.988%; Difference of 0.000)
+Sakimoto Medley (Final Fantasy Tactics) of Live at Symphony Hall (Rating [actual]: 4.490625; Rating [percentile]:97.078%; ELO:97.078%; Difference of 0.000)
+Unrest - The End of Raging Winds of Etrian Odyssey IV Super Arrange Version (Rating [actual]: 4.4; Rating [percentile]:97.072%; ELO:97.075%; Difference of 0.003)
+Infinity Mijinion Stage of Mega Man X6 (Rating [actual]: 4.572; Rating [percentile]:97.087%; ELO:97.081%; Difference of 0.006)
+Blue Lagoon Golf Course - Australia of Neo Turf Masters (Rating [actual]: 3.8685715; Rating [percentile]:98.882%; ELO:98.876%; Difference of 0.006)
+The Last Dead Angel of Kirby 64: The Crystal Shards (Rating [actual]: 4.309091; Rating [percentile]:99.338%; ELO:99.344%; Difference of 0.006)
 ### Best Albums ###
 Flowstone Saga (1117.000) [3 songs]
 Balloon Fight (1112.500) [2 songs]

@@ -26,9 +26,14 @@ function make_message(){
         console.error(err);
     }
 
-    quickMessage += '### Biggest differences ###\n';
+    quickMessage += '### Smallest differences ###\n';
     for(let i=0;i<5;i++){
-        quickMessage += results[i]["title"] + ' of '+results[i]["album"] + ' (Vote [percentile]:'+parseFloat(results[i]['rating']).toFixed(3)+'; ELO:'+parseFloat(results[i]['rankscore']).toFixed(3)+'%; Difference of '+parseFloat(results[i]['scoreDiff']).toFixed(3)+')\n';
+        quickMessage += results[i]["title"] + ' of '+results[i]["album"] + ' (Rating [actual]: '+parseFloat(results[i]['rating'])+'; Rating [percentile]:'+parseFloat(results[i]['vote_percentile']).toFixed(3)+'%; ELO:'+parseFloat(results[i]['rankscore']).toFixed(3)+'%; Difference of '+parseFloat(results[i]['scoreDiff']).toFixed(3)+')\n';
+    }
+
+    quickMessage += '### Biggest differences ###\n';
+    for(let i=1;i<6;i++){
+        quickMessage += results[results.length-i]["title"] + ' of '+results[results.length-i]["album"] + ' (Rating [actual]: '+parseFloat(results[results.length-i]['rating'])+'; Rating [percentile]:'+parseFloat(results[results.length-i]['vote_percentile']).toFixed(3)+'%; ELO:'+parseFloat(results[results.length-i]['rankscore']).toFixed(3)+'%; Difference of '+parseFloat(results[results.length-i]['scoreDiff']).toFixed(3)+')\n';
     }
 
     // Best Albums

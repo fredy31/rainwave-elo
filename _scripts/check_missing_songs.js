@@ -27,7 +27,7 @@ function check_missing_songs(){
         if(i>10){
             setTimeout(()=>{
                 check_missing_songs();
-            },1000)
+            },500)
         }
         console.log(i + ' missing songs found out of '+fine+'!')
     })
@@ -40,34 +40,51 @@ async function fetchInfoOfSong(songID){
         body: fetchBody,
         headers: {'Content-Type': 'application/x-www-form-urlencoded'}
     })
+    let filename = __dirname+'/../data/songs/'+songID+'.json'
     if(!response.ok){
         console.error('Error on Song ID '+songID);
+        if (!fs.existsSync(filename.replace('.json','.txt'))) {
+            fs.writeFileSync(filename.replace('.json','.txt'),'x');
+        }
+        return false;
         //throw new Error(`response status: ${response.status}`)
     }
     const song = await response.json();
-    let filename = __dirname+'/../data/songs/'+songID+'.json'
+    
     let trackinfo = '';
     //console.log(song);
-    if(song.song.id){
-        trackinfo = {
-            id:song.song.id,
-            album:song.song.albums[0].name,
-            artist:song.song.artists[0].name,
-            title:song.song.title,
-            rating:song.song.rating
-        };
-        if (!fs.existsSync(filename)) {
-            fs.writeFileSync(filename,JSON.stringify(trackinfo));
+    try{
+        if(song.song.id){
+            trackinfo = {
+                id:song.song.id,
+                album:song.song.albums[0].name,
+                artist:song.song.artists[0].name,
+                title:song.song.title,
+                rating:song.song.rating
+            };
+            if (!fs.existsSync(filename)) {
+                fs.writeFileSync(filename,JSON.stringify(trackinfo));
+            }
+        }else{
+            console.log(songID + ': API returns an error.')
+            /*trackinfo = {
+                id:songID,
+                album:'Invalid song',
+                artist:'Invalid song',
+                title:'Invalid song',
+                rating:0
+            };*/
+            if (!fs.existsSync(filename.replace('.json','.txt'))) {
+                fs.writeFileSync(filename.replace('.json','.txt'),'x');
+            }
         }
-    }else{
-        console.log(songID + ': API returns an error.')
-        /*trackinfo = {
-            id:songID,
-            album:'Invalid song',
-            artist:'Invalid song',
-            title:'Invalid song',
-            rating:0
-        };*/
+    }catch(err){
+        console.log(songID + ': API returns a 500 error.')
+        //console.log(song);
+        //console.log(err);
+        if (!fs.existsSync(filename.replace('.json','.txt'))) {
+            fs.writeFileSync(filename.replace('.json','.txt'),'x');
+        }
     }
     
 }
