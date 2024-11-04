@@ -1,30 +1,30 @@
 ### Best songs per score ###
-Whoa I'm In Space Cuba (BONUS CHIP MIX) of Mighty Switch Force! (1189)
-Kick Your A of Beatmania IIDX 7th Style (1189)
-Sepulchre Soirée of Crypt of the NecroDancer: OverClocked (1189)
-Main Theme of Bubble Bobble (1180)
-Kakkoi! of Edge (1180)
+Kick Your A of Beatmania IIDX 7th Style (1306)
+Faster Than Rock of FTL: Faster Than Light (1279)
+Thunderstruck of 25YEARLEGEND: A Legend of Zelda Indie Game Composer Tribute (1270)
+Chrono Trigger of The Pink Album (1261)
+Monstrous Turtles! of Super Mario World (1261)
 ### Smallest differences ###
-Power of the Meat of Super Meat Boy (Rating [actual]: 3.2333333; Rating [percentile]:0.069%; ELO:29.457%; Difference of 29.388)
-Chrome Gadget of Act 1 (Rating [actual]: 3.2190475; Rating [percentile]:0.066%; ELO:29.454%; Difference of 29.388)
-Grand Ambience of X3: Reunion (Rating [actual]: 3.3125; Rating [percentile]:0.078%; ELO:29.460%; Difference of 29.382)
-Stay in Formation of Star Fox (Rating [actual]: 3.4709678; Rating [percentile]:0.093%; ELO:29.469%; Difference of 29.376)
-Super Mario Bros. 3 of Classic Video Game Music (Rating [actual]: 3.4689655; Rating [percentile]:0.090%; ELO:29.466%; Difference of 29.376)
+The Power of Cornelia of Final Fantasy: Random Encounter (Rating [actual]: 2.972; Rating [percentile]:0.081%; ELO:46.379%; Difference of 46.298)
+CLONED of GLITCH (Rating [actual]: 3.0117648; Rating [percentile]:0.096%; ELO:46.382%; Difference of 46.286)
+Timber Owls of Seas of Time: FFVIII Tribute (Rating [actual]: 3.1; Rating [percentile]:0.229%; ELO:46.385%; Difference of 46.155)
+Aquarius of Castlevania: Scarlet Night (Rating [actual]: 3.2; Rating [percentile]:0.471%; ELO:46.388%; Difference of 45.917)
+Waffle Waltz of FAMIFOOD (Rating [actual]: 3.231579; Rating [percentile]:0.552%; ELO:46.390%; Difference of 45.839)
 ### Biggest differences ###
-Sakimoto Medley (Final Fantasy Tactics) of Live at Symphony Hall (Rating [actual]: 4.490625; Rating [percentile]:97.078%; ELO:97.078%; Difference of 0.000)
-Unrest - The End of Raging Winds of Etrian Odyssey IV Super Arrange Version (Rating [actual]: 4.4; Rating [percentile]:97.072%; ELO:97.075%; Difference of 0.003)
-Infinity Mijinion Stage of Mega Man X6 (Rating [actual]: 4.572; Rating [percentile]:97.087%; ELO:97.081%; Difference of 0.006)
-Blue Lagoon Golf Course - Australia of Neo Turf Masters (Rating [actual]: 3.8685715; Rating [percentile]:98.882%; ELO:98.876%; Difference of 0.006)
-The Last Dead Angel of Kirby 64: The Crystal Shards (Rating [actual]: 4.309091; Rating [percentile]:99.338%; ELO:99.344%; Difference of 0.006)
+Cemetery Stage of Turok 2: Seeds of Evil (Rating [actual]: 3.9510205; Rating [percentile]:36.264%; ELO:36.264%; Difference of 0.000)
+Quest Finished of Dark Lord (Rating [actual]: 3.9529412; Rating [percentile]:36.266%; ELO:36.266%; Difference of 0.000)
+Venice of Mission: Impossible (Rating [actual]: 3.955; Rating [percentile]:36.269%; ELO:36.269%; Difference of 0.000)
+Maniac of Shooting of Sexy Parodius (Rating [actual]: 3.956818; Rating [percentile]:36.272%; ELO:36.272%; Difference of 0.000)
+Bucky o Hare Medley (Bucky o Hare) of Music System 2 (Rating [actual]: 3.9574468; Rating [percentile]:36.275%; ELO:36.275%; Difference of 0.000)
 ### Best Albums ###
-Flowstone Saga (1117.000) [3 songs]
-Balloon Fight (1112.500) [2 songs]
-Final Fantasy IV Piano Collections (1103.500) [2 songs]
-FTL: Faster Than Light (1096.750) [4 songs]
-Sonic Spinball NES Arrange OST (1094.500) [2 songs]
+Balloon Fight (1211.500) [2 songs]
+Sonic Spinball (1139.500) [2 songs]
+Mario Kart: Double Dash!! (1126.000) [2 songs]
+Hero Quest (1126.000) [2 songs]
+Castlevania: Dracula X (1123.000) [3 songs]
 ### Best Artists ###
-Romain Gauthier (1103.500) [2 songs]
-Nobuo Uematsu, Shiro Satou, Osamu Saitou, Toshiyuki Mori (1103.500) [2 songs]
-Akito Nakatsuka, Kenji Yamamoto, Yukio Kaneoka (1102.000) [3 songs]
-ansgaros (1090.000) [2 songs]
-Marshall Parker (1081.000) [3 songs]
+Akito Nakatsuka, Kenji Yamamoto, Yukio Kaneoka (1156.000) [3 songs]
+Kade Kalka (1148.500) [2 songs]
+Nobuo Uematsu, Shotaro Shima  (1121.500) [2 songs]
+Chimpazilla, timaeus222 (1120.000) [3 songs]
+Geoffrey Taucer, prophetik music (1112.500) [2 songs]

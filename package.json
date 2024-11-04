@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "full_beans": "npm run fetch_elections_day && npm run calculate_elo && npm run check_missing_songs && npm run build_export_csv && npm run biggest_differences_score && npm run average_for_album && npm run average_for_artist && npm run make_message",
+    "full_beans_no_song_check": "npm run fetch_elections_day && npm run calculate_elo && npm run build_export_csv && npm run biggest_differences_score && npm run average_for_album && npm run average_for_artist && npm run make_message",
     "fetch_elections_day": "node _scripts/fetch_elections_daily.js fetch_elections",
     "calculate_elo": "node _scripts/elo_calculator.js",
     "check_missing_songs": "node _scripts/check_missing_songs.js",
