@@ -1,30 +1,30 @@
 ### Best songs per score ###
-Kick Your A of Beatmania IIDX 7th Style (1306)
-Faster Than Rock of FTL: Faster Than Light (1279)
-Thunderstruck of 25YEARLEGEND: A Legend of Zelda Indie Game Composer Tribute (1270)
-Chrono Trigger of The Pink Album (1261)
-Monstrous Turtles! of Super Mario World (1261)
+Pressing Pursuit - Cornered of Phoenix Wright: Ace Attorney (1418)
+Guile Stage of Street Fighter II: The World Warrior (1399)
+Caravan Bowser of Super Cartography Bros. (1397)
+Opening - Bombing Mission of The Black Mages III: Darkness and Starlight (1395)
+Title Theme of Chip 'n Dale: Rescue Rangers (1394)
 ### Smallest differences ###
-The Power of Cornelia of Final Fantasy: Random Encounter (Rating [actual]: 2.972; Rating [percentile]:0.081%; ELO:46.379%; Difference of 46.298)
-CLONED of GLITCH (Rating [actual]: 3.0117648; Rating [percentile]:0.096%; ELO:46.382%; Difference of 46.286)
-Timber Owls of Seas of Time: FFVIII Tribute (Rating [actual]: 3.1; Rating [percentile]:0.229%; ELO:46.385%; Difference of 46.155)
-Aquarius of Castlevania: Scarlet Night (Rating [actual]: 3.2; Rating [percentile]:0.471%; ELO:46.388%; Difference of 45.917)
-Waffle Waltz of FAMIFOOD (Rating [actual]: 3.231579; Rating [percentile]:0.552%; ELO:46.390%; Difference of 45.839)
+The Darkness Is Already Here of Arcadia Legends (Rating [actual]: 2.7411764; Rating [percentile]:0.064%; ELO:53.740%; Difference of 53.676)
+Electrobattle of Return All Robots! (Rating [actual]: 2.961111; Rating [percentile]:0.147%; ELO:53.742%; Difference of 53.595)
+Ukulele de Chocobo of Beyond the Mist (Rating [actual]: 3.0384614; Rating [percentile]:0.277%; ELO:53.745%; Difference of 53.468)
+Boss Battle of Hylian Downfall (Rating [actual]: 3.1; Rating [percentile]:0.466%; ELO:53.748%; Difference of 53.282)
+Gargan Roo of Beyond the Mist (Rating [actual]: 3.1789474; Rating [percentile]:0.817%; ELO:53.751%; Difference of 52.933)
 ### Biggest differences ###
-Cemetery Stage of Turok 2: Seeds of Evil (Rating [actual]: 3.9510205; Rating [percentile]:36.264%; ELO:36.264%; Difference of 0.000)
-Quest Finished of Dark Lord (Rating [actual]: 3.9529412; Rating [percentile]:36.266%; ELO:36.266%; Difference of 0.000)
-Venice of Mission: Impossible (Rating [actual]: 3.955; Rating [percentile]:36.269%; ELO:36.269%; Difference of 0.000)
-Maniac of Shooting of Sexy Parodius (Rating [actual]: 3.956818; Rating [percentile]:36.272%; ELO:36.272%; Difference of 0.000)
-Bucky o Hare Medley (Bucky o Hare) of Music System 2 (Rating [actual]: 3.9574468; Rating [percentile]:36.275%; ELO:36.275%; Difference of 0.000)
+Thug HQ of Ratchet & Clank: Going Commando (Rating [actual]: 3.3885715; Rating [percentile]:2.912%; ELO:2.912%; Difference of 0.000)
+Trantor of Vortex (Rating [actual]: 4.1466665; Rating [percentile]:22.800%; ELO:22.800%; Difference of 0.000)
+Kind of Betus Blue (Betus Blues Piano) of Super Meat Boy (Rating [actual]: 3.981132; Rating [percentile]:35.880%; ELO:35.880%; Difference of 0.000)
+Snake Rattle n Roll - Stage 1 of Bitpop? Vol. 2 (Rating [actual]: 3.6; Rating [percentile]:56.483%; ELO:56.483%; Difference of 0.000)
+Flow of FZ: Side F (Rating [actual]: 4.0507936; Rating [percentile]:80.907%; ELO:80.907%; Difference of 0.000)
 ### Best Albums ###
-Balloon Fight (1211.500) [2 songs]
-Sonic Spinball (1139.500) [2 songs]
-Mario Kart: Double Dash!! (1126.000) [2 songs]
-Hero Quest (1126.000) [2 songs]
-Castlevania: Dracula X (1123.000) [3 songs]
+Balloon Fight (1339.000) [2 songs]
+Too Bleep to Blop (1301.500) [2 songs]
+Sonic Spinball (1298.500) [2 songs]
+3D Pinball: Space Cadet (1295.500) [2 songs]
+Tower Of Heaven (1286.500) [4 songs]
 ### Best Artists ###
-Akito Nakatsuka, Kenji Yamamoto, Yukio Kaneoka (1156.000) [3 songs]
-Kade Kalka (1148.500) [2 songs]
-Nobuo Uematsu, Shotaro Shima  (1121.500) [2 songs]
-Chimpazilla, timaeus222 (1120.000) [3 songs]
-Geoffrey Taucer, prophetik music (1112.500) [2 songs]
+Nobuo Uematsu, Shotaro Shima  (1316.500) [2 songs]
+8bit bEtty (1301.500) [2 songs]
+Koji Kondo, Asuka Ohta (1287.667) [3 songs]
+Neon Deity Games (1279.000) [2 songs]
+Hikaru Utada (1264.500) [2 songs]

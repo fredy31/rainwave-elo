@@ -8,3 +8,4 @@ config.json
 /data/results/!.gitignore
 /node_modules/
 /data/full-results*
+bash.exe.stackdump
